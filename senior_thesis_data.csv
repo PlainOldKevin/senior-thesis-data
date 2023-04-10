@@ -1,0 +1,930 @@
+Yr#,Gm#,Date,Batter,Tm,Opp,Pitcher,Score,StSc,InnSc,BOP,Pos,Event,Inn,RoB,Out,Pit(cnt),RBI,WPA,RE24,LI,Play Description
+1,1,4/6/2000,Mike Difelice,TBD,@MIN,Hector Carrasco,tied 6-6,0,1,7,2,Out,t9,-2-,0,3 (1-1),0,-0.01,-0.23,2.49,Bunt Groundout: 1B-2B/Sacrifice; Graffanino to 3B
+2,1,4/8/2000,Luis Gonzalez,ARI,PIT,Jason Christiansen,tied 5-5,0,1,3,7,Out,b9,12-,0,2(1-0),0,0.03,-0.11,3.1,Bunt Groundout: 3B-1B/Sacrifice; Frias to 3B; Bell to 2B
+3,1,4/13/2000,Mike Difelice,TBD,CHW,Bob Howry,down 5-4,-1,0,8,2,Out,b9,12-,0,1(0-0),0,0.02,-0.11,5.9,Bunt Groundout: 1B-2B/Sacrifice; Castilla to 3B; Graffanino to 2B
+4,1,4/17/2000,Gabe Kapler,TEX,NYY,Allen Watson,down 5-4,-1,-1,7,9,FC,b11,12-,0,5(3-1),0,0.2,0.82,5.86,Fielder's Choice C/Sacrifice Bunt; McDonald to 3B; Mateo to 2B; Kapler to 1B
+5,1,4/20/2000,Alex Gonzalez,FLA,PIT,Mike Williams,tied 2-2,0,1,2,6,Out,b14,-2-,0,4(2-1),0,0.02,-0.19,2.54,Bunt Groundout: P-1B/Sacrifice; Bautista to 3B
+6,1,5/4/2000,Chad Curtis,TEX,@TBD,Albie Lopez,tied 7-7,0,0,2,7,Out,t9,12-,0,4(2-1),0,0.01,-0.11,3.59,Bunt Groundout: P-2B/Sacrifice; Dransfeldt to 3B; Clayton to 2B
+7,1,5/5/2000,F.P. Santangelo,LAD,HOU,Doug Henry,tied 2-2,0,1,9,11,Out,b9,-2-,0,2(0-1),0,0.02,-0.19,2.54,Bunt Groundout: P-2B/Sacrifice; Cora to 3B
+8,1,5/12/2000,Travis Dawkins,CIN,@HOU,Mike Maddux,tied 3-3,0,4,9,6,Out,t11,12-,0,3(1-1),0,0.01,-0.12,3.57,Bunt Groundout: P-2B/Sacrifice; Boone to 3B; Ochoa to 2B
+9,1,5/13/2000,Carlos Febles,KCR,@CLE,Steve Reed,tied 5-5,0,1,2,4,Out,t12,-2-,0,2(0-1),0,-0.01,-0.22,2.51,Bunt Groundout: P-2B/Sacrifice; Damon to 3B
+10,1,5/16/2000,Mark Loretta,MIL,HOU,Jose Cabrera,tied 5-5,0,0,2,6,Out,b13,-2-,0,1(0-0),0,0.01,-0.2,2.52,Bunt Groundout: P-2B/Sacrifice; Belliard to 3B
+11,1,5/18/2000,Luis Gonzalez,ARI,@MON,Matt Blank,tied 6-6,0,2,3,7,Out,t9,12-,0,1(0-0),0,0.02,-0.11,3.6,Bunt Groundout: 3B-2B/Sacrifice; Womack to 3B; Bell to 2B
+12,1,5/19/2000,Mark Sweeney,MIL,SFG,Robb Nen,tied 10-10,0,1,9,11,Out,b10,-2-,0,3(2-0),0,0.01,-0.2,2.52,Bunt Groundout: P-1B/Sacrifice; Mouton to 3B
+13,1,5/22/2000,Robin Ventura,NYM,@SDP,Trevor Hoffman,down 1-0,-1,-1,5,5,Out,t9,12-,0,2(0-1),0,0.01,-0.09,5.4,Bunt Groundout: P-1B/Sacrifice; Alfonzo to 3B; Piazza to 2B
+14,1,5/29/2000,Luis Polonia,DET,TEX,John Wetteland,down 3-2,-1,-1,6,11,Out,b9,12-,0,3(1-1),0,0.02,-0.11,5.95,Bunt Groundout: P-2B/Sacrifice; Palmer to 3B; Higginson to 2B
+15,1,6/9/2000,Johnny Damon,KCR,PIT,Jason Christiansen,tied 5-5,0,1,1,7,Out,b10,-2-,0,1(0-0),0,0.01,-0.23,2.41,Bunt Groundout: 1B unassisted/Sacrifice; Sanchez to 3B
+16,1,6/11/2000,Keith Osik,PIT,@KCR,Jerry Spradlin,tied 5-5,0,5,9,2,Out,t10,12-,0,2(0-1),0,0.01,-0.12,3.54,Bunt Groundout: 1B-2B/Sacrifice; Nunez to 3B; Benjamin to 2B
+17,1,6/25/2000,Alberto Castillo,TOR,BOS,Derek Lowe,tied 5-5,0,0,8,2,Out,b10,12-,0,2(1-0),0,0.02,-0.12,3.04,Bunt Groundout: 3B-2B/Sacrifice; Cruz to 3B; Cordova to 2B
+18,1,6/28/2000,Mark Lewis,BAL,@BOS,Bryce Florie,tied 7-7,0,1,6,5,Out,t11,-2-,0,4(2-1),0,-0.01,-0.23,2.5,Bunt Groundout: P-2B/Sacrifice; Surhoff to 3B
+19,1,7/9/2000,Mike Bordick,BAL,@PHI,Jeff Brantley,down 4-3,-1,1,2,6,Out,t9,12-,0,2(0-1),0,0,-0.11,5.26,Bunt Groundout: 3B-2B/Sacrifice; Matos to 3B; Anderson to 2B
+20,1,7/13/2000,Enrique Wilson,CLE,PIT,Scott Sauerbeck,tied 3-3,0,1,4,10,Out,b10,-2-,0,5(3-1),0,0.01,-0.22,2.43,Bunt Groundout: P-1B/Sacrifice; Sexson to 3B
+21,1,7/16/2000,Kevin Nicholson,SDP,ANA,Troy Percival,down 5-4,-1,0,8,6,Out,b9,-2-,0,1(0-0),0,-0.03,-0.19,4.34,Bunt Groundout: 1B unassisted/Sacrifice; Martin to 3B
+22,1,7/16/2000,Reggie Sanders,ATL,@TBD,Jim Mecir,tied 4-4,0,2,8,7,Out,t9,12-,0,1(0-0),0,0.01,-0.11,3.59,Bunt Groundout: P-2B/Sacrifice; Hubbard to 3B; Lopez to 2B
+23,1,7/19/2000,Kevin Nicholson,SDP,@SFG,Alan Embree,tied 3-3,0,1,2,11,Out,t10,-2-,0,1(0-0),0,0,-0.19,2.61,Bunt Groundout: 1B-2B/Sacrifice; Owens to 3B
+24,1,7/23/2000,Jeffrey Hammonds,COL,SDP,Trevor Hoffman,down 4-3,-1,0,6,9,Out,b9,-2-,0,1(0-0),0,-0.05,-0.26,4.15,Bunt Groundout: P-2B/Sacrifice; Petrick to 3B
+25,1,7/29/2000,Joe Oliver,SEA,TOR,Lance Painter,tied 5-5,0,0,8,2,Out,b10,12-,0,1(0-0),0,0.03,-0.11,3.14,Bunt Groundout: P-2B/Sacrifice; Cameron to 3B; Ibanez to 2B
+26,1,7/30/2000,Herbert Perry,CHW,@ANA,Al Levine,tied 7-7,0,4,5,5,FC,t10,12-,0,1(0-0),0,0.13,0.82,3.55,Fielder's Choice C/Sacrifice Bunt; Thomas to 3B; Ordonez to 2B; Perry to 1B
+27,1,8/11/2000,Tim Bogar,HOU,@PHI,Vicente Padilla,tied 2-2,0,5,2,6,RoE,t9,12-,0,2(0-1),0,0.13,0.83,3.62,Reached on E1/Sacrifice Bunt; Barker to 3B; Lugo to 2B
+28,1,8/14/2000,Terry Jones,MON,COL,Jose Jimenez,down 4-3,-1,-1,7,8,Out,b9,-2-,0,1(0-0),0,-0.04,-0.21,4.28,Bunt Groundout: 1B-2B/Sacrifice; Blum to 3B
+29,1,8/21/2000,Bengie Molina,ANA,@BOS,Derek Lowe,tied 5-5,0,1,7,2,Out,t11,-2-,0,1(0-0),0,-0.01,-0.23,2.5,Bunt Groundout: 3B-2B/Sacrifice; Glaus to 3B
+30,2,8/21/2000,Adam Kennedy,ANA,@BOS,Derek Lowe,tied 5-5,0,1,8,4,Out,t11,0,1,2(1-0),1,0.12,0.1,4.1,Bunt Groundout: 3B-1B/Sacrifice; Glaus Scores
+31,1,8/22/2000,Tomas Perez,PHI,@CIN,Larry Luebbers,tied 4-4,0,1,8,6,Out,t9,12-,0,1(0-0),0,0.02,-0.11,3.61,Bunt Groundout: 3B-2B/Sacrifice; Sefcik to 3B; Anderson to 2B
+32,1,8/29/2000,Gary Matthews,CHC,SDP,Trevor Hoffman,tied 6-6,0,1,2,7,Out,b13,-2-,0,3(0-2),0,0.01,-0.2,2.52,Bunt Groundout: P-1B/Sacrifice; Young to 3B
+33,1,9/2/2000,Edgar Renteria,STL,NYM,Mike Hampton,tied 1-1,0,1,7,6,Out,b9,-2-,0,1(0-0),0,0.01,-0.21,2.49,Bunt Groundout: P-1B/Sacrifice; Drew to 3B
+34,1,9/13/2000,Mike Cameron,SEA,KCR,Blake Stein,tied 1-1,0,0,5,8,Out,b9,12-,0,1(0-0),0,0.03,-0.11,3.14,Bunt Groundout: P-2B/Sacrifice; Rodriguez to 3B; Martinez to 2B
+35,1,9/20/2000,Scott Sheldon,TEX,@MIN,LaTroy Hawkins,tied 3-3,0,1,6,5,Out,t11,-2-,0,1(0-0),0,-0.01,-0.23,2.49,Bunt Groundout: P-2B/Sacrifice; Ledee to 3B
+36,1,9/22/2000,José Cruz,TOR,TBD,Roberto Hernandez,down 3-2,-1,-1,8,8,Out,b9,12-,0,2(0-1),0,0.02,-0.12,5.83,Bunt Groundout: P-2B/Sacrifice; Batista to 3B; Wise to 2B
+37,1,9/28/2000,Cristian Guzman,MIN,@CLE,Bob Wickman,tied 3-3,0,1,2,6,Out,t10,12-,0,1(0-0),0,0.01,-0.12,3.56,Bunt Groundout: P-2B/Sacrifice; Rivas to 3B; Hocking to 2B
+38,1,10/1/2000,Geoff Blum,MON,@NYM,Pat Mahomes,tied 2-2,0,0,5,5,Out,t11,12-,0,2(1-0),0,0.02,-0.1,3.66,Bunt Groundout: P-2B/Sacrifice; Guerrero to 3B; Tracy to 2B
+39,1,10/1/2000,Russ Johnson,TBD,BOS,Rich Croushore,tied 2-2,0,1,6,5,Out,b10,-2-,0,4(2-1),0,0.01,-0.22,2.46,Bunt Groundout: 3B-2B/Sacrifice; Tyner to 3B
+40,1,4/2/2001,Travis Lee,PHI,@FLA,Antonio Alfonseca,tied 5-5,0,0,6,3,Out,t10,12-,0,1(0-0),0,0.02,-0.09,3.71,Bunt Groundout: 3B-1B/Sacrifice; Rolen to 3B; Burrell to 2B
+41,1,4/4/2001,Bill Mueller,CHC,MON,Ugueth Urbina,down 3-2,-1,-1,2,5,Out,b9,-2-,0,5(3-1),0,-0.03,-0.18,4.35,Bunt Groundout: P-2B/Sacrifice; Young to 3B
+42,1,4/4/2001,José Hernández,MIL,@HOU,Jay Powell,tied 5-5,0,1,7,6,Out,t12,-2-,0,1(0-0),0,0,-0.21,2.57,Bunt Groundout: 3B-2B/Sacrifice; Hammonds to 3B
+43,1,4/9/2001,Ray Lankford,STL,COL,Gabe White,tied 2-2,0,1,6,7,FC,b9,-2-,0,2(0-1),0,0.12,0.72,2.54,Fielder's Choice P/Sacrifice Bunt; Drew to 3B; Lankford to 1B
+44,1,4/10/2001,Brad Ausmus,HOU,@MIL,Curt Leskanic,tied 0-0,0,3,7,2,Out,t9,12-,0,3(1-1),0,0.02,-0.09,3.7,Bunt Groundout: P-2B/Sacrifice; Hidalgo to 3B; Ward to 2B
+45,1,4/17/2001,Denny Hocking,MIN,KCR,Jason Grimsley,down 5-4,-1,1,2,4,Out,b9,12-,0,1(0-0),0,0.02,-0.11,5.98,Bunt Groundout: P-1B/Sacrifice; Allen to 3B; Guzman to 2B
+46,1,4/19/2001,Donzell McDonald,NYY,@TOR,Billy Koch,tied 5-5,0,0,9,11,Out,t12,-2-,0,3(1-1),0,0,-0.21,2.57,Bunt Groundout: P-1B/Sacrifice; Brosius to 3B
+47,1,4/27/2001,Angel Pena,LAD,PHI,Wayne Gomes,tied 3-3,0,1,7,2,Out,b9,-2-,0,1(0-0),0,0.02,-0.17,2.61,Bunt Groundout: P-2B/Sacrifice; Hansen to 3B
+48,1,4/28/2001,Timo Perez,NYM,@STL,Steve Kline,tied 5-5,0,0,1,9,Out,t9,-2-,0,3(2-0),0,0,-0.19,2.61,Bunt Groundout: P-1B/Sacrifice; Alfonzo to 3B
+49,1,5/2/2001,Placido Polanco,STL,@FLA,Antonio Alfonseca,tied 2-2,0,0,2,5,Out,t10,-2-,0,3(1-1),0,0,-0.18,2.63,Bunt Groundout: C-2B/Sacrifice; Vina to 3B
+50,1,5/15/2001,Brad Ausmus,HOU,@CHC,Todd Van Poppel,tied 7-7,0,2,8,2,Out,t12,-2-,0,1(0-0),0,0,-0.18,2.64,Bunt Groundout: 1B-2B/Sacrifice; Castilla to 3B
+51,1,5/15/2001,Johnny Damon,OAK,NYY,Mike Stanton,tied 2-2,0,0,1,7,Out,b9,12-,0,3(1-1),0,0.03,-0.1,3.19,Bunt Groundout: P-2B/Sacrifice; Chavez to 3B; Hernandez to 2B
+52,2,5/15/2001,Chuck Knoblauch,NYY,@OAK,T.J. Mathews,tied 2-2,0,0,1,7,Out,t12,-2-,0,3(1-1),0,0,-0.2,2.59,Bunt Groundout: P-2B/Sacrifice; Brosius to 3B
+53,3,5/15/2001,Mark Bellhorn,OAK,NYY,Ramiro Mendoza,tied 2-2,0,1,4,10,Out,b12,12-,0,2(0-1),0,0.03,-0.1,3.19,Bunt Groundout: P-2B/Sacrifice; Menechino to 3B; Giambi to 2B
+54,1,5/27/2001,Bret Boone,SEA,@KCR,Jose Santiago,tied 4-4,0,1,5,4,Out,t11,12-,0,2(0-1),0,0.02,-0.11,3.59,Bunt Groundout: P-2B/Sacrifice; Gipson to 3B; Olerud to 2B
+55,1,5/29/2001,Benito Santiago,SFG,ARI,Miguel Batista,tied 0-0,0,0,6,2,Out,b17,-2-,0,1(0-0),0,0.02,-0.18,2.6,Bunt Groundout: 3B-2B/Sacrifice; Rios to 3B
+56,1,6/5/2001,Michael Tucker,CIN,@MIL,Will Cunnane,tied 3-3,0,0,2,7,Out,t11,12-,0,3(1-1),0,0.02,-0.09,3.7,Bunt Groundout: P-2B/Sacrifice; Clark to 3B; Ochoa to 2B
+57,1,6/9/2001,Gary Matthews,CHC,@CHW,Keith Foulke,tied 3-3,0,1,2,8,FC,t10,-2-,0,4(1-2),0,0.13,0.71,2.55,Fielder's Choice P/Sacrifice Bunt; Young to 3B; Matthews to 1B
+58,1,6/9/2001,Henry Blanco,MIL,@DET,Matt Anderson,tied 4-4,0,1,9,2,Out,t9,-2-,0,2(0-1),0,0,-0.18,2.63,Bunt Groundout: 3B-2B/Sacrifice; Belliard to 3B
+59,1,6/9/2001,Rich Aurilia,SFG,@OAK,Jason Isringhausen,down 3-2,-1,0,2,6,Out,t9,-2-,0,1(0-0),0,-0.04,-0.2,3.76,Bunt Groundout: P-1B/Sacrifice; Murray to 3B
+60,1,6/26/2001,Brady Clark,CIN,@STL,Gene Stechschulte,tied 8-8,0,2,2,11,RoE,t9,-2-,0,4(2-1),0,0.21,1,2.61,Reached on E1 (throw)/Sacrifice Bunt; Ochoa Scores/No RBI; Clark to 2B
+61,1,7/8/2001,Ramon Martinez,SFG,MIL,Mike DeJean,tied 4-4,0,0,7,4,FC,b12,-2-,0,3(1-1),0,0.13,0.72,2.6,Fielder's Choice C/Sacrifice Bunt; Santiago to 3B; Martinez to 1B
+62,1,7/16/2001,Scott Brosius,NYY,@PHI,Wayne Gomes,tied 3-3,0,0,7,5,Out,t10,-2-,0,3(2-0),0,0,-0.19,2.63,Bunt Groundout: 1B-2B/Sacrifice; Spencer to 3B
+63,1,7/21/2001,Luis Lopez,TOR,@NYY,Mariano Rivera,tied 3-3,0,2,6,5,Out,t9,12-,0,2(0-1),0,0.02,-0.11,3.63,Bunt Groundout: 1B-2B/Sacrifice; Delgado to 3B; Fullmer to 2B
+64,1,7/25/2001,Henry Blanco,MIL,LAD,Matt Herges,tied 3-3,0,1,8,2,Out,b9,-2-,0,2(0-1),0,0.02,-0.19,2.57,Bunt Groundout: 1B-2B/Sacrifice; Mouton to 3B
+65,1,7/31/2001,Rey Ordóñez,NYM,@HOU,Billy Wagner,tied 2-2,0,0,8,6,Out,t9,-2-,0,2(0-1),0,0,-0.21,2.57,Bunt Groundout: P-2B/Sacrifice; Alfonzo to 3B
+66,1,7/31/2001,Pokey Reese,CIN,@LAD,Giovanni Carrara,tied 1-1,0,0,8,6,Out,t10,-2-,0,1(0-0),0,0,-0.17,2.66,Bunt Groundout: C-2B/Sacrifice; LaRue to 3B
+67,1,8/3/2001,Ronnie Belliard,MIL,ATL,Jose Cabrera,tied 2-2,0,1,1,4,Out,b11,-2-,0,2(1-0),0,0.02,-0.19,2.57,Bunt Groundout: 3B-2B/Sacrifice; Collier to 3B
+68,1,8/5/2001,Russ Johnson,TBD,@CHW,Keith Foulke,tied 4-4,0,2,9,11,Out,t9,3-Jan,1,1(0-0),1,0.13,0.1,4.92,Bunt Groundout: P-1B/Sacrifice; Rolls Scores; Flaherty to 2B
+69,1,8/6/2001,F.P. Santangelo,OAK,@DET,Danny Patterson,tied 3-3,0,3,9,11,Out,t9,12-,0,1(0-0),0,0.02,-0.09,3.71,Bunt Groundout: P-2B/Sacrifice; Chavez to 3B; Hernandez to 2B
+70,1,8/8/2001,Omar Vizquel,CLE,@MIN,Bob Wells,tied 2-2,0,6,2,6,Out,t10,12-,0,1(0-0),0,0.02,-0.11,3.63,Bunt Groundout: P-2B/Sacrifice; Díaz to 3B; Cabrera to 2B
+71,1,8/8/2001,Kerry Robinson,STL,@MON,Scott Strickland,down 3-2,-1,2,9,11,Out,t9,12-,0,2(1-0),0,0,-0.1,5.35,Bunt Groundout: P-2B/Sacrifice; Renteria to 3B; Marrero to 2B
+72,1,8/18/2001,Randy Velarde,TEX,@TOR,Billy Koch,tied 5-5,0,7,2,4,Out,t9,12-,0,5(3-1),0,0.02,-0.11,3.63,Bunt Groundout: P-2B/Sacrifice; Curtis to 3B; Catalanotto to 2B
+73,1,8/25/2001,David Bell,SEA,CLE,John Rocker,tied 2-2,0,1,7,5,RoE,b11,12-,0,2(1-0),0,0.18,1,3.23,*WALK-OFF*:*ENDED GAME*:Reached on E1 (throw to 1B)/Sacrifice Bunt; Martin Scores/unER/No RBI; Cameron to 2B
+74,1,8/28/2001,Eric Owens,FLA,@CHC,Jeff Fassero,tied 3-3,0,1,9,9,FC,t14,-2-,0,1(0-0),0,0.14,0.72,2.64,Fielder's Choice C/Sacrifice Bunt; Berg to 3B; Owens to 1B
+75,1,9/2/2001,Mark Grace,ARI,@SDP,Wascar Serrano,tied 0-0,0,0,4,3,Out,t12,12-,0,1(0-0),0,0.02,-0.08,3.76,Bunt Groundout: 1B unassisted/Sacrifice; Counsell to 3B; Gonzalez to 2B
+76,2,9/2/2001,Tony Womack,ARI,@SDP,Wascar Serrano,tied 0-0,0,0,1,6,Out,t13,12-,0,4(2-1),0,0.02,-0.08,3.76,Bunt Groundout: 3B-2B/Sacrifice; Barajas to 3B; Bell to 2B
+77,1,9/8/2001,Damian Miller,ARI,SDP,Trevor Hoffman,tied 6-6,0,0,9,2,Out,b9,-2-,0,2(1-0),0,0.01,-0.21,2.48,Bunt Groundout: P-2B/Sacrifice; Cummings to 3B
+78,1,9/8/2001,Rey Ordóñez,NYM,@FLA,Antonio Alfonseca,down 7-6,-1,2,8,6,Out,t9,12-,0,2(1-0),0,0.01,-0.09,5.44,Bunt Groundout: 3B-2B/Sacrifice; Toca to 3B; Payton to 2B
+79,1,9/9/2001,Jared Sandberg,TBD,@OAK,Jason Isringhausen,tied 3-3,0,0,8,5,Out,t9,12-,0,4(2-1),0,0.02,-0.1,3.66,Bunt Groundout: 1B-2B/Sacrifice; Winn to 3B; Grieve to 2B
+80,1,9/18/2001,Wilton Guerrero,CIN,CHC,Kyle Farnsworth,down 5-4,-1,1,7,6,Out,b9,12-,0,1(0-0),0,0.02,-0.11,5.98,Bunt Groundout: P-2B/Sacrifice; Boone to 3B; Young to 2B
+81,1,9/21/2001,Geronimo Gil,BAL,NYY,Mariano Rivera,down 6-5,-1,1,8,2,Out,b9,12-,0,1(0-0),0,0.02,-0.1,6.06,Bunt Groundout: P-2B/Sacrifice; Roberts to 3B; Anderson to 2B
+82,1,10/2/2001,Brian Roberts,BAL,TOR,Matt DeWitt,tied 3-3,0,1,2,4,Out,b9,-2-,0,5(3-1),0,0.02,-0.19,2.55,Bunt Groundout: 3B-2B/Sacrifice (Weak 3B); Raines to 3B
+83,1,4/1/2002,Jeff Cirillo,SEA,CHW,Keith Foulke,down 6-5,-1,-1,2,5,Out,b9,12-,0,2(1-0),0,0.02,-0.1,6.04,Bunt Groundout: 3B-2B/Sacrifice; McLemore to 3B; Suzuki to 2B
+84,1,4/10/2002,Gary Matthews,BAL,TBD,Esteban Yan,down 3-2,-1,-1,8,11,Out,b9,12-,0,2(0-1),0,0.02,-0.09,6.07,Bunt Groundout: P-2B/Sacrifice; Garcia to 3B; Mora to 2B
+85,1,4/10/2002,Lenny Harris,MIL,@STL,Jason Isringhausen,tied 5-5,0,0,6,11,Out,t10,-2-,0,2(1-0),0,0,-0.17,2.66,Bunt Groundout: P-1B/Sacrifice; Ochoa to 3B
+86,1,4/15/2002,Hank Blalock,TEX,SEA,Kazuhiro Sasaki,down 11-10,-1,0,8,5,Out,b9,-2-,0,2(1-0),0,-0.04,-0.21,4.28,Bunt Groundout: P-2B/Sacrifice; Mench to 3B
+87,1,4/18/2002,Aaron Boone,CIN,HOU,Ricky Stone,tied 4-4,0,1,5,5,Out,b10,12-,0,2(0-1),0,0.03,-0.09,3.23,Bunt Groundout: 3B-2B/Sacrifice; Encarnacion to 3B; Dunn to 2B
+88,1,4/19/2002,Mike Bordick,BAL,@TBD,Jesus Colome,tied 5-5,0,1,7,6,Out,t14,12-,0,1(0-0),0,0.02,-0.1,3.68,Bunt Groundout: P-2B/Sacrifice; Batista to 3B; Cordova to 2B
+89,2,4/19/2002,Brook Fordyce,BAL,@TBD,Jesus Colome,tied 5-5,0,1,8,2,Out,t14,-23,1,3(1-1),1,0.11,-0.06,3.98,Bunt Groundout: 2B unassisted/Sacrifice; Batista Scores; Cordova to 3B
+90,1,4/24/2002,Orlando Cabrera,MON,MIL,Mike Buddie,down 4-3,-1,0,5,6,Out,b12,12-,0,1(0-0),0,0.02,-0.09,6.08,Bunt Groundout: P-2B/Sacrifice; Guerrero to 3B; Stevens to 2B
+91,2,4/24/2002,Mike Mordecai,MON,MIL,Mike Buddie,down 4-3,-1,0,7,5,Out,b12,123,1,2(1-0),1,0.1,0.02,8.85,Bunt Groundout: P-1B/Sacrifice; Guerrero Scores; Stevens to 3B; Schneider to 2B
+92,3,4/24/2002,Brad Wilkerson,MON,MIL,Jose Cabrera,tied 4-4,0,1,8,7,Out,b15,-2-,0,4(2-1),0,0.02,-0.19,2.57,Bunt Groundout: P-1B/Sacrifice; Mordecai to 3B
+93,1,5/14/2002,Deivi Cruz,SDP,MON,Matt Herges,tied 4-4,0,1,5,6,Out,b9,12-,0,2(0-1),0,0.03,-0.07,3.38,Bunt Groundout: P-2B/Sacrifice; Trammell to 3B; Klesko to 2B
+94,1,5/15/2002,Orlando Cabrera,MON,@SDP,Steve Reed,tied 1-1,0,0,5,6,Out,t12,12-,0,1(0-0),0,0.02,-0.07,3.83,Bunt Groundout: 3B-1B/Sacrifice; Guerrero to 3B; Stevens to 2B
+95,1,5/19/2002,Joe Girardi,CHC,@MIL,Luis Vizcaino,tied 3-3,0,1,9,2,Out,t9,12-,0,2(0-1),0,0.02,-0.08,3.75,Bunt Groundout: C-2B/Sacrifice; Hill to 3B; Ojeda to 2B
+96,2,5/19/2002,Augie Ojeda,CHC,@MIL,Valerio De Los Santos,tied 4-4,0,1,8,6,Out,t11,-2-,0,3(1-1),0,0,-0.17,2.66,Bunt Groundout: 3B-2B/Sacrifice; Hill to 3B
+97,1,5/21/2002,Mike Mordecai,MON,ATL,Darren Holmes,tied 4-4,0,1,5,11,Out,b10,12-,0,1(0-0),0,0.03,-0.09,3.24,Bunt Groundout: 3B-2B/Sacrifice; Guerrero to 3B; Stevens to 2B
+98,1,5/24/2002,Trot Nixon,BOS,NYY,Steve Karsay,tied 8-8,0,1,6,9,Out,b11,12-,0,2(0-1),0,0.03,-0.11,3.14,Bunt Groundout: P-2B/Sacrifice; Henderson to 3B; Hillenbrand to 2B
+99,1,5/24/2002,Jeromy Burnitz,NYM,FLA,Vic Darensbourg,tied 4-4,0,1,4,9,Out,b10,12-,0,3(0-2),0,0.03,-0.08,3.31,Bunt Groundout: P-1B/Sacrifice; Alomar to 3B; Piazza to 2B
+100,1,5/25/2002,Orlando Cabrera,MON,PHI,Jose Mesa,tied 9-9,0,0,5,6,Out,b9,12-,0,1(0-0),0,0.03,-0.09,3.24,Bunt Groundout: P-2B/Sacrifice; Guerrero to 3B; O'Leary to 2B
+101,1,6/1/2002,Mark Loretta,MIL,@SDP,Trevor Hoffman,tied 3-3,0,1,9,11,Out,t9,-23,1,4(2-1),1,0.13,0,4.17,Bunt Groundout: P unassisted/Sacrifice; Belliard Scores/unER; Hernández to 3B
+102,1,6/4/2002,Cesar Izturis,LAD,@COL,Todd Jones,tied 4-4,0,6,1,6,Out,t9,-2-,0,1(0-0),0,-0.01,-0.21,2.55,Bunt Groundout: P-2B/Sacrifice; Roberts to 3B
+103,1,6/5/2002,Chris Stynes,CHC,@MIL,Mike DeJean,tied 1-1,0,4,1,4,Out,t10,12-,0,2(0-1),0,0.02,-0.08,3.75,Bunt Groundout: 1B-2B/Sacrifice; Bellhorn to 3B; Hill to 2B
+104,1,6/6/2002,Joe Lawrence,TOR,TBD,Travis Harper,tied 4-4,0,1,8,4,FC,b9,12-,0,4(2-1),0,0.11,0.83,3.13,Fielder's Choice P/Sacrifice Bunt; Woodward to 3B; Wells to 2B; Lawrence to 1B
+105,1,6/14/2002,Andy Fox,FLA,TBD,Victor Zambrano,tied 2-2,0,0,2,6,Out,b11,12-,0,2(1-0),0,0.03,-0.08,3.3,Bunt Groundout: 3B-2B/Sacrifice; Bush to 3B; Castillo to 2B
+106,1,6/16/2002,Dave Berg,TOR,@MON,Matt Herges,tied 5-5,0,0,2,4,Out,t9,-2-,0,2(0-1),0,0,-0.19,2.63,Bunt Groundout: 3B-1B/Sacrifice; Stewart to 3B
+107,1,6/18/2002,Ray Durham,CHW,@PHI,Jose Mesa,down 3-2,-1,0,1,4,Out,t9,12-,0,2(1-0),0,0.01,-0.08,5.56,Bunt Groundout: P-2B/Sacrifice; Liefer to 3B; Johnson to 2B
+108,1,6/19/2002,Gabe Kapler,TEX,@CHC,Jeff Fassero,tied 4-4,0,3,7,8,Out,t10,12-,0,1(0-0),0,0.02,-0.08,3.75,Bunt Groundout: P-2B/Sacrifice; Romano to 3B; Mench to 2B
+109,1,6/20/2002,Jose Macias,MON,KCR,Scott Mullen,tied 4-4,0,1,4,11,RoE,b11,-2-,0,5(3-1),0,0.19,0.76,2.57,*WALK-OFF*:*ENDED GAME*:Reached on E1 (throw)/Sacrifice Bunt; Guerrero Scores/No RBI/unER
+110,1,6/26/2002,Shane Spencer,NYY,@BAL,Willis Roberts,tied 7-7,0,0,9,9,FC,t9,-2-,0,2(0-1),0,0.14,0.72,2.62,Fielder's Choice C/Sacrifice Bunt; Johnson to 3B; Spencer to 1B
+111,1,6/26/2002,Benito Santiago,SFG,SDP,Rodney Myers,tied 5-5,0,1,5,2,Out,b12,12-,0,1(0-0),0,0.03,-0.08,3.32,Bunt Groundout: 3B-2B/Sacrifice; Sanders to 3B; Kent to 2B
+112,1,6/29/2002,Joe Girardi,CHC,@CHW,Antonio Osuna,down 5-4,-1,-1,9,2,Out,t9,-2-,0,2(0-1),0,-0.04,-0.2,3.74,Bunt Groundout: 1B-2B/Sacrifice; DeShields to 3B
+113,1,6/29/2002,Pokey Reese,PIT,@DET,Juan Acevedo,down 2-1,-1,-1,8,4,Out,t9,12-,0,3(2-0),0,0.01,-0.09,5.45,Bunt Groundout: 3B-2B/Sacrifice; Young to 3B; Benjamin to 2B
+114,1,7/11/2002,Eric Young Sr.,MIL,PIT,Mike Williams,down 3-2,-1,-1,2,4,Out,b10,-2-,0,2(0-1),0,-0.03,-0.17,4.36,Bunt Groundout: C-1B/Sacrifice; Sanchez to 3B
+115,1,7/12/2002,Mike Redmond,FLA,@CHC,Joe Borowski,tied 4-4,0,0,8,2,Out,t14,12-,0,2(1-0),0,0.02,-0.08,3.75,Bunt Groundout: 3B-2B/Sacrifice; Lee to 3B; Mordecai to 2B
+116,1,7/12/2002,Kenny Lofton,CHW,@DET,Juan Acevedo,down 2-1,-1,-1,7,8,Out,t9,12-,0,4(2-1),0,0.01,-0.09,5.45,Bunt Groundout: 3B-1B/Sacrifice; Liefer to 3B; Lee to 2B
+117,1,7/13/2002,Ron Gant,SDP,STL,Mike Crudale,tied 1-1,0,0,5,7,Out,b9,12-,0,2(1-0),0,0.03,-0.07,3.38,Bunt Groundout: 3B-2B/Sacrifice; Klesko to 3B; Nevin to 2B
+118,1,7/18/2002,Charles Gipson,SEA,@TEX,Juan Alvarez,tied 3-3,0,2,9,5,Out,t9,3-Jan,1,2(1-0),1,0.13,0.1,4.91,Bunt Groundout: P-1B/Sacrifice; Ugueto Scores; Relaford to 2B
+119,1,7/20/2002,Jerry Hairston,BAL,CHW,Antonio Osuna,down 3-2,-1,0,9,4,Out,b9,-2-,0,2(0-1),0,-0.03,-0.19,4.34,Bunt Groundout: P-2B/Sacrifice; Lopez to 3B
+120,1,7/20/2002,Enrique Wilson,NYY,BOS,Wayne Gomes,tied 8-8,0,1,3,5,Out,b11,12-,0,1(0-0),0,0.03,-0.1,3.17,Bunt Groundout: 3B-2B/Sacrifice; Soriano to 3B; Jeter to 2B
+121,1,7/28/2002,Omar Vizquel,CLE,DET,Juan Acevedo,down 6-5,-1,3,2,6,Out,b9,12-,0,3(1-1),0,0.02,-0.1,6.04,Bunt Groundout: 3B-2B/Sacrifice; Nagy to 3B; Lawton to 2B
+122,1,7/30/2002,Charles Gipson,SEA,DET,Jeff Farnsworth,tied 4-4,0,1,6,7,Out,b10,12-,0,4(2-1),0,0.03,-0.1,3.21,Bunt Groundout: P-2B/Sacrifice; Relaford to 3B; Olerud to 2B
+123,1,7/31/2002,Jacque Jones,MIN,CHW,Antonio Osuna,tied 1-1,0,1,1,7,FC,b10,-2-,0,1(0-0),0,0.12,0.72,2.52,Fielder's Choice P/Sacrifice Bunt; Rivas to 3B; Jones to 1B
+124,1,8/4/2002,Barry Larkin,CIN,@SDP,Trevor Hoffman,tied 10-10,0,5,7,6,RoE,t9,12-,0,2(1-0),0,0.14,0.85,3.83,Reached on E1/Sacrifice Bunt; Kearns to 3B; Branyan to 2B
+125,1,8/7/2002,Michael Young,TEX,@DET,Julio Santana,tied 2-2,0,5,8,4,RoE,t11,12-,0,1(0-0),0,0.14,0.85,3.72,Reached on E1/Sacrifice Bunt; Perry to 3B; Hafner to 2B
+126,1,8/7/2002,Mark McLemore,SEA,@TOR,Scott Cassidy,tied 3-3,0,1,2,7,Out,t9,12-,0,3(1-1),0,0.02,-0.11,3.62,Bunt Groundout: P-1B/Sacrifice; Ugueto to 3B; Suzuki to 2B
+127,1,8/11/2002,Jack Wilson,PIT,@SFG,Robb Nen,down 4-3,-1,0,2,6,Out,t9,12-,1,3(1-1),0,-0.08,-0.3,6.12,Bunt Groundout: P-1B/Sacrifice; Benjamin to 3B; Kendall to 2B
+128,1,8/25/2002,David Eckstein,ANA,@BOS,Derek Lowe,tied 3-3,0,5,1,6,FC,t9,3-Jan,1,1(0-0),1,0.17,0.73,4.96,Fielder's Choice P/Sacrifice Bunt; Figgins Scores; Wooten to 2B; Eckstein to 1B
+129,1,8/27/2002,Royce Clayton,CHW,TOR,Felix Heredia,tied 4-4,0,4,6,11,Out,b10,12-,0,1(0-0),0,0.03,-0.1,3.16,Bunt Groundout: P-2B/Sacrifice; Ordonez to 3B; Lee to 2B
+130,1,9/2/2002,Michael Tucker,KCR,@OAK,Billy Koch,tied 6-6,0,0,6,9,Out,t9,12-,0,1(0-0),0,0.02,-0.1,3.67,Bunt Groundout: 3B-2B/Sacrifice; Ibanez to 3B; Alicea to 2B
+131,1,9/3/2002,Endy Chavez,MON,PHI,Terry Adams,tied 6-6,0,1,1,8,Out,b10,-2-,0,1(0-0),0,0.02,-0.19,2.57,Bunt Groundout: 3B-2B/Sacrifice; Macias to 3B
+132,1,9/8/2002,Luis Alicea,KCR,SEA,Kazuhiro Sasaki,down 8-7,-1,0,1,7,Out,b9,-2-,0,3(1-1),0,-0.04,-0.22,4.25,Bunt Groundout: 3B-2B/Sacrifice; Febles to 3B
+133,2,9/8/2002,Michael Tucker,KCR,SEA,Doug Creek,tied 8-8,0,0,6,7,Out,b10,12-,0,1(0-0),0,0.03,-0.12,3.07,Bunt Groundout: 3B-2B/Sacrifice; Ibanez to 3B; Randa to 2B
+134,1,9/12/2002,Luis Rivas,MIN,@CLE,Danys Báez,down 5-4,-1,-1,9,4,Out,t9,12-,0,5(2-2),0,0,-0.1,5.36,Bunt Groundout: P-2B/Sacrifice; Kielty to 3B; Pierzynski to 2B
+135,1,9/17/2002,Michael Barrett,MON,@FLA,Graeme Lloyd,tied 4-4,0,4,9,3,Out,t14,-2-,0,4(2-1),0,0,-0.17,2.66,Bunt Groundout: 1B-2B/Sacrifice; Schneider to 3B
+136,1,9/19/2002,Todd Hollandsworth,TEX,@SEA,Shigetoshi Hasegawa,tied 7-7,0,5,7,7,Out,t10,-2-,0,3(1-1),0,0,-0.19,2.61,Bunt Groundout: 1B-2B/Sacrifice; Hart to 3B
+137,1,9/20/2002,Tony Alvarez,PIT,CHC,Antonio Alfonseca,tied 4-4,0,1,8,8,Out,b9,-2-,0,1(0-0),0,0.02,-0.18,2.57,Bunt Groundout: 3B-2B/Sacrifice; Benjamin to 3B
+138,1,9/21/2002,Carlos Beltrán,KCR,CLE,Terry Mulholland,tied 2-2,0,1,2,8,Out,b9,-2-,0,1(0-0),0,0.01,-0.22,2.44,Bunt Groundout: 3B-1B/Sacrifice; Knoblauch to 3B
+139,1,2002-09-21 (2),Todd Walker,CIN,PHI,Carlos Silva,tied 4-4,0,0,1,4,Out,b9,-2-,0,1(0-0),0,0.02,-0.19,2.56,Bunt Groundout: 3B-2B/Sacrifice; Taylor to 3B
+140,1,9/24/2002,Luis Rivas,MIN,CLE,Dave Elder,tied 3-3,0,1,9,4,Out,b9,-2-,0,3(0-2),0,0.01,-0.2,2.52,Bunt Groundout: P-1B/Sacrifice; Ryan to 3B
+141,1,9/27/2002,Aaron Boone,CIN,@MON,Joey Eischen,tied 3-3,0,0,2,5,Out,t11,12-,0,3(1-1),0,0.02,-0.09,3.7,Bunt Groundout: 1B-2B/Sacrifice; Peña to 3B; Taylor to 2B
+142,1,9/27/2002,Todd Greene,TEX,OAK,Billy Koch,down 3-2,-1,-1,6,10,Out,b9,12-,0,2(1-0),0,0.02,-0.11,5.92,Bunt Groundout: 3B-2B/Sacrifice; Blalock to 3B; Rodriguez to 2B
+143,1,4/3/2003,Bret Boone,SEA,@OAK,Keith Foulke,tied 4-4,0,1,4,4,Out,t10,-2-,0,2(0-1),0,0,-0.2,2.59,Bunt Groundout: P-1B/Sacrifice; McLemore to 3B
+144,1,4/8/2003,Chris Stynes,COL,STL,Steve Kline,tied 12-12,0,0,1,5,FC,b11,-2-,0,2(0-1),0,0.12,0.71,2.44,Fielder's Choice P/Sacrifice Bunt; Kapler to 3B; Stynes to 1B
+145,1,4/8/2003,Rocco Baldelli,TBD,BAL,Jorge Julio,down 7-6,-1,1,2,8,Out,b10,12-,0,1(0-0),0,0.02,-0.09,6.07,Bunt Groundout: P-2B/Sacrifice; Grieve to 3B; Crawford to 2B
+146,1,4/13/2003,John Olerud,SEA,TEX,C.J. Nitkowski,tied 3-3,0,0,4,3,Out,b11,12-,0,1(0-0),0,0.03,-0.09,3.22,Bunt Groundout: P-1B/Sacrifice; Guillen to 3B; Bloomquist to 2B
+147,1,4/17/2003,Ramon Hernandez,OAK,@SEA,Kazuhiro Sasaki,down 3-2,-1,0,7,2,Out,t9,12-,0,2(0-1),0,0.01,-0.09,5.39,Bunt Groundout: P-2B/Sacrifice; Byrnes to 3B; Durazo to 2B
+148,1,4/18/2003,Joe Randa,KCR,DET,Matt Anderson,tied 3-3,0,0,2,5,FC,b10,12-,0,1(0-0),0,0.11,0.83,3.1,Fielder's Choice 1B/Sacrifice Bunt; Febles to 3B; Tucker to 2B
+149,1,4/19/2003,Ronnie Belliard,COL,SDP,Brandon Villafuerte,tied 9-9,0,1,1,4,FC,b9,3-Jan,1,1(0-0),1,0.17,0.73,4.87,*WALK-OFF*:*ENDED GAME*:Fielder's Choice 1B/Sacrifice Bunt; Butler Scores; Stynes to 2B
+150,1,4/20/2003,Joe Randa,KCR,DET,Mike Maroth,tied 3-3,0,1,2,5,RoE,b9,-2-,0,1(0-0),0,0.18,0.76,2.46,*WALK-OFF*:*ENDED GAME*:Reached on E3 (throw)/Sacrifice Bunt; Relaford Scores/unER/No RBI
+151,1,4/27/2003,Jeremy Giambi,BOS,@ANA,Brendan Donnelly,tied 4-4,0,0,8,10,Out,t11,-2-,0,2(0-1),0,0,-0.2,2.6,Bunt Groundout: 3B-1B/Sacrifice; Jackson to 3B
+152,1,5/4/2003,Henry Blanco,ATL,@ARI,Chris Capuano,tied 4-4,0,3,8,2,Out,t11,12-,0,1(0-0),0,0.02,-0.11,3.63,Bunt Groundout: C-2B/Sacrifice; Bragg to 3B; Castilla to 2B
+153,1,5/6/2003,Elmer Dessens,ARI,PHI,Terry Adams,tied 5-5,0,1,6,11,Out,b9,12-,0,4(2-1),0,0.03,-0.11,3.14,Bunt Groundout: P-2B/Sacrifice; Finley to 3B; Williams to 2B
+154,1,5/14/2003,Eric Munson,DET,OAK,Ricardo Rincon,tied 1-1,0,1,7,5,Out,b9,-2-,0,1(0-0),0,0.02,-0.18,2.57,Bunt Groundout: C-1B/Sacrifice; Monroe to 3B
+155,1,5/17/2003,Jose Macias,MON,@COL,Todd Jones,tied 4-4,0,2,7,5,FC,t10,12-,0,1(0-0),0,0.13,0.82,3.57,Fielder's Choice P/Sacrifice Bunt; Wilkerson to 3B; Cordero to 2B; Macias to 1B
+156,1,5/26/2003,Ray Olmedo,CIN,@ATL,Roberto Hernandez,tied 3-3,0,4,8,4,Out,t11,12-,0,2(1-0),0,0.02,-0.1,3.68,Bunt Groundout: P-2B/Sacrifice; Peña to 3B; Lopez to 2B
+157,1,5/27/2003,Jose Guillen,CIN,@ATL,Trey Hodges,tied 2-2,0,0,2,7,Out,t10,-2-,0,3(1-1),0,0,-0.19,2.61,Bunt Groundout: 1B unassisted/Sacrifice; Freel to 3B
+158,1,6/1/2003,Robin Ventura,NYY,@DET,Steve Avery,tied 8-8,0,0,6,5,Out,t10,12-,0,1(0-0),0,0.02,-0.09,3.71,Bunt Groundout: 3B-1B/Sacrifice; Gipson to 3B; Posada to 2B
+159,1,6/3/2003,Hee-Seop Choi,CHC,TBD,Al Levine,tied 2-2,0,1,6,3,Out,b9,12-,0,1(0-0),0,0.03,-0.1,3.21,Bunt Groundout: C-1B/Sacrifice; O'Leary to 3B; Alou to 2B
+160,1,6/6/2003,Xavier Nady,SDP,MIN,J.C. Romero,down 5-4,-1,0,5,9,Out,b10,12-,0,1(0-0),0,0.02,-0.08,6.18,Bunt Groundout: P-2B/Sacrifice; White to 3B; Buchanan to 2B
+161,1,6/13/2003,Cesar Izturis,LAD,@CLE,Danys Báez,tied 3-3,0,0,1,6,Out,t9,-2-,0,4(2-1),0,0,-0.19,2.61,Bunt Groundout: P-2B/Sacrifice; Cora to 3B
+162,1,6/15/2003,Bill Mueller,BOS,HOU,Octavio Dotel,tied 2-2,0,0,1,5,Out,b11,12-,0,1(0-0),0,0.03,-0.11,3.12,Bunt Groundout: C-2B/Sacrifice; Mirabelli to 3B; Damon to 2B
+163,1,6/15/2003,Brent Abernathy,KCR,SFG,Tim Worrell,down 4-3,-1,1,9,4,Out,b9,-2-,0,2(1-0),0,-0.04,-0.22,4.27,Bunt Groundout: 3B-2B/Sacrifice; Berroa to 3B
+164,1,6/18/2003,Mark Ellis,OAK,TEX,Ugueth Urbina,down 3-2,-1,0,9,4,Out,b9,12-,0,1(0-0),0,0.02,-0.1,6.01,Bunt Groundout: P-1B/Sacrifice; Singleton to 3B; McMillon to 2B
+165,1,6/19/2003,Jason Varitek,BOS,@CHW,Billy Koch,tied 3-3,0,1,9,2,Out,t10,12-,0,3(2-0),0,0.02,-0.11,3.63,Bunt Groundout: 3B-2B/Sacrifice; Mueller to 3B; Jackson to 2B
+166,1,6/22/2003,Enrique Wilson,NYY,@NYM,Graeme Lloyd,tied 3-3,0,0,3,5,Out,t10,12-,0,4(2-1),0,0.02,-0.09,3.72,Bunt Groundout: P-2B/Sacrifice; Soriano to 3B; Jeter to 2B
+167,1,6/23/2003,Mark Ellis,OAK,@TEX,Ugueth Urbina,down 1-0,-1,2,9,4,Out,t9,12-,0,1(0-0),0,0.18,0.82,5.13,Reached on E3 (catch)/Sacrifice Bunt (Bunt to P); Singleton to 3B; McMillon to 2B
+168,1,6/25/2003,Michael Tucker,KCR,@CLE,David Riske,tied 1-1,0,2,6,7,Out,t10,-2-,0,1(0-0),0,0,-0.19,2.61,Bunt Groundout: P-2B/Sacrifice; Ibanez to 3B
+169,1,6/27/2003,Marlon Byrd,PHI,@BAL,Willis Roberts,tied 1-1,0,0,9,8,Out,t13,12-,0,2(0-1),0,0.02,-0.1,3.66,Bunt Groundout: P-2B/Sacrifice; Punto to 3B; Burrell to 2B
+170,1,6/27/2003,Dave Berg,TOR,MON,Julio Manon,tied 5-5,0,1,8,4,Out,b9,12-,0,2(1-0),0,0.03,-0.11,3.13,Bunt Groundout: P-2B/Sacrifice; Johnson to 3B; Hinske to 2B
+171,1,7/6/2003,Scott Hatteberg,OAK,ANA,Scott Schoeneweis,tied 5-5,0,1,2,3,Out,b9,-2-,0,1(0-0),0,0.02,-0.2,2.52,Bunt Groundout: 1B unassisted/Sacrifice; Byrnes to 3B
+172,1,7/17/2003,Jamey Carroll,MON,@PHI,Rheal Cormier,tied 2-2,0,0,8,5,Out,t9,-2-,0,2(1-0),0,0,-0.17,2.66,Bunt Groundout: P-2B/Sacrifice; Barrett to 3B
+173,1,7/23/2003,Brad Ausmus,HOU,@MIL,Valerio De Los Santos,down 2-1,-1,0,7,2,Out,t9,-2-,0,1(0-0),0,-0.04,-0.18,3.81,Bunt Groundout: 3B-2B/Sacrifice; Berkman to 3B
+174,1,7/27/2003,Tim Laker,CLE,MIN,Eddie Guardado,down 2-1,-1,0,6,2,Out,b9,12-,0,3(1-1),0,0.02,-0.1,6.05,Bunt Groundout: 3B-2B/Sacrifice; Bradley to 3B; Sorensen to 2B
+175,1,7/31/2003,Luis Rivas,MIN,BAL,Travis Driskill,tied 9-9,0,1,2,4,Out,b10,12-,0,1(0-0),0,0.03,-0.1,3.16,Bunt Groundout: P-2B/Sacrifice; Guzman to 3B; Stewart to 2B
+176,1,8/1/2003,Mark Grudzielanek,CHC,ARI,Elmer Dessens,tied 3-3,0,0,2,4,Out,b12,-2-,0,1(0-0),0,0.02,-0.19,2.55,Bunt Groundout: P-2B/Sacrifice; Lofton to 3B
+177,1,2003-08-09 (1),John McDonald,CLE,ANA,Ben Weber,tied 2-2,0,1,9,4,Out,b13,-2-,0,3(1-1),0,0.02,-0.19,2.55,Bunt Groundout: C-2B/Sacrifice; Peralta to 3B
+178,1,8/13/2003,Tim Laker,CLE,@MIN,LaTroy Hawkins,tied 0-0,0,0,6,2,Out,t10,-2-,0,1(0-0),0,0,-0.2,2.58,Bunt Groundout: P-2B/Sacrifice; Broussard to 3B
+179,1,8/16/2003,Aaron Boone,NYY,@BAL,Hector Carrasco,tied 4-4,0,0,7,5,Out,t11,12-,0,1(0-0),0,0.02,-0.1,3.66,Bunt Groundout: 1B-2B/Sacrifice; Williams to 3B; Matsui to 2B
+180,1,8/18/2003,Roberto Alomar,CHW,ANA,Jarrod Washburn,tied 2-2,0,2,2,4,Out,b9,-2-,0,3(1-1),0,0.01,-0.21,2.5,Bunt Groundout: 3B-2B/Sacrifice; Graffanino to 3B
+181,1,8/18/2003,Ramon Nivar,TEX,@DET,Danny Patterson,tied 2-2,0,0,9,8,Out,t10,-2-,0,1(0-0),0,0,-0.18,2.63,Bunt Groundout: 3B-2B/Sacrifice; Díaz to 3B
+182,1,8/20/2003,Cesar Izturis,LAD,MON,Rocky Biddle,down 1-0,-1,0,8,6,Out,b9,-2-,0,4(2-1),0,-0.03,-0.17,4.36,Bunt Groundout: 1B-2B/Sacrifice; Cora to 3B
+183,1,8/29/2003,Miguel Cabrera,FLA,MON,Rocky Biddle,down 2-1,-1,1,7,7,Out,b9,12-,0,1(0-0),0,0.02,-0.09,6.09,Bunt Groundout: 3B-2B/Sacrifice; Encarnacion to 3B; Lee to 2B
+184,1,8/31/2003,Luis Rivas,MIN,@TEX,Francisco Cordero,down 10-9,-1,0,2,4,Out,t9,12-,0,4(2-1),0,0,-0.12,5.13,Bunt Groundout: C-2B/Sacrifice; Hocking to 3B; Stewart to 2B
+185,1,9/7/2003,Todd Pratt,PHI,NYM,David Weathers,down 4-3,-1,0,6,3,Out,b9,12-,0,1(0-0),0,0.02,-0.08,6.16,Bunt Groundout: P-2B/Sacrifice; Utley to 3B; Thome to 2B
+186,1,9/14/2003,Jason Conti,MIL,@SFG,Felix Rodriguez,tied 4-4,0,0,9,9,Out,t11,12-,0,2(1-0),0,0.02,-0.09,3.7,Bunt Groundout: 3B-2B/Sacrifice (Short 3B Line); Osik to 3B; Clayton to 2B
+187,1,9/20/2003,Fernando Vina,STL,HOU,Billy Wagner,tied 2-2,0,0,1,4,Out,b11,-2-,0,2(1-0),0,0.02,-0.18,2.58,Bunt Groundout: 3B-2B/Sacrifice (Short 3B Line); Edmonds to 3B
+188,1,4/6/2004,Henry Blanco,MIN,CLE,Jake Westbrook,tied 6-6,0,0,8,2,Out,b12,-2-,0,2(1-0),0,0.01,-0.21,2.48,Bunt Groundout: P-2B/Sacrifice; Offerman to 3B
+189,1,4/8/2004,Yorvit Torrealba,SFG,@SDP,Trevor Hoffman,down 1-0,-1,1,8,2,Out,t9,12-,0,2(0-1),0,0.01,-0.08,5.56,Bunt Groundout: P-2B/Sacrifice; Ransom to 3B; Tucker to 2B
+190,1,4/11/2004,John Olerud,SEA,@OAK,Chris Hammond,tied 4-4,0,5,7,3,RoE,t10,-2-,0,3(1-1),0,0.13,0.72,2.57,Reached on E1/Sacrifice Bunt; Ibanez to 3B; Olerud to 1B
+191,1,4/17/2004,Ryan Freel,CIN,@CHC,Kerry Wood,down 2-1,-1,1,6,5,Out,t9,12-,0,1(0-0),0,0,-0.1,5.36,Bunt Groundout: 3B-2B/Sacrifice; Castro to 3B; Dunn to 2B
+192,1,4/19/2004,Ichiro Suzuki,SEA,OAK,Ricardo Rincon,tied 1-1,0,0,1,9,Out,b10,-2-,0,1(0-0),0,0.01,-0.2,2.52,Bunt Groundout: 3B-2B/Sacrifice; Bloomquist to 3B
+193,1,4/22/2004,Tony Womack,STL,@HOU,Octavio Dotel,tied 1-1,0,0,2,11,Out,t11,-2-,0,3(1-1),0,0,-0.19,2.61,Bunt Groundout: 3B-2B/Sacrifice; Anderson to 3B
+194,2,4/22/2004,Hector Luna,STL,@HOU,Dan Miceli,tied 1-1,0,1,9,11,Out,t12,0,1,4(2-1),1,0.13,0.15,4.36,Bunt Groundout: P-2B/Sacrifice; Sanders Scores/unER
+195,1,4/28/2004,Scott Podsednik,MIL,CIN,Todd Van Poppel,tied 9-9,0,1,1,8,Out,b10,-2-,0,3(1-1),0,0.02,-0.19,2.55,Bunt Groundout: C-2B/Sacrifice; Durrington to 3B
+196,1,4/28/2004,Jimmy Rollins,PHI,@STL,Mike Lincoln,tied 3-3,0,3,8,6,Out,t9,-2-,0,1(0-0),0,0,-0.19,2.62,Bunt Groundout: P-1B/Sacrifice; Bell to 3B
+197,1,4/30/2004,Scott Rolen,STL,CHC,LaTroy Hawkins,tied 3-3,0,1,5,5,Out,b9,12-,0,1(0-0),0,0.03,-0.09,3.23,Bunt Groundout: 1B unassisted/Sacrifice; Pujols to 3B; Edmonds to 2B
+198,1,2004-05-01 (1),Ross Gload,CHW,TOR,Justin Speier,tied 3-3,0,1,5,7,Out,b10,12-,0,2(0-1),0,0.03,-0.11,3.12,Bunt Groundout: 3B-2B/Sacrifice; Ordonez to 3B; Thomas to 2B
+199,1,5/2/2004,Steve Finley,ARI,@PHI,Amaury Telemaco,tied 4-4,0,0,5,8,Out,t11,-2-,0,1(0-0),0,0,-0.2,2.58,Bunt Groundout: 1B unassisted/Sacrifice; Sadler to 3B
+200,1,5/4/2004,Eric Young Sr.,TEX,TBD,Danys Báez,down 5-4,-1,-1,9,11,Out,b9,-2-,0,3(1-1),0,-0.04,-0.22,4.25,Bunt Groundout: C-2B/Sacrifice; Nix to 3B
+201,1,5/9/2004,Glendon Rusch,CHC,COL,Jeff Fassero,tied 4-4,0,1,9,1,Out,b13,12-,1,3(0-2),0,-0.07,-0.32,4.28,Bunt Groundout: P-2B/Sacrifice; Lee to 3B; Martinez to 2B
+202,1,5/9/2004,D'Angelo Jimenez,CIN,SFG,Matt Herges,down 6-5,-1,0,1,4,Out,b9,12-,0,5(3-1),0,0.02,-0.09,6.1,Bunt Groundout: 3B-2B/Sacrifice; Castro to 3B; Dunn to 2B
+203,1,5/11/2004,Jason Bay,PIT,@COL,Shawn Chacon,tied 10-10,0,0,6,7,Out,t11,12-,0,1(0-0),0,0.01,-0.11,3.59,Bunt Groundout: 1B-2B/Sacrifice; Mackowiak to 3B; Wilson to 2B
+204,1,5/15/2004,Miguel Cairo,NYY,SEA,J.J. Putz,tied 7-7,0,0,9,4,FC,b9,-2-,0,1(0-0),0,0.12,0.72,2.51,Fielder's Choice C/Sacrifice Bunt; Flaherty to 3B
+205,2,5/15/2004,Randy Winn,SEA,@NYY,Gabe White,tied 7-7,0,6,2,8,Out,t13,12-,0,2(0-1),0,0.02,-0.1,3.64,Bunt Groundout: P-2B/Sacrifice; Santiago to 3B; Suzuki to 2B
+206,1,5/18/2004,Alfredo Amezaga,ANA,NYY,Paul Quantrill,tied 0-0,0,1,5,5,Out,b11,12-,0,1(0-0),0,0.03,-0.1,3.17,Bunt Groundout: 1B-2B/Sacrifice; DaVanon to 3B; Guerrero to 2B
+207,1,5/22/2004,Benito Santiago,KCR,@OAK,Justin Duchscherer,tied 4-4,0,0,6,2,Out,t11,-2-,0,2(0-1),0,0,-0.21,2.57,Bunt Groundout: P-2B/Sacrifice; Randa to 3B
+208,1,5/26/2004,Keith Ginter,MIL,LAD,Duaner Sanchez,tied 1-1,0,1,6,5,RoE,b12,12-,0,3(1-1),0,0.18,1.35,3.22,*WALK-OFF*:*ENDED GAME*:Reached on E5 (throw)/Sacrifice Bunt; Jenkins Scores/No RBI/unER; Overbay to 3B
+209,1,6/4/2004,Todd Walker,CHC,PIT,Jose Mesa,down 2-1,-1,-1,1,4,Out,b9,-2-,0,2(0-1),0,-0.03,-0.19,4.32,Bunt Groundout: 1B unassisted/Sacrifice; Macias to 3B
+210,1,6/8/2004,Rafael Furcal,ATL,@DET,Danny Patterson,tied 3-3,0,1,1,6,RoE,t10,-2-,0,3(1-1),0,0.21,1,2.61,Reached on E1 (throw)/Sacrifice Bunt; DeRosa Scores/No RBI/unER; Furcal to 2B
+211,1,6/10/2004,Kazuo Matsui,NYM,@MIN,Joe Nathan,tied 2-2,0,0,2,6,Out,t11,-2-,0,2(0-1),0,-0.01,-0.21,2.55,Bunt Groundout: P-1B/Sacrifice; Spencer to 3B
+212,1,2004-06-12 (1),Jerry Hairston,BAL,SFG,Felix Rodriguez,tied 5-5,0,0,9,10,FC,b9,-2-,0,2(0-1),0,0.12,0.72,2.51,Fielder's Choice P/Sacrifice Bunt; Bigbie to 3B; Hairston to 1B
+213,1,2004-06-17 (2),Alex Sanchez,DET,@PHI,Roberto Hernandez,tied 4-4,0,0,4,8,Out,t10,12-,0,4(1-2),0,0.02,-0.1,3.65,Bunt Groundout: P-2B/Sacrifice; Higginson to 3B; Guillen to 2B
+214,1,6/18/2004,Alex Sanchez,DET,@NYM,Braden Looper,tied 2-2,0,0,1,8,Out,t9,3-Jan,1,1(0-0),0,-0.18,-0.59,5.15,Bunt Groundout: C unassisted/Sacrifice; Higginson to 2B
+215,1,6/23/2004,Junior Spivey,MIL,COL,Shawn Chacon,down 3-2,-1,-1,2,4,Out,b9,12-,0,4(2-1),0,0.02,-0.09,6.06,Bunt Groundout: P-2B/Sacrifice; Counsell to 3B; Podsednik to 2B
+216,1,6/23/2004,Howie Clark,TOR,TBD,Jesus Colome,tied 1-1,0,1,2,3,Out,b10,12-,0,3(2-0),0,0.03,-0.11,3.1,Bunt Groundout: P-2B/Sacrifice; Woodward to 3B; Menechino to 2B
+217,1,6/24/2004,Jose Offerman,MIN,@BOS,Keith Foulke,tied 3-3,0,1,2,10,Out,t10,-2-,0,2(0-1),0,-0.01,-0.22,2.52,Bunt Groundout: P-2B/Sacrifice; Guzman to 3B
+218,1,6/24/2004,Rod Barajas,TEX,SEA,Jamie Moyer,tied 7-7,0,0,8,2,Out,b15,-2-,0,3(0-2),0,0.01,-0.22,2.43,Bunt Groundout: P-2B/Sacrifice; Matthews to 3B
+219,1,6/26/2004,Dustan Mohr,SFG,@OAK,Octavio Dotel,down 7-6,-1,0,9,7,Out,t9,12-,0,3(1-1),0,0,-0.11,5.27,Bunt Groundout: 1B unassisted/Sacrifice; Ransom to 3B; Perez to 2B
+220,1,7/5/2004,Steve Finley,ARI,@LAD,Tom Martin,tied 5-5,0,0,2,8,Out,t10,12-,0,2(1-0),0,0.02,-0.09,3.73,Bunt Groundout: P-2B/Sacrifice; Olson to 3B; Alomar to 2B
+221,1,7/15/2004,Neifi Perez,SFG,@COL,Shawn Chacon,down 4-3,-1,3,8,6,Out,t9,12-,0,1(0-0),0,0,-0.11,5.18,Bunt Groundout: 3B-2B/Sacrifice; Mohr to 3B; Grissom to 2B
+222,1,7/19/2004,Ichiro Suzuki,SEA,BOS,Curt Leskanic,tied 4-4,0,4,1,9,Out,b11,12-,0,1(0-0),0,0.03,-0.1,3.17,Bunt Groundout: 3B-1B/Sacrifice; Olivo to 3B; Hansen to 2B
+223,1,7/20/2004,Chase Utley,PHI,@ATL,Antonio Alfonseca,tied 3-3,0,1,2,4,RoE,t10,-2-,0,5(3-1),0,0.14,0.72,2.61,Reached on E2/Sacrifice Bunt; Rollins to 3B
+224,2,7/20/2004,Mark DeRosa,ATL,PHI,Billy Wagner,down 4-3,-1,-1,9,11,Out,b10,12-,0,1(0-0),0,0.02,-0.1,6.05,Bunt Groundout: P-2B/Sacrifice; Jones to 3B; Marrero to 2B
+225,1,7/21/2004,Scott Hatteberg,OAK,@SEA,Bobby Madritsch,tied 5-5,0,0,5,3,Out,t10,12-,0,1(0-0),0,0.02,-0.1,3.65,Bunt Groundout: P-2B/Sacrifice; Chavez to 3B; Dye to 2B
+226,1,7/30/2004,Ben Broussard,CLE,@KCR,Jaime Cerda,tied 6-6,0,0,7,3,Out,t10,12-,0,1(0-0),0,0.02,-0.11,3.61,Bunt Groundout: 3B-2B/Sacrifice; Blake to 3B; Hafner to 2B
+227,1,8/4/2004,Terrmel Sledge,MON,@STL,Julian Tavarez,tied 4-4,0,0,5,7,Out,t9,12-,0,2(1-0),0,0.02,-0.09,3.7,Bunt Groundout: P-1B/Sacrifice; Vidro to 3B; Batista to 2B
+228,1,8/5/2004,Bret Boone,SEA,@TBD,Jesus Colome,tied 1-1,0,0,3,4,Out,t10,12-,0,2(0-1),0,0.02,-0.1,3.66,Bunt Groundout: P-2B/Sacrifice; Suzuki to 3B; Winn to 2B
+229,1,8/21/2004,Wilson Delgado,NYM,@SFG,Kevin Correia,tied 9-9,0,2,8,6,FC,t12,12-,0,5(2-2),0,0.14,0.84,3.68,Fielder's Choice P/Sacrifice Bunt; Wright to 3B; Wilson to 2B; Delgado to 1B
+230,1,9/4/2004,Mark Kotsay,OAK,@TOR,Jason Frasor,down 5-4,-1,4,1,8,Out,t9,12-,0,1(0-0),0,0,-0.11,5.19,Bunt Groundout: 3B-2B/Sacrifice; Swisher to 3B; Crosby to 2B
+231,1,9/5/2004,Bernie Williams,NYY,BAL,Jorge Julio,tied 3-3,0,1,2,8,Out,b9,-2-,0,3(2-0),0,0.01,-0.2,2.51,Bunt Groundout: P-1B/Sacrifice; Jeter to 3B
+232,1,9/10/2004,Jody Gerut,CLE,@OAK,Octavio Dotel,tied 3-3,0,0,8,11,Out,t9,12-,0,2(1-0),0,0.02,-0.11,3.63,Bunt Groundout: 3B-2B/Sacrifice; Lawton to 3B; Merloni to 2B
+233,1,9/12/2004,Willy Taveras,HOU,@PIT,Jose Mesa,tied 4-4,0,1,9,7,Out,t10,-2-,0,5(3-1),0,0,-0.19,2.62,Bunt Groundout: P-2B/Sacrifice; Bruntlett to 3B
+234,1,9/13/2004,Bobby Crosby,OAK,TEX,Francisco Cordero,down 6-5,-1,1,8,6,RoE,b10,12-,0,1(0-0),0,0.21,0.83,5.97,Reached on E5 (throw)/Sacrifice Bunt; German to 3B; Swisher to 2B
+235,1,9/17/2004,Brad Wilkerson,MON,@PHI,Tim Worrell,tied 7-7,0,5,1,3,Out,t9,12-,0,2(1-0),0,0.02,-0.1,3.65,Bunt Groundout: 3B-1B/Sacrifice; Izturis to 3B; Schneider to 2B
+236,1,9/21/2004,Neifi Perez,CHC,@PIT,Salomon Torres,tied 4-4,0,1,2,6,Out,t10,-2-,0,3(1-1),0,0,-0.19,2.62,Bunt Groundout: P-2B/Sacrifice; Patterson to 3B
+237,1,9/22/2004,B.J. Surhoff,BAL,@BOS,Curt Leskanic,tied 6-6,0,0,5,7,Out,t12,12-,0,2(0-1),0,0.01,-0.12,3.57,Bunt Groundout: 1B-2B/Sacrifice; Mora to 3B; Tejada to 2B
+238,1,9/22/2004,Desi Relaford,KCR,@TBD,Jorge Sosa,tied 6-6,0,1,6,6,Out,t10,-2-,0,4(2-1),0,0,-0.2,2.59,Bunt Groundout: 3B-2B/Sacrifice; Guerrero to 3B
+239,1,9/23/2004,Alex Gonzalez,FLA,PHI,Billy Wagner,down 8-7,-1,0,8,6,Out,b9,-2-,0,2(1-0),0,-0.03,-0.18,4.35,Bunt Groundout: 3B-1B/Sacrifice; Encarnacion to 3B
+240,1,9/30/2004,Cesar Izturis,LAD,COL,Chin-hui Tsao,down 2-1,-1,0,1,6,RoE,b10,-2-,0,1(0-0),0,0.22,0.72,4.35,Reached on E1 (throw)/Sacrifice Bunt; Perez to 3B; Izturis to 1B
+241,1,4/6/2005,Willie Harris,CHW,CLE,Bob Wickman,tied 3-3,0,1,8,11,RoE,b9,12-,0,1(0-0),0,0.12,0.84,3.17,Reached on E1/Sacrifice Bunt; Rowand to 3B; Pierzynski to 2B
+242,1,4/7/2005,Khalil Greene,SDP,PIT,Rick White,tied 0-0,0,1,7,6,Out,b12,12-,0,2(1-0),0,0.03,-0.08,3.34,Bunt Groundout: P-1B-2B/Sacrifice; Blum to 3B; Hernandez to 2B
+243,1,4/8/2005,Russell Branyan,MIL,@CHC,Glendon Rusch,tied 3-3,0,0,7,5,Out,t10,12-,0,2(0-1),0,0.02,-0.1,3.68,Bunt Groundout: 3B-2B/Sacrifice; Jenkins to 3B; Miller to 2B
+244,1,4/13/2005,Joe Crede,CHW,@CLE,Bob Howry,tied 4-4,0,1,8,5,FC,t10,-2-,0,3(1-1),0,0.14,0.72,2.63,Fielder's Choice 1B/Sacrifice Bunt; Pierzynski to 3B
+245,1,4/17/2005,Kenny Lofton,PHI,ATL,Danny Kolb,down 1-0,-1,1,9,8,RoE,b10,12-,0,3(1-1),0,0.29,1,6.03,Reached on E1 (throw)/Sacrifice Bunt; Perez Scores/No RBI; Lieberthal to 2B
+246,1,4/18/2005,Adam Everett,HOU,ATL,Tim Hudson,tied 0-0,0,0,1,6,Out,b9,-2-,0,2(0-1),0,0.02,-0.19,2.56,Bunt Groundout: P-2B/Sacrifice; Bruntlett to 3B
+247,1,4/22/2005,Ramón Vázquez,BOS,@TBD,Danys Báez,down 4-3,-1,0,9,5,Out,t9,-2-,0,2(1-0),0,-0.04,-0.19,3.79,Bunt Groundout: C-1B/Sacrifice; Bellhorn to 3B
+248,1,4/30/2005,Chris Magruder,MIL,CIN,Joe Valentine,tied 5-5,0,1,6,9,RoE,b9,12-,0,2(0-1),0,0.12,0.84,3.25,Reached on E1/Sacrifice Bunt; Lee to 3B; Overbay to 2B
+249,1,5/2/2005,Quinton McCracken,ARI,SFG,Tyler Walker,down 9-8,-1,-1,2,8,Out,b10,12-,0,1(0-0),0,0.02,-0.1,6.05,Bunt Groundout: 3B-2B/Sacrifice; Terrero to 3B; Counsell to 2B
+250,1,5/8/2005,Jose Guillen,WSN,@SFG,Tyler Walker,tied 3-3,0,0,3,9,Out,t10,-2-,0,3(1-1),0,0,-0.19,2.62,Bunt Groundout: P-1B/Sacrifice; Carroll to 3B
+251,1,5/9/2005,Sean Burroughs,SDP,@CIN,Danny Graves,tied 5-5,0,0,8,5,FC,t9,-2-,0,4(2-1),0,0.14,0.72,2.63,Fielder's Choice C/Sacrifice Bunt; Fick to 3B
+252,1,5/17/2005,Ramon Martinez,DET,TBD,Travis Harper,tied 3-3,0,1,4,6,Out,b11,12-,0,3(1-1),0,0.03,-0.09,3.24,Bunt Groundout: 3B-2B/Sacrifice; Inge to 3B; Rodriguez to 2B
+253,1,5/17/2005,Neifi Perez,CHC,@PIT,Jose Mesa,down 3-2,-1,1,2,6,Out,t9,-2-,0,2(1-0),0,-0.04,-0.18,3.82,Bunt Groundout: P-2B/Sacrifice; Hairston to 3B
+254,1,5/24/2005,Juan Castro,MIN,@CLE,David Riske,tied 3-3,0,3,9,6,Out,t11,-2-,0,1(0-0),0,0,-0.18,2.63,Bunt Groundout: P-2B/Sacrifice; Punto to 3B
+255,1,5/27/2005,Jack Wilson,PIT,@CIN,Ryan Wagner,tied 5-5,0,0,9,11,Out,t9,-2-,0,3(1-1),0,0,-0.18,2.63,Bunt Groundout: 3B-2B/Sacrifice; Ross to 3B
+256,1,5/28/2005,Luis Terrero,ARI,LAD,Giovanni Carrara,tied 4-4,0,1,7,8,FC,b9,12-,0,1(0-0),0,0.12,0.84,3.22,Fielder's Choice P/Sacrifice Bunt; Green to 2B/Safe on E4 (catch); Kata to 3B; Terrero to 1B
+257,1,5/30/2005,Scott Podsednik,CHW,LAA,Scot Shields,down 4-3,-1,1,1,7,Out,b9,12-,0,3(1-1),0,0.02,-0.1,6,Bunt Groundout: C-1B/Sacrifice; Harris to 3B; Crede to 2B
+258,1,6/2/2005,Melvin Mora,BAL,@BOS,Keith Foulke,tied 3-3,0,1,2,5,Out,t9,-2-,0,2(0-1),0,0,-0.2,2.58,Bunt Groundout: P-2B/Sacrifice; Newhan to 3B
+259,1,6/12/2005,Ryan Doumit,PIT,TBD,Trever Miller,tied 5-5,0,0,4,2,Out,b10,12-,0,1(0-0),0,0.03,-0.09,3.26,Bunt Groundout: P-2B/Sacrifice; Lawton to 3B; Bay to 2B
+260,1,6/17/2005,Steve Finley,LAA,FLA,Brian Moehler,down 2-1,-1,0,5,8,Out,b9,-2-,0,2(1-0),0,-0.03,-0.19,4.33,Bunt Groundout: 1B-2B/Sacrifice; Anderson to 3B
+261,1,6/17/2005,Jason Varitek,BOS,PIT,Rick White,tied 5-5,0,1,7,2,RoE,b9,-2-,0,1(0-0),0,0.12,0.72,2.51,Reached on E1/Sacrifice Bunt; Youkilis to 3B
+262,1,6/23/2005,Mike Edwards,LAD,@SDP,Trevor Hoffman,tied 3-3,0,1,2,7,Out,t10,-2-,0,2(0-1),0,0,-0.16,2.69,Bunt Groundout: 3B-2B/Sacrifice; Izturis to 3B
+263,1,6/29/2005,Jason Smith,DET,CHW,Shingo Takatsu,down 4-3,-1,-1,8,5,Out,b13,12-,0,1(0-0),0,0.02,-0.09,6.08,Bunt Groundout: C-2B/Sacrifice; Monroe to 3B; Shelton to 2B
+264,1,7/4/2005,Ben Sheets,MIL,@FLA,Todd Jones,tied 2-2,0,1,9,1,Out,t9,-2-,0,3(1-1),0,0,-0.17,2.67,Bunt Groundout: P-2B/Sacrifice; Durrington to 3B
+265,1,7/6/2005,Abraham Nunez,STL,@ARI,Javier Vazquez,tied 1-1,0,1,9,11,Out,t9,-2-,0,1(0-0),0,0,-0.19,2.61,Bunt Groundout: P-1B/Sacrifice; Taguchi to 3B
+266,2,7/6/2005,David Eckstein,STL,@ARI,Javier Vazquez,tied 1-1,0,1,1,6,Out,t9,0,1,2(1-0),1,0.13,0.15,4.37,Bunt Groundout: P-1B/Sacrifice; Taguchi Scores
+267,1,7/10/2005,Bobby Kielty,OAK,@CHW,Luis Vizcaino,tied 8-8,0,1,6,7,Out,t11,12-,0,2(0-1),0,0.02,-0.1,3.65,Bunt Groundout: 3B-2B/Sacrifice; Chavez to 3B; Johnson to 2B
+268,1,7/15/2005,Brady Clark,MIL,WSN,Luis Ayala,tied 3-3,0,1,1,8,Out,b10,-2-,0,1(0-0),0,0.02,-0.18,2.57,Bunt Groundout: P-2B/Sacrifice; Magruder to 3B
+269,1,7/15/2005,Brad Ausmus,HOU,@STL,Jason Isringhausen,down 2-1,-1,0,8,2,Out,t9,-2-,0,1(0-0),0,-0.04,-0.19,3.8,Bunt Groundout: C-1B/Sacrifice; Palmeiro to 3B
+270,1,7/24/2005,Jeromy Burnitz,CHC,@STL,Alberto Reyes,tied 4-4,0,4,4,9,Out,t10,12-,0,1(0-0),0,0.02,-0.09,3.7,Bunt Groundout: P-1B/Sacrifice; Walker to 3B; Lee to 2B
+271,1,7/27/2005,Larry Bigbie,BAL,TEX,Francisco Cordero,tied 8-8,0,0,9,7,Out,b9,12-,0,3(1-1),0,0.03,-0.1,3.22,Bunt Groundout: 3B-2B/Sacrifice (Short 3B Line); Surhoff to 3B; Matos to 2B
+272,1,7/28/2005,Ramon Martinez,PHI,@COL,Mike DeJean,tied 5-5,0,3,8,11,Out,t9,-2-,0,1(0-0),0,-0.01,-0.21,2.55,Bunt Groundout: P-2B/Sacrifice; Kata to 3B
+273,1,7/31/2005,Milton Bradley,LAD,STL,Cal Eldred,tied 5-5,0,0,3,8,Out,b9,12-,0,3(1-1),0,0.03,-0.09,3.27,Bunt Groundout: P-1B/Sacrifice; Izturis to 3B; Robles to 2B
+274,1,8/2/2005,Jason Ellison,SFG,COL,Brian Fuentes,down 4-3,-1,-1,7,11,Out,b9,-2-,0,1(0-0),0,-0.03,-0.19,4.34,Bunt Groundout: 3B-2B/Sacrifice; Feliz to 3B
+275,1,8/4/2005,Lyle Overbay,MIL,@NYM,Roberto Hernandez,down 9-8,-1,3,3,3,Out,t9,12-,0,1(0-0),0,0.01,-0.09,5.48,Bunt Groundout: 1B-2B/Sacrifice; Clark to 3B; Weeks to 2B
+276,1,8/5/2005,Eddy Garabito,COL,@ARI,Lance Cormier,tied 4-4,0,2,6,11,FC,t9,-2-,0,6(3-2),0,0.21,1,2.61,Fielder's Choice P/Sacrifice Bunt; Atkins Scores/Adv on E1 (throw)/No RBI; Garabito to 2B
+277,1,8/6/2005,Nick Punto,MIN,BOS,Mike Timlin,tied 3-3,0,1,8,4,RoE,b9,-2-,0,1(0-0),0,0.18,0.76,2.52,*WALK-OFF*:*ENDED GAME*:Reached on E1 (throw)/Sacrifice Bunt; Cuddyer Scores/unER/No RBI
+278,1,8/10/2005,Luis Rodriguez,MIN,@SEA,Julio Mateo,tied 3-3,0,0,2,4,Out,t12,-2-,0,2(1-0),0,0,-0.18,2.64,Bunt Groundout: P-2B/Sacrifice; Stewart to 3B
+279,1,8/21/2005,Joe McEwing,KCR,@OAK,Kiko Calero,tied 4-4,0,1,4,3,Out,t12,12-,0,2(0-1),0,0.02,-0.1,3.68,Bunt Groundout: P-2B/Sacrifice; Hocking to 3B; Sweeney to 2B
+280,1,8/25/2005,Pablo Ozuna,CHW,@MIN,Jesse Crain,tied 1-1,0,1,9,11,FC,t10,-2-,0,3(0-2),0,0.14,0.72,2.59,Fielder's Choice P/Sacrifice Bunt; Blum to 3B
+281,1,8/26/2005,Timo Perez,CHW,@SEA,Julio Mateo,tied 3-3,0,0,1,7,Out,t10,-2-,0,1(0-0),0,0,-0.18,2.64,Bunt Groundout: P-2B/Sacrifice; Anderson to 3B
+282,1,8/30/2005,Scott Hatteberg,OAK,@LAA,Bartolo Colon,tied 1-1,0,0,5,10,Out,t10,-2-,0,2(0-1),0,0,-0.19,2.62,Bunt Groundout: 1B-2B/Sacrifice; Bynum to 3B
+283,1,9/2/2005,Jim Edmonds,STL,@HOU,Dan Wheeler,tied 3-3,0,1,4,8,Out,t10,-2-,0,3(1-1),0,0,-0.19,2.62,Bunt Groundout: 3B-1B/Sacrifice; Pujols to 3B
+284,2,9/2/2005,John Rodriguez,STL,@HOU,Brad Lidge,tied 3-3,0,1,5,7,Out,t10,0,1,1(0-0),1,0.14,0.16,4.4,Bunt Groundout: 3B-1B/Sacrifice; Pujols Scores
+285,1,9/3/2005,Grady Sizemore,CLE,@MIN,Joe Nathan,down 2-1,-1,0,1,8,Out,t9,-2-,0,2(0-1),0,-0.04,-0.2,3.76,Bunt Groundout: P-2B/Sacrifice; Blake to 3B
+286,1,9/4/2005,Chad Moeller,MIL,SDP,Akinori Otsuka,tied 2-2,0,1,8,2,Out,b9,-2-,0,5(3-1),0,0.02,-0.18,2.57,Bunt Groundout: C-2B/Sacrifice; Hart to 3B
+287,2,9/4/2005,Brady Clark,MIL,SDP,Akinori Otsuka,tied 2-2,0,1,1,8,FC,b9,3-Jan,1,2(1-0),1,0.18,0.73,5.2,*WALK-OFF*:*ENDED GAME*:Fielder's Choice 1B/Sacrifice Bunt; Hart Scores; Weeks to 2B
+288,1,9/6/2005,Quinton McCracken,ARI,@PIT,Jose Mesa,tied 2-2,0,0,8,11,FC,t10,-2-,0,3(1-1),0,0.14,0.72,2.64,Fielder's Choice P/Sacrifice Bunt; Terrero to 3B; McCracken to 1B
+289,1,9/8/2005,Russ Ortiz,ARI,@PIT,Rick White,tied 7-7,0,0,6,11,Out,t12,-2-,0,4(1-2),0,0,-0.18,2.64,Bunt Groundout: 3B-2B/Sacrifice; Glaus to 3B
+290,1,9/9/2005,Bengie Molina,LAA,@CHW,Dustin Hermanson,tied 5-5,0,1,5,2,Out,t12,-2-,0,1(0-0),1,0.14,0.11,2.59,Bunt Groundout: 3B-2B/Sacrifice; Guerrero Scores
+291,1,9/12/2005,John Mabry,STL,PIT,Salomon Torres,tied 3-3,0,1,6,3,Out,b9,-2-,0,1(0-0),0,0.02,-0.19,2.56,Bunt Groundout: P-2B/Sacrifice; Schumaker to 3B
+292,1,9/16/2005,Bengie Molina,LAA,DET,Vic Darensbourg,tied 6-6,0,1,6,2,Out,b12,12-,0,2(1-0),0,0.03,-0.09,3.22,Bunt Groundout: 3B-2B/Sacrifice; Guerrero to 3B; Erstad to 2B
+293,1,9/16/2005,Juan Uribe,CHW,@MIN,Jesse Crain,tied 1-1,0,1,8,6,RoE,t10,12-,0,2(1-0),0,0.14,0.84,3.66,Reached on E1/Sacrifice Bunt; Dye to 3B; Pierzynski to 2B
+294,1,9/18/2005,Dave Roberts,SDP,WSN,Joey Eischen,tied 1-1,0,1,1,8,RoE,b9,12-,0,5(3-1),0,0.19,1,3.34,*WALK-OFF*:*ENDED GAME*:Reached on E1 (throw)/Sacrifice Bunt; Olivo Scores/unER/No RBI; Fick to 2B
+295,1,9/19/2005,Ramon Santiago,SEA,@TOR,Miguel Batista,down 4-3,-1,3,2,11,Out,t9,12-,0,3(2-0),0,0,-0.1,5.32,Bunt Groundout: P-2B/Sacrifice; Bubela to 3B; Suzuki to 2B
+296,1,9/21/2005,Joe Dillon,FLA,@NYM,Roberto Hernandez,tied 4-4,0,0,3,4,Out,t9,-2-,0,2(0-1),0,0,-0.18,2.65,Bunt Groundout: 3B-2B/Sacrifice; Conine to 3B
+297,1,9/25/2005,Aaron Boone,CLE,@KCR,Mike MacDougal,down 4-3,-1,0,8,5,Out,t9,12-,0,4(2-1),0,0.01,-0.1,5.38,Bunt Groundout: 1B-2B/Sacrifice; Belliard to 3B; Broussard to 2B
+298,1,4/10/2006,Willy Taveras,HOU,WSN,Mike Stanton,tied 4-4,0,1,2,8,Out,b12,-2-,0,1(0-0),0,0.02,-0.2,2.52,Bunt Groundout: 3B-2B/Sacrifice; Biggio to 3B
+299,1,4/16/2006,Marlon Anderson,WSN,@FLA,Matt Herges,down 5-4,-1,2,2,4,Out,t9,-2-,0,3(1-1),0,-0.04,-0.19,3.8,Bunt Groundout: C-1B/Sacrifice; Soriano to 3B
+300,1,4/26/2006,Jose Valentin,NYM,@SFG,Armando Benitez,tied 7-7,0,0,2,11,Out,t10,-2-,0,3(2-0),0,0,-0.2,2.59,Bunt Groundout: P-1B/Sacrifice; Reyes to 3B
+301,1,4/26/2006,Antonio Perez,OAK,@TEX,C.J. Wilson,tied 4-4,0,2,4,10,Out,t10,12-,0,3(1-1),0,0.02,-0.11,3.63,Bunt Groundout: P-2B/Sacrifice; Swisher to 3B; Chavez to 2B
+302,1,4/28/2006,Dan Uggla,FLA,COL,Brian Fuentes,down 2-1,-1,0,2,4,Out,b9,-2-,0,4(2-1),0,-0.03,-0.19,4.34,Bunt Groundout: 3B-2B/Sacrifice; Ramirez to 3B
+303,1,4/30/2006,Scott Podsednik,CHW,@LAA,Scot Shields,tied 5-5,0,1,1,7,Out,t9,-2-,0,3(1-1),0,0,-0.2,2.57,Bunt Groundout: P unassisted/Sacrifice; Ozuna to 3B
+304,1,5/2/2006,Jason LaRue,CIN,STL,Brian Falkenborg,tied 2-2,0,1,8,2,Out,b9,12-,0,3(0-2),0,0.03,-0.11,3.14,Bunt Groundout: P-2B/Sacrifice; Kearns to 3B; Phillips to 2B
+305,1,5/5/2006,Clint Barmes,COL,HOU,Brad Lidge,down 4-3,-1,1,7,6,RoE,b9,-2-,0,1(0-0),0,0.35,1,4.26,Reached on E5 (throw)/Sacrifice Bunt; Hawpe Scores/No RBI; Barmes to 2B
+306,2,5/5/2006,Choo Freeman,COL,HOU,Brad Lidge,tied 4-4,0,1,8,11,Out,b9,-2-,0,1(0-0),0,0.01,-0.22,2.45,Bunt Groundout: P-2B/Sacrifice; Barmes to 3B
+307,1,5/11/2006,David Ross,CIN,WSN,Chad Cordero,tied 1-1,0,0,8,2,Out,b9,-2-,0,1(0-0),0,0.01,-0.21,2.49,Bunt Groundout: P-2B/Sacrifice; Phillips to 3B
+308,1,5/17/2006,Paul Lo Duca,NYM,@STL,Mark Mulder,down 1-0,-1,-1,2,2,Out,t9,-2-,0,1(0-0),0,-0.04,-0.2,3.76,Bunt Groundout: P-1B/Sacrifice; Reyes to 3B
+309,1,5/20/2006,Josh Paul,TBD,FLA,Logan Kensing,down 3-2,-1,1,7,2,Out,b9,-2-,0,2(0-1),0,-0.04,-0.2,4.31,Bunt Groundout: P-2B/Sacrifice; Lee to 3B
+310,1,5/23/2006,Dan Uggla,FLA,CHC,Ryan Dempster,down 4-3,-1,1,2,4,Out,b9,12-,0,1(0-0),0,0.02,-0.09,6.08,Bunt Groundout: C-2B/Sacrifice; Aguila to 3B; Ramirez to 2B
+311,1,5/27/2006,Pablo Ozuna,CHW,@TOR,B.J. Ryan,down 2-1,-1,0,8,11,RoE,t9,-2-,0,1(0-0),0,0.18,0.72,3.74,Reached on E2/Sacrifice Bunt; Crede to 3B; Ozuna to 1B
+312,1,5/30/2006,John Buck,KCR,@OAK,Matt Roney,tied 7-7,0,1,9,2,Out,t10,-2-,0,2(0-1),0,0,-0.2,2.6,Bunt Groundout: 3B-2B/Sacrifice; Berroa to 3B
+313,1,6/2/2006,Neifi Perez,CHC,@STL,Josh Hancock,tied 4-4,0,1,2,4,Out,t14,-2-,0,3(2-0),0,0,-0.2,2.6,Bunt Groundout: P-1B/Sacrifice; Pierre to 3B
+314,1,6/4/2006,Steve Finley,SFG,@NYM,Pedro Feliciano,tied 6-6,0,1,5,8,Out,t12,12-,0,1(0-0),0,0.02,-0.1,3.67,Bunt Groundout: P-2B/Sacrifice; Niekro to 3B; Ellison to 2B
+315,1,6/9/2006,Corey Patterson,BAL,@MIN,Joe Nathan,tied 5-5,0,0,6,8,Out,t12,-2-,0,1(0-0),0,0,-0.2,2.59,Bunt Groundout: 1B-2B/Sacrifice; Lopez to 3B
+316,1,6/16/2006,Josh Barfield,SDP,@LAA,Francisco Rodríguez,tied 4-4,0,1,9,4,RoE,t9,-2-,0,1(0-0),0,0.21,1,2.57,Reached on E2 (throw)/Sacrifice Bunt; Greene Scores/unER/No RBI; Barfield to 2B
+317,1,6/18/2006,Rickie Weeks,MIL,CLE,Rafael Betancourt,tied 3-3,0,3,1,4,Out,b9,-2-,0,1(0-0),0,0.01,-0.2,2.51,Bunt Groundout: 1B-2B/Sacrifice; Gross to 3B
+318,1,6/19/2006,José Hernández,PIT,ARI,Greg Aquino,tied 4-4,0,0,9,4,Out,b10,-2-,0,1(0-0),0,0.02,-0.19,2.54,Bunt Groundout: P-2B/Sacrifice; Paulino to 3B
+319,1,6/24/2006,Juan Uribe,CHW,HOU,Dan Wheeler,tied 5-5,0,1,9,6,Out,b10,12-,0,1(0-0),0,0.03,-0.11,3.12,Bunt Groundout: 3B-2B/Sacrifice; Mackowiak to 3B; Pierzynski to 2B
+320,1,6/27/2006,Gabe Gross,MIL,@CHC,Ryan Dempster,down 5-4,-1,3,8,8,FC,t9,12-,0,2(0-1),0,0.36,1.48,5.27,Fielder's Choice P/Sacrifice Bunt; Koskie Scores/No RBI/Adv on E1 (throw)/unER; Miller to 3B; Gross to 2B
+321,1,6/28/2006,Yadier Molina,STL,CLE,Bob Wickman,down 4-3,-1,1,7,2,Out,b9,-2-,0,2(1-0),0,-0.03,-0.2,4.32,Bunt Groundout: 3B-2B/Sacrifice; Taguchi to 3B
+322,1,7/5/2006,Rich Aurilia,CIN,@MIL,Geremi Gonzalez,tied 4-4,0,1,5,3,Out,t13,-2-,0,2(0-1),0,0.14,0.11,2.58,Bunt Groundout: 1B-2B/Sacrifice; Castro Scores/Adv on throw/No RBI
+323,1,7/16/2006,Alfonso Soriano,WSN,@PIT,Roberto Hernandez,tied 4-4,0,4,1,7,RoE,t11,-2-,0,1(0-0),0,0.14,0.72,2.6,Reached on E1/Sacrifice Bunt; Anderson to 3B; Soriano to 1B
+324,1,8/8/2006,Jose Lopez,SEA,TBD,Seth McClung,tied 1-1,0,4,2,4,Out,b10,-2-,0,3(1-1),0,0.02,-0.2,2.53,Bunt Groundout: 3B-2B/Sacrifice; Suzuki to 3B
+325,1,8/19/2006,Yadier Molina,STL,@CHC,Ryan Dempster,tied 4-4,0,0,8,2,Out,t9,-2-,0,1(0-0),0,0,-0.21,2.57,Bunt Groundout: P-2B/Sacrifice; Belliard to 3B
+326,1,8/25/2006,Carlos Quentin,ARI,LAD,Aaron Sele,tied 7-7,0,0,7,9,Out,b13,12-,0,3(1-1),0,0.03,-0.11,3.13,Bunt Groundout: 1B-2B/Sacrifice; Jackson to 3B; Drew to 2B
+327,1,8/30/2006,Michael Barrett,CHC,@PIT,Salomon Torres,tied 7-7,0,0,6,2,Out,t9,12-,0,2(0-1),0,0.02,-0.1,3.67,Bunt Groundout: P-2B/Sacrifice; Pagán to 3B; Jones to 2B
+328,1,2006-09-03 (2),Pete Orr,ATL,@PHI,Geoff Geary,tied 1-1,0,2,1,4,FC,t11,-2-,0,1(0-0),0,0.21,1,2.56,Fielder's Choice C/Sacrifice Bunt; Pena Scores/Adv on E2 (throw)/No RBI; Orr to 2B
+329,1,9/4/2006,Eric Bruntlett,HOU,@PHI,Rick White,tied 2-2,0,0,6,8,Out,t10,-2-,0,3(1-1),0,-0.01,-0.21,2.56,Bunt Groundout: P-2B/Sacrifice; Taveras to 3B
+330,1,9/5/2006,José Molina,LAA,BAL,Chris Ray,tied 2-2,0,0,9,2,Out,b9,-2-,0,2(1-0),0,0.01,-0.2,2.5,Bunt Groundout: 1B-2B/Sacrifice; Aybar to 3B
+331,1,9/8/2006,Andrés Blanco,KCR,@BOS,Mike Timlin,down 9-8,-1,1,7,11,Out,t9,12-,0,3(0-2),0,0,-0.11,5.2,Bunt Groundout: 1B-2B/Sacrifice; Brown to 3B; Keppinger to 2B
+332,1,9/9/2006,Oswaldo Navarro,SEA,TEX,Josh Rupe,tied 2-2,0,1,6,10,Out,b13,12-,0,3(2-0),0,0.03,-0.1,3.19,Bunt Groundout: C-2B/Sacrifice; Ibanez to 3B; Perez to 2B
+333,1,9/14/2006,Dustin Pedroia,BOS,@BAL,Rodrigo Lopez,tied 5-5,0,1,8,4,Out,t9,12-,0,2(0-1),0,0.02,-0.1,3.64,Bunt Groundout: P-2B/Sacrifice (Short 1B Line); Kapler to 3B; Nixon to 2B
+334,1,9/17/2006,Melvin Mora,BAL,@DET,Jason Grilli,tied 8-8,0,4,2,5,Out,t10,-2-,0,2(1-0),0,0,-0.2,2.57,Bunt Groundout: P-2B/Sacrifice; Roberts to 3B
+335,1,2006-09-17 (2),Coco Crisp,BOS,@NYY,Kyle Farnsworth,tied 4-4,0,1,1,8,RoE,t9,-2-,0,1(0-0),0,0.13,0.72,2.57,Reached on E2 (throw)/Sacrifice Bunt; Cora to 3B
+336,1,9/22/2006,Orlando Cabrera,LAA,@OAK,Brad Halsey,tied 4-4,0,0,2,6,Out,t12,-2-,0,3(2-0),0,0,-0.2,2.6,Bunt Groundout: P-1B/Sacrifice; Izturis to 3B
+337,1,9/26/2006,Paul Phillips,KCR,@MIN,Joe Nathan,down 3-2,-1,-1,7,2,Out,t9,12-,0,3(1-1),0,0,-0.1,5.32,Bunt Groundout: P-2B/Sacrifice; Brown to 3B; Berroa to 2B
+338,1,9/27/2006,Felipe Lopez,WSN,PHI,Tom Gordon,down 5-4,-1,0,2,6,Out,b9,12-,0,4(2-1),0,0.02,-0.09,6.09,Bunt Groundout: 3B-2B/Sacrifice; Schneider to 3B; Castro to 2B
+339,1,9/30/2006,Clint Barmes,COL,@CHC,Bob Howry,tied 9-9,0,0,7,4,Out,t10,-2-,0,3(2-0),0,0,-0.21,2.57,Bunt Groundout: 3B-2B/Sacrifice; Hawpe to 3B
+340,2,9/30/2006,Clint Barmes,COL,@CHC,Jae Kuk Ryu,tied 9-9,0,2,7,4,Out,t14,12-,0,1(0-0),0,0.02,-0.11,3.63,Bunt Groundout: 3B-2B/Sacrifice; Helton to 3B; Hawpe to 2B
+341,1,4/12/2007,Melvin Mora,BAL,KCR,Jason Standridge,tied 1-1,0,1,2,5,Out,b10,-2-,0,1(0-0),0,0.01,-0.21,2.5,Bunt Groundout: P-2B/Sacrifice; Roberts to 3B
+342,1,4/18/2007,Jim Edmonds,STL,@SFG,Jonathan Sánchez,tied 5-5,0,0,4,8,Out,t12,-2-,0,3(2-0),0,0,-0.19,2.6,Bunt Groundout: P-1B/Sacrifice (Front of Home); Pujols to 3B
+343,1,4/18/2007,Aaron Rowand,PHI,@WSN,Chad Cordero,down 4-3,-1,0,7,8,Out,t9,12-,0,2(0-1),0,0.01,-0.09,5.47,Bunt Groundout: P-2B/Sacrifice (Front of Home); Bourn to 3B; Helms to 2B
+344,1,4/20/2007,Brad Ausmus,HOU,@MIL,Greg Aquino,tied 2-2,0,4,8,2,FC,t9,12-,0,1(0-0),0,0.14,0.84,3.68,Fielder's Choice C/Sacrifice Bunt; Burke to 3B; Everett to 2B
+345,1,4/24/2007,José Molina,LAA,DET,Todd Jones,tied 8-8,0,1,8,2,Out,b10,12-,0,3(1-1),0,0.03,-0.11,3.15,Bunt Groundout: 1B-2B/Sacrifice (P's Left); Willits to 3B; Izturis to 2B
+346,1,4/27/2007,Wes Helms,PHI,FLA,Randy Messenger,tied 5-5,0,1,7,5,RoE,b9,12-,0,2(1-0),0,0.12,0.84,3.17,Reached on E1/Sacrifice Bunt (Bunt to P's Right); Bourn to 3B; Rowand to 2B
+347,1,5/28/2007,Josh Wilson,TBD,DET,Todd Jones,down 5-4,-1,1,8,11,Out,b9,12-,0,1(0-0),0,0.02,-0.1,6.01,Bunt Groundout: 3B-2B/Sacrifice (Weak 3B); Young to 3B; Iwamura to 2B
+348,1,5/29/2007,Fred Lewis,SFG,@NYM,Joe Smith,tied 3-3,0,1,8,9,Out,t12,-2-,0,3(1-1),0,0,-0.19,2.62,Bunt Groundout: C-2B/Sacrifice (Front of Home); Vizquel to 3B
+349,2,5/29/2007,Endy Chavez,NYM,SFG,Armando Benitez,down 4-3,-1,1,2,7,Out,b12,-2-,0,2(1-0),0,-0.03,-0.19,4.34,Bunt Groundout: 3B-2B/Sacrifice (P's Right); Reyes to 3B
+350,1,6/8/2007,Melky Cabrera,NYY,PIT,Matt Capps,tied 4-4,0,1,8,8,Out,b10,-2-,0,1(0-0),0,0.01,-0.21,2.5,Bunt Groundout: P-2B/Sacrifice (Front of Home); Canó to 3B
+351,1,6/15/2007,Chris Woodward,ATL,@CLE,CC Sabathia,down 4-3,-1,1,9,4,Out,t9,12-,0,2(1-0),0,0,-0.11,5.27,Bunt Groundout: 3B-2B/Sacrifice (Weak 3B); Orr to 3B; McCann to 2B
+352,1,6/23/2007,Ryan Theriot,CHC,@CHW,Bobby Jenks,tied 1-1,0,1,7,5,Out,t9,3-Jan,1,2(0-1),1,0.13,0.1,4.92,Bunt Groundout: P-1B/Sacrifice (Short 3B Line); Pagán Scores; Hill to 2B
+353,1,7/2/2007,Mark Teahen,KCR,SEA,Brandon Morrow,tied 2-2,0,1,3,3,Out,b11,12-,0,1(0-0),0,0.03,-0.1,3.16,Bunt Groundout: P-2B/Sacrifice (Front of Home); DeJesus to 3B; German to 2B
+354,1,7/7/2007,Craig Monroe,DET,BOS,Hideki Okajima,tied 2-2,0,0,8,7,Out,b10,12-,0,2(1-0),0,0.03,-0.11,3.14,Bunt Groundout: 3B-2B/Sacrifice (Front of Home); Rodriguez to 3B; Thames to 2B
+355,1,7/15/2007,Jamey Carroll,COL,@MIL,Francisco Cordero,down 4-3,-1,-1,9,11,Out,t9,-2-,0,2(1-0),0,-0.04,-0.19,3.78,Bunt Groundout: P-2B/Sacrifice (Short 1B Line); Quintanilla to 3B
+356,1,7/23/2007,David Ross,CIN,MIL,Grant Balfour,tied 1-1,0,1,8,2,FC,b12,12-,0,1(0-0),0,0.12,0.84,3.17,Fielder's Choice P/Sacrifice Bunt; Hopper to 3B; Lopez to 2B
+357,1,7/28/2007,Omar Vizquel,SFG,FLA,Kevin Gregg,tied 3-3,0,1,2,6,Out,b9,12-,0,5(3-1),0,0.03,-0.1,3.2,Bunt Groundout: 3B-2B/Sacrifice (Weak 3B); Lewis to 3B; Winn to 2B
+358,1,7/30/2007,Gregg Zaun,TOR,@TBD,Scott Dohmann,tied 4-4,0,0,8,2,Out,t11,12-,0,2(0-1),0,0.02,-0.1,3.66,Bunt Groundout: 3B-2B/Sacrifice (Short 3B Line); Clark to 3B; Hill to 2B
+359,1,7/31/2007,J.J. Hardy,MIL,NYM,Jorge Sosa,tied 2-2,0,0,2,6,Out,b9,12-,0,2(1-0),0,0.03,-0.1,3.21,Bunt Groundout: P-2B/Sacrifice (Front of Home); Jenkins to 3B; Hart to 2B
+360,1,8/1/2007,Ian Kinsler,TEX,@CLE,Jensen Lewis,tied 6-6,0,3,2,4,RoE,t10,12-,0,1(0-0),0,0.23,1.49,3.63,Reached on E1 (throw)/Sacrifice Bunt (Bunt to P's Right); Vázquez Scores/No RBI; Catalanotto to 3B; Kinsler to 2B
+361,1,8/1/2007,Augie Ojeda,ARI,@SDP,Heath Bell,tied 5-5,0,4,9,5,Out,t11,-2-,0,1(0-0),0,0,-0.17,2.67,Bunt Groundout: C-2B/Sacrifice (Short 1B Line); DaVanon to 3B
+362,1,8/4/2007,Mike Cameron,SDP,SFG,Randy Messenger,tied 2-2,0,1,2,8,Out,b12,-2-,0,2(0-1),0,0.02,-0.17,2.62,Bunt Groundout: 1B-2B/Sacrifice (Front of Home); Giles to 3B
+363,1,8/10/2007,Corey Patterson,BAL,BOS,Hideki Okajima,tied 5-5,0,1,2,8,Out,b9,-2-,0,1(0-0),0,0.01,-0.21,2.5,Bunt Groundout: P-2B/Sacrifice (Short 1B Line); Roberts to 3B
+364,1,8/18/2007,Matt Treanor,FLA,SFG,Brad Hennessey,down 4-3,-1,-1,7,2,Out,b9,-2-,0,3(1-1),0,-0.03,-0.19,4.34,Bunt Groundout: P-2B/Sacrifice (Front of Home); Hermida to 3B
+365,1,8/18/2007,Geronimo Gil,COL,@LAD,Rudy Seanez,tied 4-4,0,0,8,2,FC,t11,-2-,0,2(0-1),0,0.14,0.72,2.6,Fielder's Choice 1B/Sacrifice Bunt; Tulowitzki to 3B
+366,2,8/18/2007,Kazuo Matsui,COL,@LAD,Roberto Hernandez,tied 4-4,0,3,1,4,Out,t14,-2-,0,1(0-0),0,0,-0.19,2.6,Bunt Groundout: C-2B/Sacrifice (Front of Home); Spilborghs to 3B
+367,1,8/24/2007,Cory Sullivan,COL,WSN,Jon Rauch,tied 5-5,0,1,8,8,Out,b9,12-,0,2(1-0),0,0.03,-0.11,3.14,Bunt Groundout: C-2B/Sacrifice (Short 3B Line); Hawpe to 3B; Torrealba to 2B
+368,1,8/24/2007,Chris Burke,HOU,PIT,Shawn Chacon,tied 3-3,0,0,8,4,Out,b10,-2-,0,1(0-0),0,0.02,-0.19,2.54,Bunt Groundout: P-2B/Sacrifice (P's Right); Bruntlett to 3B
+369,1,8/29/2007,Juan Uribe,CHW,@TEX,Frank Francisco,tied 4-4,0,0,8,6,Out,t9,12-,0,2(1-0),0,0.02,-0.11,3.63,Bunt Groundout: 3B-2B/Sacrifice (Weak 3B); Gonzalez to 3B; Erstad to 2B
+370,1,8/30/2007,Adam Jones,SEA,@CLE,Joe Borowski,down 5-4,-1,0,8,9,Out,t9,12-,0,5(3-1),0,0,-0.11,5.27,Bunt Groundout: 3B-2B/Sacrifice (Front of Home); Broussard to 3B; Lopez to 2B
+371,1,9/6/2007,Mike Rabelo,DET,CHW,Bobby Jenks,down 2-1,-1,1,7,2,Out,b9,-2-,0,4(1-2),0,-0.04,-0.21,4.29,Bunt Groundout: P unassisted/Sacrifice (Weak 1B); Perez to 3B
+372,1,9/14/2007,Abraham Nunez,PHI,@NYM,Aaron Heilman,tied 2-2,0,1,8,5,Out,t10,12-,0,2(0-1),0,0.02,-0.09,3.69,Bunt Groundout: 3B-2B/Sacrifice (Short 3B Line); Werth to 3B; Ruiz to 2B
+373,1,9/23/2007,Paul Lo Duca,NYM,@FLA,Lee Gardner,tied 6-6,0,0,7,2,Out,t10,12-,0,1(0-0),0,0.02,-0.09,3.7,Bunt Groundout: C-2B/Sacrifice (Front of Home); Alou to 3B; Delgado to 2B
+374,1,3/31/2008,Jason Kendall,MIL,@CHC,Bob Howry,tied 3-3,0,1,9,2,Out,t10,-2-,0,1(0-0),0,0,-0.2,2.58,Bunt Groundout: 3B-2B/Sacrifice (Weak 3B); Counsell to 3B
+375,1,3/31/2008,Brandon Inge,DET,KCR,Joakim Soria,down 5-4,-1,-1,9,8,Out,b11,-2-,0,2(0-1),0,-0.04,-0.2,4.31,Bunt Groundout: 1B unassisted/Sacrifice (Weak 2B-1B); Thomas to 3B
+376,1,4/5/2008,Norris Hopper,CIN,PHI,Chad Durbin,tied 3-3,0,1,7,11,Out,b9,12-,0,1(0-0),0,0.03,-0.1,3.22,Bunt Groundout: 3B-2B/Sacrifice (Weak 3B); Encarnación to 2B; Freel to 3B
+377,1,4/7/2008,José Bautista,PIT,CHC,Jon Lieber,tied 8-8,0,0,7,5,Out,b9,3-Jan,1,1(0-0),0,-0.19,-0.58,5.28,Bunt Groundout: 1B unassisted/Sacrifice (Weak 2B-1B); Mientkiewicz to 2B
+378,1,4/12/2008,Aaron Miles,STL,@SFG,Erick Threets,tied 7-7,0,1,8,11,Out,t10,12-,0,1(0-0),0,0.02,-0.1,3.69,Bunt Groundout: 3B-2B/Sacrifice (Front of Home); Kennedy to 3B; LaRue to 2B
+379,1,4/13/2008,Gregg Zaun,TOR,@TEX,Dustin Nippert,tied 4-4,0,1,7,2,Out,t10,12-,0,1(0-0),0,0.02,-0.1,3.66,Bunt Groundout: 3B-2B/Sacrifice (Weak 3B); Scutaro to 3B; Overbay to 2B
+380,1,4/14/2008,Coco Crisp,BOS,@CLE,Joe Borowski,down 4-3,-1,2,1,8,Out,t9,-2-,0,2(1-0),0,-0.04,-0.19,3.78,Bunt Groundout: 3B-2B/Sacrifice (Weak 3B); Lugo to 3B
+381,1,4/17/2008,Jim Edmonds,SDP,COL,Manny Corpas,down 1-0,-1,0,5,8,Out,b14,12-,0,1(0-0),0,0.03,-0.07,6.26,Bunt Groundout: 3B-1B/Sacrifice (Weak 3B); Kouzmanoff to 3B; Clark to 2B
+382,2,4/17/2008,Yorvit Torrealba,COL,@SDP,Wil Ledezma,tied 1-1,0,0,8,2,Out,t17,-2-,0,2(1-0),0,0.01,-0.15,2.71,Bunt Groundout: 3B-2B/Sacrifice (P's Right); Barmes to 3B
+383,1,4/21/2008,Cesar Izturis,STL,@MIL,Derrick Turnbow,tied 3-3,0,1,9,6,Out,t9,-2-,0,1(0-0),0,0,-0.18,2.64,Bunt Groundout: C-2B/Sacrifice (Front of Home); Barton to 3B
+384,1,4/27/2008,Matt Kemp,LAD,COL,Manny Corpas,tied 2-2,0,1,3,9,Out,b10,12-,0,1(0-0),0,0.03,-0.09,3.26,Bunt Groundout: P-2B/Sacrifice (Front of Home); Furcal to 3B; Sweeney to 2B
+385,1,4/28/2008,Alex Cintron,BAL,@CHW,Horacio Ramirez,tied 3-3,0,1,5,10,Out,t14,12-,0,1(0-0),0,0.02,-0.11,3.63,Bunt Groundout: P-2B/Sacrifice (Front of Home); Markakis to 3B; Millar to 2B
+386,1,4/29/2008,Marlon Anderson,NYM,PIT,John Van Benschoten,tied 4-4,0,1,9,3,Out,b11,-2-,0,3(1-1),0,0.02,-0.18,2.58,Bunt Groundout: 3B-1B/Sacrifice (Weak 3B); Chavez to 3B
+387,1,4/30/2008,Wil Nieves,WSN,ATL,Manny Acosta,down 2-1,-1,1,8,2,RoE,b12,12-,0,4(1-2),0,0.22,0.85,6.11,Reached on E1/Sacrifice Bunt (Bunt to Weak SS-2B); Kearns to 3B; Harris to 2B
+388,1,5/2/2008,Brandon Wood,LAA,BAL,George Sherrill,down 4-3,-1,-1,8,5,Out,b9,12-,0,2(1-0),0,0.02,-0.1,6,Bunt Groundout: P-2B/Sacrifice (P's Right); Anderson to 3B; Aybar to 2B
+389,1,5/2/2008,Brendan Ryan,STL,CHC,Chad Fox,tied 3-3,0,2,9,4,Out,b11,-2-,0,5(3-1),0,0.02,-0.18,2.58,Bunt Groundout: C-2B/Sacrifice (Front of Home); Miles to 3B
+390,1,5/7/2008,Ivan Rodriguez,DET,BOS,Jonathan Papelbon,down 9-8,-1,1,9,2,Out,b9,12-,0,2(0-1),0,0.02,-0.1,6,Bunt Groundout: C-2B/Sacrifice (Short 1B Line); Raburn to 3B; Renteria to 2B
+391,1,2008-05-12 (2),Gregg Zaun,TOR,@CLE,Rafael Betancourt,tied 0-0,0,3,8,2,Out,t10,12-,0,1(0-0),0,0.02,-0.1,3.68,Bunt Groundout: 3B-2B/Sacrifice (Weak 3B); Stairs to 3B; Overbay to 2B
+392,1,5/20/2008,Carlos Ruiz,PHI,@WSN,Jon Rauch,tied 0-0,0,1,8,2,Out,t9,-2-,0,1(0-0),0,0,-0.18,2.64,Bunt Groundout: P-2B/Sacrifice (P's Right); Bruntlett to 3B
+393,1,5/24/2008,Freddy Sanchez,PIT,CHC,Kerry Wood,down 4-3,-1,0,1,4,Out,b9,12-,0,3(2-0),0,0.02,-0.09,6.14,Bunt Groundout: 3B-2B/Sacrifice (Weak 3B); Mientkiewicz to 3B; Nady to 2B
+394,1,5/26/2008,Corey Hart,MIL,@WSN,Saul Rivera,tied 3-3,0,1,5,9,Out,t11,-2-,0,5(3-1),0,0,-0.18,2.64,Bunt Groundout: P-1B/Sacrifice (Front of Home); Fielder to 3B
+395,1,5/28/2008,Jamey Carroll,CLE,CHW,Bobby Jenks,down 6-5,-1,-1,2,4,Out,b9,12-,0,2(1-0),0,0.02,-0.1,6.05,Bunt Groundout: P-2B/Sacrifice (Front of Home); Cabrera to 3B; Sizemore to 2B
+396,1,6/2/2008,Chris Snyder,ARI,@MIL,Salomon Torres,down 4-3,-1,-1,7,2,Out,t9,12-,0,5(2-2),0,0.01,-0.09,5.45,Bunt Groundout: P-1B/Sacrifice (Front of Home); Reynolds to 3B; Upton to 2B
+397,1,6/6/2008,Jimmy Rollins,PHI,@ATL,Manny Acosta,tied 2-2,0,2,1,6,Out,t10,-2-,0,2(0-1),0,0,-0.18,2.64,Bunt Groundout: P-2B/Sacrifice (Front of Home); Taguchi to 3B
+398,1,6/9/2008,Miguel Cairo,SEA,@TOR,Brian Wolfe,tied 2-2,0,1,7,3,Out,t10,123,1,3(1-1),1,0.12,0.02,5.88,Bunt Groundout: C-1B/Sacrifice (Front of Home); Bloomquist Scores; Lopez to 3B; Balentien to 2B
+399,1,6/12/2008,Jeff Salazar,ARI,@NYM,Aaron Heilman,tied 4-4,0,1,7,7,Out,t10,-2-,0,1(0-0),0,0,-0.18,2.64,Bunt Groundout: P-2B/Sacrifice (Front of Home); Upton to 3B
+400,1,6/22/2008,Dustin Pedroia,BOS,STL,Kyle McClellan,tied 3-3,0,0,2,4,Out,b10,-2-,0,1(0-0),0,0.01,-0.21,2.48,Bunt Groundout: 1B-2B/Sacrifice (Short 1B Line); Ellsbury to 3B
+401,1,6/25/2008,David Ross,CIN,@TOR,Brian Wolfe,tied 5-5,0,1,9,2,Out,t10,12-,0,2(1-0),0,0.02,-0.09,3.69,Bunt Groundout: P-2B/Sacrifice (Front of Home); Hopper to 3B; Janish to 2B
+402,1,7/5/2008,Aaron Boone,WSN,@CIN,Francisco Cordero,down 2-1,-1,0,6,5,Out,t9,12-,0,1(0-0),0,0.01,-0.1,5.39,Bunt Groundout: C-2B/Sacrifice (Front of Home); Lopez to 3B; Kearns to 2B
+403,1,7/6/2008,J.R. Towles,HOU,@ATL,Manny Acosta,tied 6-6,0,0,5,2,Out,t15,12-,0,2(1-0),0,0.02,-0.09,3.72,Bunt Groundout: C-2B/Sacrifice (Front of Home); Pence to 3B; Lee to 2B
+404,1,7/8/2008,Denard Span,MIN,@BOS,Jonathan Papelbon,down 6-5,-1,-1,9,9,Out,t9,-2-,0,1(0-0),0,-0.04,-0.21,3.7,Bunt Groundout: P-2B/Sacrifice (Front of Home); Punto to 3B
+405,1,7/13/2008,Jeremy Reed,SEA,@KCR,Joakim Soria,tied 3-3,0,1,5,8,Out,t9,-2-,0,2(1-0),0,0,-0.19,2.61,Bunt Groundout: 3B-2B/Sacrifice (Weak 3B); Beltré to 3B
+406,1,7/13/2008,Daric Barton,OAK,LAA,Francisco Rodríguez,down 4-3,-1,-1,7,3,Out,b9,12-,0,3(0-2),0,0.02,-0.09,6.11,Bunt Groundout: P-2B/Sacrifice (Front of Home); González to 3B; Ellis to 2B
+407,1,7/29/2008,Miguel Cairo,SEA,@TEX,C.J. Wilson,down 9-8,-1,1,7,3,Out,t9,12-,0,1(0-0),0,0,-0.1,5.32,Bunt Groundout: C-2B/Sacrifice; Lopez to 3B; Washburn to 2B
+408,1,8/3/2008,Akinori Iwamura,TBR,DET,Fernando Rodney,down 5-4,-1,1,1,4,Out,b10,12-,0,2(0-1),0,0.02,-0.1,6.01,Bunt Groundout: C-2B/Sacrifice (Front of Home); Aybar to 3B; Riggans to 2B
+409,1,8/15/2008,Daric Barton,OAK,CHW,Horacio Ramirez,tied 4-4,0,2,8,3,Out,b9,-2-,0,1(0-0),0,0.02,-0.18,2.58,Bunt Groundout: P unassisted/Sacrifice (P's Left); Pennington to 3B
+410,1,8/16/2008,Delmon Young,MIN,SEA,Miguel Batista,tied 6-6,0,1,5,7,Out,b9,12-,0,1(0-0),0,0.03,-0.09,3.24,Bunt Groundout: 3B-2B/Sacrifice (Weak SS); Mauer to 3B; Morneau to 2B
+411,1,8/20/2008,Ivan Ochoa,SFG,FLA,Matt Lindstrom,tied 5-5,0,1,2,6,Out,b9,12-,0,3(2-0),0,0.03,-0.1,3.22,Bunt Groundout: 3B-2B/Sacrifice (P's Right); Roberts to 3B; Winn to 2B
+412,1,9/3/2008,Jacoby Ellsbury,BOS,BAL,Jim Miller,tied 4-4,0,1,1,9,FC,b9,12-,0,1(0-0),0,0.17,1,3.12,*WALK-OFF*:*ENDED GAME*:Fielder's Choice P/Sacrifice Bunt; Cora Scores/Adv on E1 (throw to 3B)/unER/No RBI; Crisp to 2B
+413,1,9/9/2008,Brian Barden,STL,CHC,Carlos Marmol,tied 3-3,0,1,8,11,Out,b9,12-,0,2(0-1),0,0.03,-0.09,3.26,Bunt Groundout: 3B-2B/Sacrifice (Weak 3B); Ryan to 3B; Lopez to 2B
+414,1,9/24/2008,Brett Gardner,NYY,@TOR,Jesse Carlson,tied 2-2,0,4,1,8,Out,t10,12-,0,1(0-0),0,0.02,-0.09,3.69,Bunt Groundout: 3B-2B/Sacrifice (Weak 3B); Cabrera to 3B; Moeller to 2B
+415,1,4/12/2009,Chris Coste,PHI,@COL,Huston Street,tied 5-5,0,2,8,2,Out,t9,-2-,0,1(0-0),0,0,-0.21,2.57,Bunt Groundout: 3B-2B/Sacrifice (Weak 3B); Feliz to 3B
+416,1,4/14/2009,Yuniesky Betancourt,SEA,LAA,Scot Shields,tied 2-2,0,1,9,6,RoE,b10,-2-,0,2(1-0),0,0.19,0.76,2.57,*WALK-OFF*:*ENDED GAME*:Reached on E1 (throw)/Sacrifice Bunt (Bunt to Short 1B Line); Gutierrez Scores/No RBI/unER
+417,1,5/13/2009,Luis Castillo,NYM,ATL,Mike Gonzalez,down 8-7,-1,-1,2,4,Out,b12,-2-,0,2(0-1),0,-0.03,-0.17,4.36,Bunt Groundout: 1B-2B/Sacrifice (Weak 2B-1B); Reyes to 3B
+418,1,5/16/2009,Josh Wilson,SDP,CIN,Jared Burton,tied 5-5,0,0,8,6,Out,b10,12-,0,2(0-1),0,0.03,-0.07,3.37,Bunt Groundout: P-2B/Sacrifice (Front of Home); Kouzmanoff to 3B; Hundley to 2B
+419,1,5/30/2009,Franklin Gutierrez,SEA,@LAA,Jose Arredondo,tied 3-3,0,1,9,8,Out,t10,-2-,0,1(0-0),0,0,-0.2,2.59,Bunt Groundout: P-2B/Sacrifice (Front of Home); Balentien to 3B
+420,1,5/30/2009,Miguel Montero,ARI,ATL,Jeff Bennett,tied 2-2,0,1,6,2,Out,b11,-2-,0,2(0-1),0,0.02,-0.19,2.55,Bunt Groundout: 3B-2B/Sacrifice (Weak 3B); Reynolds to 3B
+421,1,6/6/2009,Alex Gonzalez,CIN,CHC,Sean Marshall,tied 3-3,0,1,7,6,Out,b11,-2-,0,2(1-0),0,0.02,-0.18,2.58,Bunt Groundout: P-2B/Sacrifice (Front of Home); Bruce to 3B
+422,1,6/7/2009,Ramon Hernandez,CIN,CHC,Jose Ascanio,tied 3-3,0,0,5,3,Out,b10,-2-,0,3(2-0),0,0.02,-0.18,2.58,Bunt Groundout: 3B-2B/Sacrifice (Front of Home); Nix to 3B
+423,1,6/7/2009,Clay Zavada,ARI,@SDP,Luke Gregerson,tied 6-6,0,0,9,1,Out,t15,3-Jan,1,2(0-1),0,-0.18,-0.57,5.42,Bunt Groundout: 1B-2B/Sacrifice (Front of Home); Whitesell to 2B
+424,1,6/11/2009,Daric Barton,OAK,MIN,Matt Guerrier,tied 3-3,0,1,7,3,Out,b9,12-,0,1(0-0),0,0.03,-0.1,3.2,Bunt Groundout: P-1B/Sacrifice (Front of Home); Denorfia to 3B; Suzuki to 2B
+425,1,6/18/2009,Brian Roberts,BAL,NYM,Francisco Rodríguez,down 4-3,-1,1,1,4,FC,b9,12-,0,1(0-0),0,0.21,0.84,5.99,Fielder's Choice C/Sacrifice Bunt; Pie to 3B; Reimold to 2B
+426,1,7/3/2009,Chris Woodward,SEA,@BOS,Ramon Ramirez,tied 5-5,0,2,7,5,Out,t11,12-,0,1(0-0),0,0.02,-0.11,3.61,Bunt Groundout: P-2B/Sacrifice (Front of Home); Gutierrez to 3B; Langerhans to 2B
+427,1,7/7/2009,Brandon Phillips,CIN,@PHI,Brad Lidge,tied 3-3,0,1,4,4,Out,t9,-2-,0,1(0-0),0,0,-0.18,2.64,Bunt Groundout: 1B unassisted/Sacrifice (Weak 2B-1B); Votto to 3B
+428,1,7/31/2009,Gerald Laird,DET,@CLE,Tomo Ohka,tied 5-5,0,0,8,2,Out,t10,-2-,0,1(0-0),0,0,-0.19,2.62,Bunt Groundout: 3B-1B/Sacrifice (Weak 3B); Inge to 3B
+429,1,8/2/2009,Carlos González,COL,@CIN,Nick Masset,tied 4-4,0,2,8,7,Out,t11,-2-,0,3(2-0),0,0,-0.18,2.64,Bunt Groundout: 3B-1B/Sacrifice (Front of Home); Iannetta to 3B
+430,1,8/22/2009,Ryan Langerhans,SEA,@CLE,Tony Sipp,tied 3-3,0,0,4,10,Out,t10,-2-,0,2(1-0),0,0,-0.19,2.62,Bunt Groundout: C-2B/Sacrifice (Front of Home); Lopez to 3B
+431,1,9/6/2009,Wes Helms,FLA,@WSN,Mike MacDougal,tied 2-2,0,2,9,5,Out,t9,12-,0,1(0-0),0,0.02,-0.09,3.73,Bunt Groundout: 3B-2B/Sacrifice (Short 3B Line); Bonifácio to 3B; Maybin to 2B
+432,1,9/9/2009,Ryan Roberts,ARI,LAD,Ramon Troncoso,tied 3-3,0,1,1,4,Out,b9,-2-,0,2(1-0),0,0.02,-0.19,2.55,Bunt Groundout: 1B-2B/Sacrifice (Front of Home); Oeltjen to 3B
+433,1,9/16/2009,Yunel Escobar,ATL,NYM,Francisco Rodríguez,down 5-4,-1,1,5,6,Out,b9,12-,0,2(1-0),0,0.02,-0.09,6.13,Bunt Groundout: P-2B/Sacrifice (Short 3B Line); Gorecki to 3B; Ross to 2B
+434,1,9/22/2009,Johnny Damon,NYY,@LAA,Darren Oliver,tied 5-5,0,1,2,7,Out,t9,12-,0,4(1-2),0,0.02,-0.1,3.66,Bunt Groundout: C-1B/Sacrifice (Front of Home); Gardner to 3B; Jeter to 2B
+435,1,9/27/2009,Fernando Perez,TBR,@TEX,Neftalí Feliz,tied 6-6,0,1,5,9,Out,t9,3-Jan,1,1(0-0),1,0.13,0.1,4.94,Bunt Groundout: 1B unassisted/Sacrifice (Short 1B Line); Longoria Scores; Zobrist to 2B
+436,1,2009-09-29 (1),Matt Tolbert,MIN,@DET,Brandon Lyon,tied 1-1,0,0,8,5,Out,t9,-2-,0,2(0-1),0,0,-0.2,2.58,Bunt Groundout: P-2B/Sacrifice (Front of Home); Casilla to 3B
+437,1,10/4/2009,Jeff Fiorentino,BAL,TOR,Brandon League,tied 4-4,0,1,9,8,RoE,b11,12-,0,3(1-1),0,0.18,1,3.17,*WALK-OFF*:*ENDED GAME*:Reached on E1 (throw)/Sacrifice Bunt (Bunt to Front of Home); Aubrey Scores/unER/No RBI; Montanez to 2B
+438,1,4/9/2010,John McDonald,TOR,@BAL,Mike Gonzalez,tied 6-6,0,1,9,4,Out,t9,-2-,0,5(2-2),0,0,-0.18,2.65,Bunt Groundout: 1B-2B/Sacrifice (Short 1B Line); Snider to 3B
+439,1,4/9/2010,Andres Torres,SFG,ATL,Kris Medlen,tied 4-4,0,0,4,11,Out,b12,-2-,0,1(0-0),0,0.02,-0.17,2.62,Bunt Groundout: C-2B/Sacrifice (Front of Home); Sandoval to 3B
+440,1,4/12/2010,Taylor Teagarden,TEX,@CLE,Chris Perez,tied 2-2,0,0,8,2,FC,t9,-2-,0,1(0-0),0,0.14,0.73,2.68,Fielder's Choice P/Sacrifice Bunt; Arias to 3B; Teagarden to 1B
+441,1,4/17/2010,Brendan Ryan,STL,NYM,Hisanori Takahashi,tied 0-0,0,0,9,6,RoE,b14,-2-,0,3(0-2),0,0.13,0.73,2.62,Reached on E1/Sacrifice Bunt (Bunt to P's Right); Mather to 3B; Ryan to 1B
+442,1,4/18/2010,Michael Bourn,HOU,@CHC,Sean Marshall,tied 2-2,0,1,1,8,Out,t10,-2-,0,3(1-1),0,0,-0.18,2.63,Bunt Groundout: 3B-2B/Sacrifice (Weak 3B); Michaels to 3B
+443,1,4/20/2010,Bill Hall,BOS,TEX,Frank Francisco,tied 6-6,0,1,5,7,Out,b9,-2-,0,5(3-1),0,0.02,-0.19,2.54,Bunt Groundout: 3B-2B/Sacrifice (Weak 3B); Youkilis to 3B
+444,1,5/14/2010,Nate McLouth,ATL,ARI,Chad Qualls,down 5-4,-1,1,8,8,Out,b9,12-,0,1(0-0),0,0.02,-0.08,6.17,Bunt Groundout: P-2B/Sacrifice; Hicks to 3B; Infante to 2B
+445,1,5/17/2010,Corey Patterson,BAL,KCR,Joakim Soria,down 4-3,-1,-1,1,7,Out,b9,12-,0,1(0-0),0,0.02,-0.09,6.13,Bunt Groundout: 1B-2B/Sacrifice (Weak 2B-1B); Lugo to 3B; Izturis to 2B
+446,1,5/17/2010,Jason Bartlett,TBR,CLE,Jamey Wright,tied 3-3,0,1,9,6,FC,b11,3-Jan,1,3(1-1),1,0.18,0.72,5.36,*WALK-OFF*:*ENDED GAME*:Fielder's Choice P/Sacrifice Bunt; Jaso Scores; Kapler to 2B
+447,1,5/18/2010,Gary Matthews,NYM,@ATL,Billy Wagner,tied 2-2,0,0,3,11,Out,t9,-2-,0,5(3-1),0,0,-0.17,2.67,Bunt Groundout: P-2B/Sacrifice (Front of Home); Castillo to 3B
+448,1,5/18/2010,Francisco Cervelli,NYY,BOS,Jonathan Papelbon,down 7-6,-1,-1,6,2,Out,b9,-2-,0,3(1-1),0,-0.03,-0.19,4.33,Bunt Groundout: 3B-2B/Sacrifice (Weak 3B); Canó to 3B
+449,1,5/26/2010,Trevor Crowe,CLE,CHW,Bobby Jenks,down 5-4,-1,-1,1,8,Out,b9,12-,0,3(1-1),0,0.02,-0.08,6.19,Bunt Groundout: 3B-2B/Sacrifice (Front of Home); Hafner to 3B; Duncan to 2B
+450,1,6/2/2010,Dioner Navarro,TBR,@TOR,Shaun Marcum,down 2-1,-1,5,8,2,FC,t9,3-Jan,1,1(0-0),1,0.21,0.73,5.9,Fielder's Choice 1B/Sacrifice Bunt; Rodríguez Scores; Jaso to 2B
+451,1,6/19/2010,Jon Rauch,MIN,@PHI,Danys Báez,tied 10-10,0,3,5,1,Out,t11,12-,1,3(0-2),0,-0.07,-0.31,4.62,Bunt Groundout: 1B unassisted/Sacrifice (Short 1B Line); Mauer to 3B; Morneau to 2B
+452,1,6/20/2010,Alcides Escobar,MIL,@COL,Manny Corpas,tied 1-1,0,5,8,6,FC,t9,-2-,0,2(0-1),0,0.13,0.72,2.56,Fielder's Choice P/Sacrifice Bunt; Kottaras to 3B
+453,1,7/2/2010,Jarrett Hoffpauir,TOR,@NYY,David Robertson,tied 1-1,0,5,9,5,Out,t11,12-,0,3(1-1),0,0.02,-0.1,3.68,Bunt Groundout: 3B-2B/Sacrifice (P's Right); Overbay to 3B; Buck to 2B
+454,1,7/10/2010,Miguel Cairo,CIN,@PHI,Brad Lidge,tied 0-0,0,0,6,5,Out,t10,-2-,0,4(2-1),0,0,-0.18,2.64,Bunt Groundout: P-2B/Sacrifice (Front of Home); Bruce to 3B
+455,1,2010-07-17 (2),Danny Worth,DET,@CLE,Chris Perez,tied 1-1,0,0,9,6,Out,t9,-2-,0,1(0-0),0,0,-0.16,2.68,Bunt Groundout: 3B-1B/Sacrifice (Weak 3B); Damon to 3B
+456,1,7/20/2010,Aaron Rowand,SFG,@LAD,Jonathan Broxton,down 5-4,-1,2,8,8,Out,t9,12-,0,1(0-0),0,0.01,-0.08,5.55,Bunt Groundout: P-2B/Sacrifice (Front of Home); Schierholtz to 3B; Renteria to 2B
+457,1,7/22/2010,Chone Figgins,SEA,BOS,Hideki Okajima,tied 6-6,0,0,2,4,Out,b12,12-,0,3(2-0),0,0.03,-0.08,3.34,Bunt Groundout: 3B-2B/Sacrifice (Weak 3B); Wilson to 3B; Suzuki to 2B
+458,1,7/30/2010,Yadier Molina,STL,PIT,Javier López,tied 0-0,0,1,6,2,Out,b10,-2-,0,3(1-1),0,0.02,-0.17,2.62,Bunt Groundout: 3B-2B/Sacrifice (Weak 3B); Ludwick to 3B
+459,1,7/31/2010,Aaron Hill,TOR,CLE,Chris Perez,down 2-1,-1,-1,6,4,Out,b9,12-,0,1(0-0),0,0.02,-0.09,6.09,Bunt Groundout: C-2B/Sacrifice (Front of Home); Wells to 3B; Wise to 2B
+460,1,8/3/2010,Mitch Maier,KCR,@OAK,Craig Breslow,tied 2-2,0,1,7,9,Out,t9,-2-,0,1(0-0),0,0,-0.18,2.65,Bunt Groundout: 3B-1B/Sacrifice (Short 3B Line); Gordon to 3B
+461,1,8/5/2010,Corey Patterson,BAL,LAA,Francisco Rodriguez,tied 4-4,0,1,8,10,Out,b9,-2-,0,1(0-0),0,0.02,-0.18,2.59,Bunt Groundout: P-1B/Sacrifice (Weak 2B-1B); Lugo to 3B
+462,1,8/9/2010,Augie Ojeda,ARI,@MIL,John Axford,down 4-3,-1,0,7,11,Out,t9,12-,0,3(1-1),0,0.01,-0.08,5.49,Bunt Groundout: 3B-2B/Sacrifice (Weak 3B); Reynolds to 3B; Drew to 2B
+463,1,8/16/2010,Felix Pie,BAL,SEA,David Aardsma,down 4-3,-1,0,6,7,Out,b10,12-,0,1(0-0),0,0.02,-0.09,6.13,Bunt Groundout: 3B-1B/Sacrifice (Short 3B Line); Patterson to 3B; Jones to 2B
+464,1,8/17/2010,Omar Vizquel,CHW,@MIN,Matt Capps,tied 5-5,0,0,2,5,Out,t9,12-,0,1(0-0),0,0.02,-0.08,3.75,Bunt Groundout: 3B-2B/Sacrifice (Weak 3B); Beckham to 3B; Pierre to 2B
+465,1,9/10/2010,Brett Gardner,NYY,@TEX,Darren Oliver,tied 5-5,0,0,9,7,Out,t12,-2-,0,1(0-0),0,0,-0.2,2.59,Bunt Groundout: 3B-2B/Sacrifice (Weak 3B); Moeller to 3B
+466,1,9/11/2010,A.J. Ellis,LAD,@HOU,Brandon Lyon,tied 3-3,0,3,8,2,RoE,t9,12-,0,2(0-1),0,0.27,1.94,3.77,Reached on E1 (throw to 1B)/Sacrifice Bunt (Bunt to Weak 3B); Oeltjen Scores/No RBI; Johnson Scores/No RBI; Ellis to 3B
+467,1,9/16/2010,Asdrúbal Cabrera,CLE,LAA,Kevin Jepsen,tied 2-2,0,0,2,6,Out,b10,-2-,0,2(1-0),0,0.02,-0.16,2.63,Bunt Groundout: 3B-2B/Sacrifice (Short 3B Line); Brantley to 3B
+468,1,9/22/2010,Bengie Molina,TEX,@LAA,Matt Palmer,tied 1-1,0,1,7,2,Out,t12,12-,0,2(1-0),0,0.02,-0.08,3.77,Bunt Groundout: 1B-2B/Sacrifice (Weak 2B-1B); Francoeur to 3B; Davis to 2B
+469,1,9/29/2010,Andrew Romine,LAA,OAK,Brad Ziegler,tied 1-1,0,0,4,11,Out,b10,12-,0,1(0-0),0,0.03,-0.08,3.31,Bunt Groundout: P-2B/Sacrifice (Weak 3B); Kendrick to 3B; Hunter to 2B
+470,1,2010-10-02 (2),Kevin Cash,BOS,NYY,Iván Nova,tied 6-6,0,1,9,2,Out,b10,-2-,0,3(2-0),0,0.02,-0.19,2.54,Bunt Groundout: 3B-2B/Sacrifice (Weak SS); Hall to 3B
+471,1,4/1/2011,Juan Miranda,ARI,@COL,Matt Belisle,tied 6-6,0,0,5,3,Out,t10,12-,0,1(0-0),0,0.02,-0.1,3.65,Bunt Groundout: 3B-2B/Sacrifice (Weak 3B); Upton to 3B; Young to 2B
+472,1,4/3/2011,Lyle Overbay,PIT,@CHC,Carlos Marmol,down 4-3,-1,1,4,3,Out,t9,12-,0,2(1-0),0,0.01,-0.08,5.57,Bunt Groundout: 3B-2B/Sacrifice (Front of Home); Jones to 3B; Walker to 2B
+473,1,4/11/2011,Brendan Ryan,SEA,TOR,Shawn Camp,down 7-6,-1,1,8,6,Out,b9,-2-,0,3(2-0),0,-0.03,-0.16,4.39,Bunt Groundout: P-2B/Sacrifice (Front of Home); Saunders to 3B
+474,1,4/26/2011,Michael Bourn,HOU,STL,Mitchell Boggs,down 5-4,-1,1,1,8,RoE,b9,-2-,0,2(1-0),0,0.22,0.73,4.39,Reached on E1/Sacrifice Bunt (Bunt to P's Left); Bogusevic to 3B
+475,1,4/27/2011,Brett Hayes,FLA,LAD,Matt Guerrier,tied 4-4,0,0,8,2,Out,b9,12-,0,4(2-1),0,0.03,-0.08,3.34,Bunt Groundout: 3B-2B/Sacrifice (Short 3B Line); Martínez to 3B; Bonifácio to 2B
+476,1,4/30/2011,Miguel Cairo,CIN,FLA,Mike Dunn,tied 3-3,0,1,6,5,RoE,b10,12-,0,1(0-0),0,0.12,0.85,3.31,Reached on E1 (throw to 1B)/Sacrifice Bunt (Bunt to Front of Home); Phillips to 3B; Gomes to 2B
+477,1,4/30/2011,Asdrúbal Cabrera,CLE,DET,Brayan Villarreal,tied 2-2,0,1,2,6,Out,b13,-2-,0,1(0-0),0,0.02,-0.17,2.63,Bunt Groundout: C-2B/Sacrifice; Brantley to 3B
+478,1,5/14/2011,Jason Bartlett,SDP,@COL,Huston Street,tied 7-7,0,2,2,6,Out,t9,-2-,0,1(0-0),0,0,-0.2,2.58,Bunt Groundout: P-2B/Sacrifice (Short 3B Line); Venable to 3B
+479,1,5/19/2011,Cameron Maybin,SDP,MIL,Marco Estrada,tied 0-0,0,1,5,8,Out,b9,12-,0,2(0-1),0,0.03,-0.06,3.44,Bunt Groundout: P-1B/Sacrifice (Front of Home); Patterson to 3B; Hawpe to 2B
+480,1,5/22/2011,Daniel Descalso,STL,@KCR,Joakim Soria,tied 7-7,0,0,8,5,Out,t9,12-,0,4(3-0),0,0.02,-0.09,3.73,Bunt Groundout: 3B-1B/Sacrifice (Weak 3B); Rasmus to 3B; Molina to 2B
+481,1,5/23/2011,Ichiro Suzuki,SEA,@MIN,Anthony Swarzak,tied 7-7,0,1,1,9,Out,t10,12-,0,1(0-0),0,0.02,-0.09,3.73,Bunt Groundout: 3B-2B/Sacrifice (Weak 3B); Wilson to 3B; Olivo to 2B
+482,1,5/25/2011,Placido Polanco,PHI,CIN,Carlos Fisher,tied 4-4,0,1,3,4,Out,b19,12-,0,3(2-0),0,0.03,-0.08,3.34,Bunt Groundout: P-1B/Sacrifice (Short 3B Line); Rollins to 3B; Brown to 2B
+483,1,5/25/2011,Chris Snyder,PIT,ATL,Jonny Venters,tied 2-2,0,0,9,11,Out,b9,12-,0,2(1-0),0,0.03,-0.07,3.41,Bunt Groundout: 3B-2B/Sacrifice (Short 3B Line); Ciriaco to 3B; Cedeno to 2B
+484,1,5/28/2011,Juan Pierre,CHW,@TOR,Jason Frasor,tied 8-8,0,0,1,7,Out,t11,-2-,0,2(1-0),0,0,-0.19,2.61,Bunt Groundout: 3B-2B/Sacrifice (Short 3B Line); Morel to 3B
+485,1,5/30/2011,Blake Tekotte,SDP,@ATL,Jonny Venters,tied 2-2,0,0,6,8,Out,t9,12-,0,2(1-0),0,0.02,-0.08,3.79,Bunt Groundout: 3B-2B/Sacrifice (Short 3B Line); Hawpe to 3B; Headley to 2B
+486,1,5/31/2011,Angel Sanchez,HOU,@CHC,Carlos Marmol,tied 3-3,0,4,9,11,Out,t9,-2-,0,2(0-1),0,0,-0.16,2.69,Bunt Groundout: P-2B/Sacrifice (Weak 3B); Downs to 3B
+487,1,6/6/2011,Alcides Escobar,KCR,TOR,Frank Francisco,tied 2-2,0,1,9,6,Out,b11,12-,0,2(0-1),0,0.03,-0.09,3.27,Bunt Groundout: P-2B/Sacrifice (Short 3B Line); Getz to 3B; Peña to 2B
+488,1,6/8/2011,Reid Brignac,TBR,@LAA,Fernando Rodney,tied 3-3,0,1,9,6,Out,t10,3-Jan,0,3(1-1),1,0.05,-0.15,2.51,Bunt Groundout: 1B unassisted/Sacrifice (Short 1B Line); Jaso Scores; Longoria to 2B
+489,1,6/14/2011,Kosuke Fukudome,CHC,MIL,Tim Dillard,tied 4-4,0,1,1,9,Out,b10,-2-,0,3(2-0),0,0.02,-0.16,2.64,Bunt Groundout: P-1B/Sacrifice (Front of Home); Campana to 3B
+490,1,6/23/2011,Ivan Rodriguez,WSN,SEA,Chris Ray,tied 0-0,0,1,6,2,FC,b9,12-,0,2(1-0),0,0.13,0.85,3.35,Fielder's Choice 1B/Sacrifice Bunt; Bixler to 3B; Espinosa to 2B
+491,1,6/26/2011,Jamey Carroll,LAD,LAA,Jordan Walden,down 2-1,-1,1,8,6,Out,b9,12-,0,3(1-1),0,0.03,-0.07,6.27,Bunt Groundout: P-2B/Sacrifice (Front of Home); Strange-Gordon to 3B; Navarro to 2B
+492,1,6/30/2011,Brandon Crawford,SFG,@CHC,John Grabow,tied 1-1,0,0,6,6,Out,t12,12-,0,4(1-2),0,0.02,-0.08,3.79,Bunt Groundout: 1B-2B/Sacrifice (Front of Home); Ross to 3B; Schierholtz to 2B
+493,1,6/30/2011,Gordon Beckham,CHW,@COL,Clayton Mortensen,tied 4-4,0,2,8,4,RoE,t10,12-,0,2(0-1),0,0.14,0.84,3.65,Reached on E1/Sacrifice Bunt (Bunt to Front of Home); Ramírez to 3B; Pierzynski to 2B; Beckham to 1B
+494,1,7/5/2011,Scott Sizemore,OAK,SEA,Brandon League,down 2-1,-1,0,2,5,Out,b9,-2-,0,1(0-0),0,-0.03,-0.18,4.36,Bunt Groundout: C-2B/Sacrifice (Front of Home); Weeks to 3B
+495,1,7/14/2011,Eli Whiteside,SFG,@SDP,Luke Gregerson,tied 1-1,0,5,8,2,RoE,t12,12-,0,2(0-1),0,0.15,0.85,3.88,Reached on E1/Sacrifice Bunt (Bunt to Weak 3B); Burriss to 3B; Crawford to 2B
+496,1,7/17/2011,Chris Stewart,SFG,@SDP,Heath Bell,tied 3-3,0,0,9,11,Out,t9,-2-,0,3(1-1),0,0.01,-0.15,2.74,Bunt Groundout: P-2B/Sacrifice (Front of Home); Burriss to 3B
+497,2,7/17/2011,Chris Stewart,SFG,@SDP,Chad Qualls,tied 3-3,0,1,9,2,Out,t11,0,1,4(2-1),1,0.15,0.2,4.72,Bunt Groundout: P-1B/Sacrifice (Short 3B Line); Burriss Scores
+498,1,7/23/2011,Ian Kinsler,TEX,TOR,Jon Rauch,down 4-3,-1,1,1,4,Out,b9,12-,0,1(0-0),0,0.02,-0.1,5.99,Bunt Groundout: P-2B/Sacrifice (Front of Home); Napoli to 3B; Gentry to 2B
+499,2,7/23/2011,Elvis Andrus,TEX,TOR,Jon Rauch,down 4-3,-1,1,2,6,Out,b9,-23,1,1(0-0),1,0.08,-0.07,5.75,Bunt Groundout: P-C-2B/Sacrifice (Front of Home); Napoli Scores; Gentry to 3B
+500,1,7/25/2011,Mike Aviles,KCR,@BOS,Randy Williams,tied 1-1,0,2,6,5,Out,t14,3-Jan,0,2(0-1),1,0.04,-0.17,2.38,Bunt Groundout: 2B unassisted/Sacrifice (2B-1B); Hosmer Scores; Francoeur to 2B
+501,1,7/26/2011,Cristhian Martinez,ATL,PIT,Jason Grilli,tied 3-3,0,0,1,1,Out,b11,12-,1,2(0-1),0,-0.07,-0.29,4.32,Bunt Groundout: 1B unassisted/Sacrifice (Weak 2B-1B); Lugo to 3B; Schafer to 2B
+502,2,7/26/2011,Daniel McCutchen,PIT,@ATL,Scott Proctor,tied 3-3,0,0,9,1,Out,t18,12-,1,3(1-1),0,-0.07,-0.29,4.61,Bunt Groundout: C-2B/Sacrifice (Front of Home); Overbay to 3B; McKenry to 2B
+503,1,7/26/2011,Lonnie Chisenhall,CLE,LAA,Jordan Walden,down 2-1,-1,-1,6,5,FC,b9,12-,0,1(0-0),0,0.23,0.85,6.18,Fielder's Choice C/Sacrifice Bunt; Cabrera to 3B; Santana to 2B
+504,1,7/30/2011,Mike Moustakas,KCR,@CLE,Tony Sipp,tied 1-1,0,1,6,5,Out,t9,-2-,0,3(1-1),0,0,-0.17,2.68,Bunt Groundout: 3B-1B/Sacrifice (Weak 3B); Francoeur to 3B
+505,1,8/6/2011,Ezequiel Carrera,CLE,@TEX,Neftalí Feliz,down 4-3,-1,3,7,8,Out,t9,-2-,0,2(0-1),0,-0.04,-0.2,3.74,Bunt Groundout: P-1B/Sacrifice (P's Right); Fukudome to 3B
+506,1,8/7/2011,Jacoby Ellsbury,BOS,NYY,Mariano Rivera,down 2-1,-1,0,1,8,Out,b9,-2-,0,1(0-0),0,-0.03,-0.19,4.33,Bunt Groundout: P-2B/Sacrifice (Front of Home); Scutaro to 3B
+507,1,8/15/2011,Rubén Tejada,NYM,@SDP,Chad Qualls,tied 4-4,0,1,8,6,Out,t10,12-,0,3(1-1),0,0.02,-0.06,3.88,Bunt Groundout: P-2B/Sacrifice (Short 3B Line); Pridie to 3B; Thole to 2B
+508,1,8/16/2011,Rafael Furcal,STL,@PIT,Joel Hanrahan,tied 3-3,0,1,2,6,Out,t9,-2-,0,2(1-0),0,0.01,-0.15,2.73,Bunt Groundout: 3B-2B/Sacrifice (Weak 3B); Jay to 3B
+509,1,8/19/2011,Wilson Ramos,WSN,PHI,Ryan Madson,down 4-3,-1,4,8,2,Out,b9,12-,0,1(0-0),0,0.03,-0.07,6.22,Bunt Groundout: P-C-2B/Sacrifice (Front of Home); Espinosa to 3B; Gomes to 2B
+510,1,8/21/2011,Jack Hannahan,CLE,@DET,Jose Valverde,down 8-7,-1,-1,8,5,Out,t9,12-,0,5(3-1),0,0.01,-0.09,5.41,Bunt Groundout: 3B-2B/Sacrifice (Weak 3B); Fukudome to 3B; Donald to 2B
+511,1,8/21/2011,Jose Altuve,HOU,SFG,Jeremy Affeldt,tied 4-4,0,0,1,4,Out,b9,12-,0,2(0-1),0,0.03,-0.07,3.37,Bunt Groundout: 3B-2B/Sacrifice (Short 3B Line); Bogusevic to 3B; Sanchez to 2B
+512,1,8/22/2011,Trayvon Robinson,SEA,@CLE,Chris Perez,tied 2-2,0,1,9,7,RoE,t9,12-,0,3(1-1),0,0.14,0.85,3.78,Reached on E1/Sacrifice Bunt (Bunt to Front of Home); Olivo to 3B; Ryan to 2B
+513,1,8/23/2011,Logan Forsythe,SDP,@SFG,Ramon Ramirez,tied 5-5,0,2,8,5,Out,t9,-2-,0,2(1-0),0,0.01,-0.14,2.75,Bunt Groundout: P-2B/Sacrifice (Front of Home); Hundley to 3B
+514,1,8/28/2011,Liván Hernández,WSN,@CIN,Logan Ondrusek,tied 4-4,0,0,8,11,Out,t10,12-,0,4(1-2),0,0.02,-0.08,3.77,Bunt Groundout: 1B-2B/Sacrifice (Front of Home); Marrero to 3B; Flores to 2B
+515,1,9/3/2011,James Loney,LAD,@ATL,Anthony Varvaro,tied 1-1,0,1,2,3,Out,t10,-2-,0,1(0-0),0,0,-0.16,2.69,Bunt Groundout: C-1B/Sacrifice (Front of Home); Strange-Gordon to 3B
+516,1,9/3/2011,Ian Desmond,WSN,NYM,Bobby Parnell,down 7-6,-1,1,1,6,Out,b9,12-,0,5(3-1),0,0.03,-0.07,6.22,Bunt Groundout: P-2B/Sacrifice (Short 3B Line); Bixler to 3B; Gomes to 2B
+517,1,9/9/2011,Daniel Descalso,STL,ATL,Scott Linebrink,tied 3-3,0,1,6,11,Out,b10,12-,0,3(0-2),0,0.03,-0.07,3.37,Bunt Groundout: 3B-2B/Sacrifice (Short 3B Line); Holliday to 3B; Berkman to 2B
+518,1,9/16/2011,Corey Patterson,STL,@PHI,Michael Schwimer,tied 2-2,0,2,2,9,Out,t11,-2-,0,1(0-0),0,0,-0.16,2.69,Bunt Groundout: 1B-2B/Sacrifice (Short 1B Line); Furcal to 3B
+519,1,9/17/2011,Roger Bernadina,WSN,FLA,Steve Cishek,tied 1-1,0,0,2,9,Out,b11,-2-,0,1(0-0),0,0.02,-0.16,2.65,Bunt Groundout: 3B-2B/Sacrifice (Front of Home); Desmond to 3B
+520,1,9/19/2011,Brett Lawrie,TOR,LAA,Scott Downs,tied 2-2,0,0,7,5,Out,b9,12-,0,1(0-0),0,0.03,-0.1,3.22,Bunt Groundout: P-2B/Sacrifice; Wise to 3B; Johnson to 2B
+521,2,9/19/2011,Peter Bourjos,LAA,@TOR,Casey Janssen,tied 2-2,0,0,7,8,Out,t10,-2-,0,1(0-0),0,0,-0.19,2.61,Bunt Groundout: P-2B/Sacrifice (Front of Home); Wells to 3B
+522,1,9/20/2011,Trevor Plouffe,MIN,SEA,Brandon League,down 5-4,-1,-1,2,6,RoE,b9,12-,0,1(0-0),0,0.22,0.85,6.12,Reached on E1 (throw to 1B)/Sacrifice Bunt (Bunt to Front of Home); Tosoni to 3B; Revere to 2B
+523,1,9/24/2011,Matt Angle,BAL,@DET,Daniel Schlereth,tied 5-5,0,1,1,7,Out,t9,3,1,2(1-0),1,0.14,0.16,4.4,Bunt Groundout: 1B-2B/Sacrifice (Short 1B Line); Hudson Scores
+524,1,9/26/2011,Jason Bourgeois,HOU,STL,Octavio Dotel,tied 4-4,0,1,1,7,RoE,b10,-2-,0,1(0-0),0,0.13,0.73,2.66,Reached on E1/Sacrifice Bunt (Bunt to Front of Home); Bogusevic to 3B
+525,1,9/27/2011,Drew Stubbs,CIN,@NYM,Dale Thayer,tied 4-4,0,1,2,8,Out,t13,3,1,1(0-0),1,0.15,0.2,4.65,Bunt Groundout: 3B-1B/Sacrifice (Short 3B Line); Francisco Scores
+526,1,9/28/2011,Colby Rasmus,TOR,@CHW,Chris Sale,down 2-1,-1,1,6,8,Out,t9,3-Jan,0,5(3-1),0,-0.1,-0.44,4.29,Bunt Groundout: P-1B/Sacrifice (Front of Home); Cooper to 2B
+527,1,3/28/2012,Chone Figgins,SEA,@OAK,Andrew Carignan,tied 1-1,0,2,1,5,Out,t11,-2-,0,4(2-1),0,0,-0.17,2.68,Bunt Groundout: 3B-2B/Sacrifice (Weak 3B); Ryan to 3B
+528,1,4/5/2012,Aaron Cunningham,CLE,TOR,Francisco Cordero,tied 4-4,0,0,6,7,Out,b9,-2-,0,1(0-0),0,0.02,-0.16,2.64,Bunt Groundout: 1B-2B/Sacrifice (Short 1B Line); Donald to 3B
+529,1,4/7/2012,Clint Barmes,PIT,PHI,Joe Blanton,tied 1-1,0,1,8,6,Out,b10,-2-,0,2(1-0),0,0.02,-0.16,2.66,Bunt Groundout: 3B-2B/Sacrifice (Weak 3B); McKenry to 3B
+530,1,4/8/2012,Alex Presley,PIT,PHI,David Herndon,tied 4-4,0,1,1,7,Out,b9,-2-,0,3(2-0),0,0.02,-0.16,2.66,Bunt Groundout: C-2B/Sacrifice (Front of Home); Harrison to 3B
+531,1,4/15/2012,Juan Uribe,LAD,SDP,Brad Brach,tied 4-4,0,1,7,5,Out,b9,12-,0,4(2-1),0,0.03,-0.07,3.35,Bunt Groundout: P-2B/Sacrifice (Front of Home); Rivera to 3B; Loney to 2B
+532,1,4/18/2012,Freddy Galvis,PHI,@SFG,Sergio Romo,tied 0-0,0,0,8,4,Out,t11,-2-,0,1(0-0),0,0.01,-0.15,2.74,Bunt Groundout: P-2B/Sacrifice (Front of Home); Ruiz to 3B
+533,1,4/19/2012,Casey Kotchman,CLE,@SEA,Brandon League,down 1-0,-1,1,6,3,Out,t9,12-,0,1(0-0),0,0.01,-0.07,5.59,Bunt Groundout: P-2B/Sacrifice (Front of Home); Santana to 3B; Hafner to 2B
+534,1,5/2/2012,Jonathan Herrera,COL,LAD,Jamey Wright,tied 5-5,0,3,1,5,Out,b9,12-,0,1(0-0),0,0.03,-0.11,3.15,Bunt Groundout: 1B-2B/Sacrifice (Front of Home); Young to 3B; Scutaro to 2B
+535,1,5/4/2012,Jason Bartlett,SDP,MIA,Heath Bell,tied 8-8,0,0,8,6,Out,b9,-2-,0,3(1-1),0,0.02,-0.15,2.69,Bunt Groundout: C-2B/Sacrifice (Short 3B Line); Maybin to 3B
+536,1,5/5/2012,Alexei Ramírez,CHW,@DET,Jose Valverde,down 2-1,-1,1,2,6,Out,t9,-2-,0,2(1-0),0,-0.04,-0.19,3.79,Bunt Groundout: 3B-2B/Sacrifice (Weak 3B); DeAza to 3B
+537,1,5/5/2012,Chris Gimenez,TBR,OAK,Brian Fuentes,tied 3-3,0,0,8,2,Out,b11,-2-,0,4(2-1),0,0.02,-0.17,2.63,Bunt Groundout: 3B-1B/Sacrifice (Weak 3B); Rodríguez to 3B
+538,1,5/7/2012,Kyle Seager,SEA,DET,Duane Below,tied 2-2,0,1,5,5,Out,b9,-2-,0,1(0-0),0,0.02,-0.16,2.65,Bunt Groundout: P-1B/Sacrifice (Front of Home); Kawasaki to 3B
+539,1,5/8/2012,Jemile Weeks,OAK,TOR,Francisco Cordero,down 3-2,-1,4,1,4,Out,b9,-2-,0,1(0-0),0,-0.03,-0.17,4.37,Bunt Groundout: 3B-2B/Sacrifice (Short 3B Line); Taylor to 3B
+540,1,5/9/2012,Marlon Byrd,BOS,@KCR,Jonathan Broxton,down 4-3,-1,-1,8,8,Out,t9,12-,0,4(2-1),0,0.01,-0.09,5.43,Bunt Groundout: 1B-2B/Sacrifice (Front of Home); McDonald to 3B; Saltalamacchia to 2B
+541,1,5/11/2012,Yadier Molina,STL,ATL,Liván Hernández,tied 7-7,0,0,6,2,Out,b10,12-,0,1(0-0),0,0.03,-0.08,3.33,Bunt Groundout: 3B-2B/Sacrifice (Short 3B Line); Beltrán to 3B; Craig to 2B
+542,1,5/20/2012,Will Venable,SDP,LAA,David Carpenter,tied 2-2,0,0,1,9,Out,b11,-2-,0,1(0-0),0,0.02,-0.15,2.69,Bunt Groundout: P-2B/Sacrifice (Front of Home); Baker to 3B
+543,1,6/8/2012,Wilson Valdez,CIN,DET,Phil Coke,tied 5-5,0,1,9,11,FC,b10,3,1,1(0-0),1,0.17,0.58,4.74,*WALK-OFF*:*ENDED GAME*:Fielder's Choice 1B/Sacrifice Bunt; Cairo Scores
+544,1,6/19/2012,Brendan Ryan,SEA,@ARI,Brad Ziegler,tied 9-9,0,3,8,6,Out,t10,12-,0,2(1-0),0,0.02,-0.09,3.74,Bunt Groundout: P-2B/Sacrifice (Short 3B Line); Kawasaki to 3B; Ackley to 2B
+545,1,7/5/2012,Josh Thole,NYM,PHI,Jonathan Papelbon,down 5-4,-1,1,7,2,Out,b9,-2-,0,2(1-0),0,-0.03,-0.16,4.38,Bunt Groundout: 3B-2B/Sacrifice (Short 3B Line); Cedeno to 3B
+546,1,7/5/2012,Steve Lombardozzi,WSN,SFG,Santiago Casilla,down 5-4,-1,1,1,7,RoE,b9,-2-,0,2(1-0),0,0.22,0.73,4.36,Reached on E1/Sacrifice Bunt (Bunt to Front of Home); Moore to 3B
+547,1,7/8/2012,Jonathan Herrera,COL,@WSN,Tyler Clippard,tied 3-3,0,1,7,6,Out,t9,-2-,0,2(0-1),0,0,-0.17,2.67,Bunt Groundout: P-2B/Sacrifice (Front of Home); Pacheco to 3B
+548,1,7/25/2012,Cesar Izturis,MIL,@PHI,Michael Schwimer,tied 5-5,0,1,2,11,Out,t10,-2-,0,3(1-1),0,0,-0.17,2.66,Bunt Groundout: P-2B/Sacrifice (Front of Home); Gómez to 3B
+549,1,8/7/2012,J.J. Hardy,BAL,SEA,Shawn Kelley,tied 7-7,0,1,2,6,Out,b14,12-,0,1(0-0),0,0.03,-0.09,3.25,Bunt Groundout: P-1B/Sacrifice (Short 3B Line); Quintanilla to 3B; Markakis to 2B
+550,1,8/7/2012,Roger Bernadina,WSN,@HOU,Mickey Storey,tied 2-2,0,1,6,8,Out,t12,-2-,0,1(0-0),0,0,-0.17,2.67,Bunt Groundout: 3B-1B/Sacrifice; Izturis to 3B
+551,1,8/10/2012,Howie Kendrick,LAA,SEA,Josh Kinney,tied 5-5,0,1,7,4,Out,b9,12-,0,1(0-0),0,0.03,-0.08,3.33,Bunt Groundout: P-1B/Sacrifice (Front of Home); Bourjos to 3B; Callaspo to 2B
+552,1,8/12/2012,Ben Zobrist,TBR,@MIN,Alex Burnett,tied 3-3,0,4,3,9,Out,t10,12-,0,2(0-1),0,0.02,-0.08,3.75,Bunt Groundout: P-1B/Sacrifice (Front of Home); Jennings to 3B; Upton to 2B
+553,1,8/25/2012,Scott Podsednik,BOS,KCR,Kelvin Herrera,tied 9-9,0,0,1,7,Out,b10,-2-,0,3(2-0),0,0.02,-0.19,2.56,Bunt Groundout: P-2B/Sacrifice (Short 3B Line); Ciriaco to 3B
+554,1,9/12/2012,Yadier Molina,STL,@SDP,Luke Gregerson,down 3-2,-1,-1,5,2,Out,t9,-2-,0,1(0-0),0,-0.03,-0.15,3.93,Bunt Groundout: P-1B/Sacrifice (Front of Home); Chambers to 3B
+555,1,9/21/2012,Nick Punto,LAD,@CIN,Sam LeCure,tied 1-1,0,2,9,11,Out,t10,12-,0,1(0-0),0,0.02,-0.09,3.73,Bunt Groundout: P-1B/Sacrifice (Front of Home); Herrera to 3B; Ellis to 2B
+556,1,9/24/2012,Elvis Andrus,TEX,OAK,Tyson Ross,tied 4-4,0,1,2,6,Out,b9,12-,0,2(1-0),0,0.03,-0.1,3.18,Bunt Groundout: 3B-2B/Sacrifice (Weak 3B); Gentry to 3B; Kinsler to 2B
+557,1,9/25/2012,Nick Punto,LAD,@SDP,Huston Street,down 2-1,-1,-1,9,11,Out,t9,-2-,0,3(1-1),0,-0.03,-0.15,3.93,Bunt Groundout: P-1B/Sacrifice; Strange-Gordon to 3B
+558,1,9/26/2012,Peter Bourjos,LAA,SEA,Stephen Pryor,tied 3-3,0,1,9,8,Out,b9,-2-,0,4(2-1),0,0.02,-0.16,2.64,Bunt Groundout: C-2B/Sacrifice (Front of Home); Izturis to 3B
+559,1,10/1/2012,Edgmer Escalona,COL,@ARI,Bryan Shaw,tied 3-3,0,0,9,1,Out,t12,12-,1,1(0-0),0,-0.07,-0.31,4.62,Bunt Groundout: C-1B/Sacrifice (Front of Home); Blackmon to 3B; Herrera to 2B
+560,1,4/3/2013,Gerardo Parra,ARI,STL,Mitchell Boggs,down 9-8,-1,0,1,8,Out,b12,12-,0,1(0-0),0,0.03,-0.07,6.23,Bunt Groundout: 3B-2B/Sacrifice (Short 3B Line); Pennington to 3B; Chavez to 2B
+561,1,4/3/2013,Nate McLouth,BAL,@TBR,Fernando Rodney,tied 7-7,0,0,1,7,Out,t9,-2-,0,1(0-0),0,0,-0.17,2.68,Bunt Groundout: 1B-2B/Sacrifice (Weak 2B-1B); Roberts to 3B
+562,1,4/14/2013,Logan Schafer,MIL,@STL,Mitchell Boggs,tied 3-3,0,0,9,11,FC,t9,-2-,0,2(0-1),0,0.14,0.73,2.71,Fielder's Choice C/Sacrifice Bunt; Betancourt to 3B; Schafer to 1B
+563,1,4/17/2013,Jhonny Peralta,DET,@SEA,Blake Beavan,tied 1-1,0,1,7,6,FC,t14,12-,0,2(0-1),0,0.14,0.85,3.83,Fielder's Choice C/Sacrifice Bunt; Kelly to 3B; Tuiasosopo to 2B
+564,1,4/20/2013,Ichiro Suzuki,NYY,@TOR,Aaron Loup,tied 3-3,0,2,7,9,RoE,t11,12-,0,1(0-0),0,0.25,1.63,3.73,Reached on E1 (throw to 1B)/Sacrifice Bunt (Bunt to Front of Home); Wells Scores/No RBI/unER; Cervelli Scores/No RBI/unER; Suzuki to 2B
+565,1,4/21/2013,Marwin Gonzalez,HOU,CLE,Chris Perez,down 5-4,-1,-1,9,6,Out,b9,12-,0,1(0-0),0,0.02,-0.08,6.16,Bunt Groundout: 3B-2B/Sacrifice (Weak 3B); Ankiel to 3B; Barnes to 2B
+566,1,4/24/2013,Rubén Tejada,NYM,LAD,Brandon League,down 3-2,-1,0,1,6,Out,b9,-2-,0,1(0-0),0,-0.02,-0.14,4.43,Bunt Groundout: P-2B/Sacrifice (Front of Home); Baxter to 3B
+567,2,4/24/2013,Marlon Byrd,NYM,LAD,Josh Wall,tied 3-3,0,4,6,9,Out,b10,12-,0,1(0-0),0,0.03,-0.06,3.47,Bunt Groundout: 1B-2B/Sacrifice (Short 1B Line); Buck to 3B; Davis to 2B
+568,1,4/28/2013,Coco Crisp,OAK,BAL,Pedro Strop,tied 8-8,0,1,1,8,RoE,b10,12-,0,1(0-0),0,0.19,1,3.32,*WALK-OFF*:*ENDED GAME*:Reached on E5 (throw to 2B)/attempted forceout/Sacrifice Bunt; Sogard Scores/unER/No RBI; Rosales to 2B
+569,1,4/29/2013,Jon Rauch,MIA,NYM,Shaun Marcum,tied 2-2,0,0,2,1,Out,b14,12-,1,1(0-0),0,-0.07,-0.29,4.33,Bunt Groundout: P-2B/Sacrifice (Short 3B Line); Green to 3B; Valaika to 2B
+570,1,4/30/2013,Juan Pierre,MIA,NYM,Jeremy Hefner,down 1-0,-1,1,1,7,FC,b9,-2-,0,3(2-0),0,0.22,0.73,4.38,Fielder's Choice C/Sacrifice Bunt; Coghlan to 3B
+571,1,5/3/2013,Reed Johnson,ATL,NYM,Brandon Lyon,tied 5-5,0,0,9,11,Out,b9,-2-,0,2(0-1),0,0.02,-0.16,2.66,Bunt Groundout: 3B-2B/Sacrifice (Short 3B Line); Pena to 3B
+572,1,5/8/2013,Ichiro Suzuki,NYY,@COL,Rafael Betancourt,tied 2-2,0,1,5,9,Out,t9,12-,0,1(0-0),0,0.02,-0.1,3.68,Bunt Groundout: P-2B/Sacrifice (Front of Home); Wells to 3B; Overbay to 2B
+573,1,5/10/2013,Ben Revere,PHI,@ARI,David Hernandez,down 3-2,-1,-1,8,8,Out,t9,12-,0,1(0-0),0,0.01,-0.07,5.6,Bunt Groundout: 3B-2B/Sacrifice (Weak 3B); Brown to 3B; Mayberry to 2B
+574,1,5/16/2013,Zack Cozart,CIN,@MIA,Steve Cishek,tied 2-2,0,3,2,6,Out,t10,12-,0,2(1-0),0,0.02,-0.07,3.81,Bunt Groundout: C-2B/Sacrifice (Short 3B Line); Lutz to 3B; Choo to 2B
+575,1,5/17/2013,Will Middlebrooks,BOS,@MIN,Josh Roenicke,tied 2-2,0,1,5,5,Out,t10,12-,0,2(1-0),0,0.02,-0.09,3.74,Bunt Groundout: P-2B/Sacrifice (Front of Home); Pedroia to 3B; Ciriaco to 2B
+576,1,5/24/2013,Alejandro De Aza,CHW,MIA,Chad Qualls,tied 3-3,0,0,1,8,Out,b10,12-,0,3(2-0),0,0.03,-0.09,3.25,Bunt Groundout: C-2B/Sacrifice; Keppinger to 3B; Gimenez to 2B
+577,1,5/24/2013,Andrelton Simmons,ATL,@NYM,Bobby Parnell,tied 5-5,0,0,1,6,Out,t9,-2-,0,2(1-0),0,0.01,-0.14,2.76,Bunt Groundout: 3B-2B/Sacrifice (Weak 3B); Pena to 3B
+578,1,5/25/2013,Dexter Fowler,COL,@SFG,Jeremy Affeldt,tied 4-4,0,0,1,8,Out,t9,12-,0,1(0-0),0,0.03,-0.06,3.92,Bunt Groundout: 1B-2B/Sacrifice (Front of Home); Young to 3B; Rosario to 2B
+579,1,5/28/2013,Pedro Florimón,MIN,@MIL,Burke Badenhop,tied 5-5,0,1,8,6,Out,t14,-2-,0,2(0-1),0,0,-0.16,2.69,Bunt Groundout: C-1B/Sacrifice (Front of Home); Hicks to 3B
+580,1,6/8/2013,Jurickson Profar,TEX,@TOR,Brad Lincoln,tied 3-3,0,0,2,4,Out,t14,-2-,0,4(2-1),0,0,-0.18,2.65,Bunt Groundout: P-1B/Sacrifice (Front of Home); Andrus to 3B
+581,1,6/10/2013,Skip Schumaker,LAD,ARI,Heath Bell,down 5-4,-1,-1,9,7,RoE,b9,-2-,0,1(0-0),0,0.23,0.72,4.42,Reached on E5/Sacrifice Bunt (Bunt to Weak 3B); VanSlyke to 3B
+582,1,6/12/2013,Carlos Corporán,HOU,@SEA,Tom Wilhelmsen,down 1-0,-1,5,4,2,Out,t9,12-,0,2(0-1),0,0.01,-0.07,5.63,Bunt Groundout: 3B-2B/Sacrifice (Short 3B Line); Castro to 3B; Martinez to 2B
+583,1,6/13/2013,Jayson Nix,NYY,@OAK,Jerry Blevins,tied 2-2,0,0,2,6,Out,t11,-2-,0,1(0-0),0,0,-0.17,2.67,Bunt Groundout: P-1B/Sacrifice (Front of Home); Gardner to 3B
+584,1,6/15/2013,Mark Ellis,LAD,@PIT,Vin Mazzaro,tied 3-3,0,2,6,4,Out,t11,-2-,0,2(1-0),0,0.01,-0.14,2.75,Bunt Groundout: C-2B/Sacrifice (Front of Home); Ethier to 3B
+585,1,6/22/2013,Matt Dominguez,HOU,@CHC,Kevin Gregg,tied 3-3,0,1,7,5,Out,t9,-2-,0,4(2-1),0,0,-0.16,2.7,Bunt Groundout: 3B-1B/Sacrifice (Weak 3B); Maxwell to 3B
+586,2,6/22/2013,Ronny Cedeno,HOU,@CHC,Kevin Gregg,tied 3-3,0,1,8,6,Out,t9,3,1,2(0-1),1,0.15,0.19,4.6,Bunt Groundout: P-1B/Sacrifice (Front of Home); Maxwell Scores
+587,1,6/23/2013,Clint Barmes,PIT,@LAA,Kevin Jepsen,tied 6-6,0,4,4,11,Out,t10,-2-,0,1(0-0),0,0,-0.16,2.7,Bunt Groundout: 3B-2B/Sacrifice (Short 3B Line); Álvarez to 3B
+588,1,6/26/2013,Logan Schafer,MIL,CHC,Kevin Gregg,down 5-4,-1,-1,7,8,Out,b9,-2-,0,1(0-0),0,-0.03,-0.16,4.38,Bunt Groundout: 3B-2B/Sacrifice (Short 3B Line); Weeks to 3B
+589,1,6/27/2013,Cody Ross,ARI,@WSN,Craig Stammen,tied 2-2,0,1,5,9,Out,t11,-2-,0,2(0-1),0,0,-0.16,2.69,Bunt Groundout: 1B unassisted/Sacrifice (Weak 1B); Pollock to 3B
+590,1,6/28/2013,Jason Bay,SEA,CHC,Shawn Camp,tied 4-4,0,1,6,7,Out,b10,12-,0,1(0-0),0,0.03,-0.07,3.38,Bunt Groundout: 3B-2B/Sacrifice (Short 3B Line); Saunders to 3B; Ibanez to 2B
+591,1,7/1/2013,Matt Harvey,NYM,ARI,Josh Collmenter,down 4-3,-1,1,7,11,Out,b13,12-,1,2(0-1),0,-0.08,-0.27,7.07,Bunt Groundout: 1B-2B/Sacrifice (Front of Home); Satin to 3B; Buck to 2B
+592,1,7/5/2013,Ichiro Suzuki,NYY,BAL,Jim Johnson,down 2-1,-1,1,2,9,Out,b9,12-,0,1(0-0),0,0.02,-0.08,6.15,Bunt Groundout: C-1B/Sacrifice; Adams to 3B; Gardner to 2B
+593,1,7/12/2013,Jose Tabata,PIT,NYM,David Aardsma,tied 2-2,0,0,2,9,Out,b9,-2-,0,1(0-0),0,0.02,-0.14,2.71,Bunt Groundout: 3B-2B/Sacrifice (Short 3B Line); Marte to 3B
+594,1,7/13/2013,Placido Polanco,MIA,WSN,Craig Stammen,tied 1-1,0,1,9,5,Out,b10,12-,0,1(0-0),0,0.03,-0.07,3.36,Bunt Groundout: P-2B/Sacrifice (Short 3B Line); Hechavarria to 3B; Mathis to 2B
+595,1,7/31/2013,Jacoby Ellsbury,BOS,SEA,Lucas Luetge,tied 4-4,0,0,1,8,Out,b14,-2-,0,2(0-1),0,0.02,-0.18,2.58,Bunt Groundout: P-2B/Sacrifice (Front of Home); Snyder to 3B
+596,1,8/2/2013,Elliot Johnson,KCR,@NYM,David Aardsma,down 2-1,-1,0,7,4,Out,t9,12-,0,1(0-0),0,0.01,-0.06,5.8,Bunt Groundout: P-2B/Sacrifice (Short 3B Line); Tejada to 3B; Escobar to 2B
+597,2,8/2/2013,Omar Quintanilla,NYM,KCR,Aaron Crow,tied 2-2,0,0,8,6,Out,b9,-2-,0,1(0-0),0,0.02,-0.14,2.72,Bunt Groundout: 3B-2B/Sacrifice (Weak 3B); Brown to 3B
+598,1,8/3/2013,Jake Marisnick,MIA,CLE,Chris Perez,down 4-3,-1,-1,7,8,Out,b9,12-,0,1(0-0),0,0.03,-0.07,6.23,Bunt Groundout: P-2B/Sacrifice (Front of Home); Dobbs to 3B; Hechavarria to 2B
+599,1,8/7/2013,Ramon Santiago,DET,@CLE,Cody Allen,tied 4-4,0,0,8,6,Out,t9,12-,0,1(0-0),0,0.02,-0.07,3.8,Bunt Groundout: 3B-2B/Sacrifice (Front of Home); Kelly to 3B; Peña to 2B
+600,1,8/13/2013,Cesar Izturis,CIN,@CHC,Eduardo Sanchez,tied 4-4,0,2,9,6,RoE,t11,12-,0,3(1-1),0,0.14,0.85,3.81,Reached on E5/Sacrifice Bunt (Bunt to Weak 3B); Ludwick to 3B; Mesoraco to 2B
+601,1,8/13/2013,Jon Jay,STL,PIT,Vin Mazzaro,tied 3-3,0,0,6,8,Out,b10,12-,0,2(0-1),0,0.03,-0.07,3.37,Bunt Groundout: P-2B/Sacrifice (Short 3B Line); Kelly to 3B; Johnson to 2B
+602,1,8/22/2013,Steve Lombardozzi,WSN,@CHC,Michael Bowden,tied 4-4,0,1,8,4,Out,t13,-2-,0,2(0-1),0,0,-0.16,2.7,Bunt Groundout: C-2B/Sacrifice; Span to 3B
+603,1,8/25/2013,Cole Gillespie,CHC,@SDP,Dale Thayer,tied 2-2,0,0,3,9,Out,t15,12-,0,1(0-0),0,0.03,-0.05,3.95,Bunt Groundout: 3B-2B/Sacrifice (Short 3B Line); Castro to 3B; Rizzo to 2B
+604,1,8/27/2013,Mark Kotsay,SDP,@ARI,Brad Ziegler,tied 9-9,0,0,9,7,Out,t9,12-,0,2(0-1),0,0.02,-0.07,3.81,Bunt Groundout: P-2B/Sacrifice (Front of Home); Hundley to 3B; Cedeno to 2B
+605,1,9/1/2013,Asdrúbal Cabrera,CLE,@DET,Joaquín Benoit,tied 0-0,0,4,6,6,Out,t9,12-,0,2(0-1),0,0.02,-0.09,3.71,Bunt Groundout: P-2B/Sacrifice (Front of Home); Ramírez to 3B; Brantley to 2B
+606,1,9/6/2013,Ronny Cedeno,SDP,COL,Rex Brothers,tied 3-3,0,1,7,6,Out,b9,12-,0,1(0-0),0,0.03,-0.05,3.51,Bunt Groundout: 1B-2B/Sacrifice; Blanks to 3B; Amarista to 2B
+607,1,9/9/2013,David Lough,KCR,@CLE,Chris Perez,down 4-3,-1,-1,7,11,Out,t9,12-,0,1(0-0),0,0.01,-0.07,5.58,Bunt Groundout: P-2B/Sacrifice (Short 3B Line); Getz to 3B; Ciriaco to 2B
+608,1,9/12/2013,Curtis Granderson,NYY,@BAL,Jim Johnson,tied 5-5,0,1,1,8,Out,t9,12-,0,3(1-1),0,0.02,-0.09,3.72,Bunt Groundout: P-2B/Sacrifice (Front of Home); Ryan to 3B; Stewart to 2B
+609,1,9/17/2013,Scooter Gennett,MIL,CHC,Justin Grimm,tied 3-3,0,1,6,4,RoE,b9,12-,0,3(0-2),0,0.13,0.85,3.35,Reached on E1/Sacrifice Bunt (Bunt to Front of Home); Bianchi to 3B; Gómez to 2B
+610,2,9/17/2013,Logan Schafer,MIL,CHC,Justin Grimm,tied 3-3,0,1,8,11,Out,b9,123,1,3(1-1),1,0.17,0.05,5.82,*WALK-OFF*:*ENDED GAME*:Bunt Groundout: P-1B/Sacrifice (Front of Home); Bianchi Scores/unER; Gómez to 3B; Gennett to 2B
+611,1,9/18/2013,Erick Aybar,LAA,@OAK,Jesse Chavez,tied 4-4,0,1,2,6,RoE,t11,-2-,0,1(0-0),0,0.14,0.73,2.67,Reached on E5/Sacrifice Bunt (Bunt to Weak 3B); Shuck to 3B; Aybar to 1B
+612,1,4/2/2014,Zack Cozart,CIN,STL,Carlos Martinez,tied 0-0,0,1,7,6,Out,b9,12-,0,2(0-1),0,0.03,-0.07,3.39,Bunt Groundout: 3B-2B/Sacrifice (Weak 3B); Ludwick to 3B; Frazier to 2B
+613,1,4/2/2014,Neil Walker,PIT,CHC,Wesley Wright,tied 3-3,0,0,6,4,FC,b13,12-,0,1(0-0),0,0.13,0.85,3.4,Fielder's Choice P/Sacrifice Bunt; Álvarez to 3B; Martin to 2B; Walker to 1B
+614,1,4/4/2014,Scooter Gennett,MIL,@BOS,Edward Mujica,tied 2-2,0,4,8,4,FC,t9,-2-,0,1(0-0),0,0.14,0.73,2.66,Fielder's Choice P/Sacrifice Bunt; Davis to 3B; Gennett to 1B
+615,1,4/11/2014,Ryan Sweeney,CHC,@STL,Trevor Rosenthal,tied 3-3,0,3,5,8,Out,t11,-2-,0,2(0-1),0,0.01,-0.15,2.71,Bunt Groundout: 1B unassisted/Sacrifice (Short 1B Line); Schierholtz to 3B
+616,1,4/13/2014,Mike Aviles,CLE,@CHW,Matt Lindstrom,tied 2-2,0,1,9,5,Out,t9,12-,0,2(1-0),0,0.02,-0.07,3.82,Bunt Groundout: 1B-2B/Sacrifice (Weak 2B-1B); Gomes to 3B; Murphy to 2B
+617,1,4/15/2014,Brandon Hicks,SFG,LAD,Jamey Wright,tied 2-2,0,0,8,4,Out,b10,12-,0,4(2-1),0,0.03,-0.06,3.46,Bunt Groundout: P-2B/Sacrifice (Short 3B Line); Blanco to 3B; Crawford to 2B
+618,1,4/18/2014,Gerardo Parra,ARI,@LAD,Chris Perez,tied 2-2,0,2,1,9,Out,t12,12-,0,2(0-1),0,0.02,-0.06,3.89,Bunt Groundout: 3B-1B/Sacrifice (Weak 3B); Pollock to 3B; Pennington to 2B
+619,1,4/22/2014,Robinson Chirinos,TEX,@OAK,Luke Gregerson,down 4-3,-1,1,7,2,Out,t9,-2-,0,2(1-0),0,-0.03,-0.16,3.88,Bunt Groundout: 1B-2B/Sacrifice (Front of Home); Moreland to 3B
+620,1,4/23/2014,Juan Perez,SFG,@COL,Chad Bettis,tied 8-8,0,4,4,7,Out,t11,12-,0,2(1-0),0,0.02,-0.09,3.7,Bunt Groundout: P-2B/Sacrifice (P's Right); Pence to 3B; Belt to 2B
+621,1,4/26/2014,Jemile Weeks,BAL,KCR,Danny Duffy,tied 2-2,0,1,1,10,RoE,b10,12-,0,3(1-1),0,0.12,0.85,3.31,Reached on E1 (throw to 1B)/Sacrifice Bunt (Bunt to Front of Home); Schoop to 3B; Lough to 2B
+622,1,4/30/2014,Charlie Blackmon,COL,@ARI,Addison Reed,tied 4-4,0,0,1,9,Out,t10,-2-,0,2(1-0),0,0,-0.16,2.7,Bunt Groundout: 3B-1B/Sacrifice (Weak 3B); Dickerson to 3B
+623,1,5/2/2014,Carlos Corporán,HOU,SEA,Charlie Furbush,tied 4-4,0,1,3,2,FC,b11,12-,0,3(1-1),0,0.13,0.85,3.34,Fielder's Choice P/Sacrifice Bunt; Altuve to 3B; Fowler to 2B
+624,1,5/5/2014,Jean Machi,SFG,@PIT,Jared Hughes,tied 10-10,0,1,4,1,RoE,t13,12-,1,1(0-0),0,0.32,1.28,4.61,Reached on E1 (throw)/Sacrifice Bunt (Bunt to Front of Home); Pence Scores/No RBI/unER; Perez to 3B
+625,1,5/5/2014,Jarrod Dyson,KCR,@SDP,Joaquín Benoit,tied 4-4,0,0,9,8,Out,t11,-2-,0,1(0-0),0,0.01,-0.14,2.77,Bunt Groundout: P-1B/Sacrifice (Front of Home); Cain to 3B
+626,1,5/7/2014,Lonnie Chisenhall,CLE,MIN,Casey Fien,tied 3-3,0,1,7,10,Out,b9,-2-,0,1(0-0),0,0.02,-0.17,2.61,Bunt Groundout: P-1B/Sacrifice (Front of Home); Cabrera to 3B
+627,1,2014-05-07 (1),Stefen Romero,SEA,@OAK,Ryan Cook,tied 4-4,0,2,2,9,Out,t10,-2-,0,5(3-1),0,0,-0.16,2.7,Bunt Groundout: 3B-2B/Sacrifice (Weak 3B); Saunders to 3B
+628,1,5/21/2014,Preston Claiborne,NYY,@CHC,Jose Veras,tied 2-2,0,2,7,1,Out,t13,12-,0,1(0-0),0,0.02,-0.07,3.82,Bunt Groundout: 3B-2B/Sacrifice (Front of Home); Ryan to 3B; Solarte to 2B
+629,1,5/21/2014,Yadier Molina,STL,ARI,Evan Marshall,tied 2-2,0,0,5,2,Out,b10,12-,0,1(0-0),0,0.03,-0.07,3.39,Bunt Groundout: C-1B/Sacrifice (Front of Home); Holliday to 3B; Adams to 2B
+630,1,5/24/2014,Alcides Escobar,KCR,@LAA,Mike Morin,tied 4-4,0,3,8,6,RoE,t13,-2-,0,2(1-0),0,0.22,1,2.72,Reached on E1 (throw)/Sacrifice Bunt (Bunt to Front of Home); Dyson Scores/No RBI; Escobar to 2B
+631,1,2014-05-25 (1),Ender Inciarte,ARI,@NYM,Jenrry Mejia,tied 1-1,0,1,8,11,Out,t9,-2-,0,3(1-1),0,0.01,-0.14,2.76,Bunt Groundout: P-2B/Sacrifice; Pollock to 3B
+632,1,5/26/2014,Yangervis Solarte,NYY,@STL,Randy Choate,tied 3-3,0,3,5,5,Out,t12,12-,0,3(1-1),0,0.02,-0.07,3.84,Bunt Groundout: P-2B/Sacrifice (Front of Home); Ellsbury to 3B; McCann to 2B
+633,1,5/28/2014,Derek Dietrich,MIA,@WSN,Jerry Blevins,tied 4-4,0,4,2,4,Out,t10,12-,0,1(0-0),0,0.02,-0.07,3.8,Bunt Groundout: 3B-2B/Sacrifice (Short 3B Line); Lucas to 3B; Yelich to 2B
+634,1,5/29/2014,Nori Aoki,KCR,@TOR,Todd Redmond,tied 6-6,0,2,1,9,Out,t10,12-,0,1(0-0),0,0.02,-0.08,3.79,Bunt Groundout: 3B-2B/Sacrifice (Weak 3B); Escobar to 3B; Ciriaco to 2B
+635,1,6/20/2014,Rubén Tejada,NYM,@MIA,Steve Cishek,down 3-2,-1,-1,8,6,Out,t9,-2-,0,4(2-1),0,-0.03,-0.15,3.91,Bunt Groundout: 1B-2B/Sacrifice (Front of Home); Nieuwenhuis to 3B
+636,1,6/20/2014,René Rivera,SDP,LAD,Kenley Jansen,tied 5-5,0,1,1,11,Out,b9,-2-,0,1(0-0),0,0.02,-0.14,2.73,Bunt Groundout: 3B-1B/Sacrifice (Weak SS); Venable to 3B
+637,1,6/24/2014,David Murphy,CLE,@ARI,Matt Stites,tied 8-8,0,0,9,9,Out,t12,12-,0,2(0-1),0,0.02,-0.07,3.82,Bunt Groundout: P-2B/Sacrifice (Front of Home); Chisenhall to 3B; Kottaras to 2B
+638,1,6/24/2014,Melky Cabrera,TOR,NYY,Adam Warren,tied 6-6,0,1,2,7,RoE,b9,-2-,0,1(0-0),0,0.2,0.76,2.64,*WALK-OFF*:*ENDED GAME*:Reached on E5 (throw)/Sacrifice Bunt (Bunt to Weak 3B); Reyes Scores/unER/No RBI
+639,1,6/28/2014,Rajai Davis,DET,@HOU,Jerome Williams,down 2-1,-1,2,1,8,Out,t9,12-,1,1(0-0),0,-0.08,-0.3,6.12,Bunt Groundout: P-1B/Sacrifice (Front of Home); Jackson to 3B; Suárez to 2B
+640,1,6/28/2014,Jay Bruce,CIN,@SFG,Javier López,tied 2-2,0,5,5,9,Out,t11,12-,0,1(0-0),0,0.02,-0.06,3.9,Bunt Groundout: P-1B/Sacrifice (Front of Home); Votto to 3B; Phillips to 2B
+641,1,7/22/2014,Ichiro Suzuki,NYY,TEX,Ryan Feierabend,tied 0-0,0,0,6,9,Out,b12,12-,0,1(0-0),0,0.03,-0.08,3.34,Bunt Groundout: 1B-2B/Sacrifice (Front of Home); Beltrán to 3B; McCann to 2B
+642,2,7/22/2014,Derek Jeter,NYY,TEX,Joakim Soria,down 1-0,-1,0,2,6,Out,b13,-2-,0,2(0-1),0,-0.03,-0.16,4.38,Bunt Groundout: 3B-2B/Sacrifice (Weak 3B); Gardner to 3B
+643,1,7/22/2014,George Kontos,SFG,@PHI,Jeff Manship,tied 5-5,0,4,5,1,Out,t14,12-,1,2(0-1),0,-0.07,-0.29,4.61,Bunt Groundout: P-2B/Sacrifice (Weak 2B-1B); Posey to 3B; Sandoval to 2B
+644,1,8/2/2014,Reed Johnson,MIA,CIN,Sam LeCure,tied 1-1,0,1,9,11,Out,b10,-2-,0,1(0-0),0,0.02,-0.15,2.67,Bunt Groundout: P-2B/Sacrifice (Short 3B Line); Mathis to 3B
+645,1,8/3/2014,José Ramírez,CLE,TEX,Shawn Tolleson,tied 3-3,0,0,8,6,Out,b11,12-,0,1(0-0),0,0.03,-0.08,3.31,Bunt Groundout: P-2B/Sacrifice (Short 3B Line); Dickerson to 3B; Murphy to 2B
+646,1,8/5/2014,Drew Stubbs,COL,CHC,Brian Schlitter,tied 4-4,0,0,5,8,Out,b10,12-,0,1(0-0),0,0.03,-0.09,3.23,Bunt Groundout: 3B-1B/Sacrifice (Weak 3B); Arenado to 3B; Morneau to 2B
+647,1,8/6/2014,Alexi Amarista,SDP,@MIN,Glen Perkins,down 4-3,-1,0,9,8,Out,t9,12-,0,2(1-0),0,0.01,-0.08,5.54,Bunt Groundout: P-1B/Sacrifice (Front of Home); Alonso to 3B; Rivera to 2B
+648,1,8/8/2014,Ramon Santiago,CIN,MIA,Steve Cishek,down 2-1,-1,-1,5,5,Out,b9,-2-,0,3(1-1),0,-0.03,-0.15,4.39,Bunt Groundout: 3B-2B/Sacrifice (Weak 3B); Mesoraco to 3B
+649,1,8/15/2014,Andrés Blanco,PHI,@SFG,Javier López,tied 3-3,0,2,9,11,FC,t10,-2-,0,2(0-1),0,0.15,0.72,2.75,Fielder's Choice P/Sacrifice Bunt; Asche to 3B; Blanco to 1B
+650,1,8/24/2014,Curt Casali,TBR,@TOR,Casey Janssen,tied 1-1,0,0,8,2,Out,t9,12-,0,1(0-0),0,0.02,-0.08,3.79,Bunt Groundout: 1B-2B/Sacrifice (Short 1B Line); Myers to 3B; Escobar to 2B
+651,1,8/26/2014,Brock Holt,BOS,@TOR,Casey Janssen,tied 4-4,0,7,1,6,RoE,t11,12-,0,1(0-0),0,0.14,0.85,3.79,Reached on E1/Sacrifice Bunt; Betts to 3B; Vázquez to 2B
+652,1,8/27/2014,Wilmer Flores,NYM,ATL,Craig Kimbrel,down 3-2,-1,-1,7,4,Out,b9,12-,0,1(0-0),0,0.03,-0.06,6.4,Bunt Groundout: P-2B/Sacrifice (Front of Home); Campbell to 3B; denDekker to 2B
+653,1,8/28/2014,Efren Navarro,LAA,OAK,Dan Otero,tied 3-3,0,0,8,11,Out,b9,12-,0,2(0-1),0,0.03,-0.07,3.39,Bunt Groundout: P-2B/Sacrifice (Front of Home); Aybar to 3B; McDonald to 2B
+654,1,9/1/2014,Ben Zobrist,TBR,BOS,Burke Badenhop,tied 3-3,0,1,1,4,Out,b10,12-,0,2(0-1),0,0.03,-0.07,3.37,Bunt Groundout: 1B-2B/Sacrifice (Front of Home); Rodríguez to 3B; Kiermaier to 2B
+655,1,9/3/2014,Joc Pederson,LAD,WSN,Jerry Blevins,tied 3-3,0,0,7,8,Out,b11,12-,0,2(0-1),0,0.03,-0.06,3.44,Bunt Groundout: 3B-2B/Sacrifice; Crawford to 3B; Turner to 2B
+656,1,9/4/2014,John McDonald,LAA,@MIN,Glen Perkins,tied 4-4,0,1,8,11,Out,t9,-2-,0,3(0-2),0,0,-0.17,2.67,Bunt Groundout: P-2B/Sacrifice (Front of Home); Campana to 3B
+657,1,9/5/2014,Carlos Ruiz,PHI,@WSN,Craig Stammen,tied 7-7,0,2,7,2,Out,t11,-2-,0,1(0-0),0,0,-0.16,2.69,Bunt Groundout: 3B-2B/Sacrifice (Short 3B Line); Brown to 3B
+658,1,9/6/2014,Charlie Culberson,COL,SDP,Jesse Hahn,tied 6-6,0,1,9,6,Out,b12,-2-,0,2(0-1),0,0.02,-0.19,2.56,Bunt Groundout: C-2B/Sacrifice; LeMahieu to 3B
+659,1,9/7/2014,Brandon Guyer,TBR,BAL,Zack Britton,down 5-4,-1,0,5,7,Out,b9,12-,0,3(1-1),0,0.03,-0.07,6.24,Bunt Groundout: C-1B/Sacrifice; Longoria to 3B; Loney to 2B
+660,1,9/18/2014,Brett Gardner,NYY,TOR,Aaron Sanchez,tied 2-2,0,1,6,7,Out,b9,-2-,0,6(3-2),0,0.02,-0.16,2.64,Bunt Groundout: P-1B/Sacrifice (Front of Home); Richardson to 3B
+661,1,9/27/2014,Endy Chavez,SEA,LAA,Jason Grilli,tied 1-1,0,0,7,9,FC,b9,12-,0,3(1-1),0,0.13,0.85,3.39,Fielder's Choice C/Sacrifice Bunt; Jones to 3B; Morrison to 2B
+662,1,4/17/2015,Alex Avila,DET,CHW,Zach Duke,tied 1-1,0,1,7,2,Out,b9,-2-,0,1(0-0),0,0.02,-0.17,2.61,Bunt Groundout: 3B-2B/Sacrifice (Front of Home); Romine to 3B
+663,1,4/24/2015,Hank Conger,HOU,@OAK,Eric O'Flaherty,tied 2-2,0,3,8,2,Out,t11,12-,0,1(0-0),0,0.02,-0.08,3.78,Bunt Groundout: P-2B/Sacrifice; Carter to 3B; Rasmus to 2B
+664,1,4/25/2015,Joe Panik,SFG,@COL,Brooks Brown,tied 4-4,0,1,4,4,FC,t11,3-Jan,1,1(0-0),1,0.17,0.73,5,Fielder's Choice 1B/Sacrifice Bunt; Aoki Scores; Pagán to 2B
+665,1,5/14/2015,Xander Bogaerts,BOS,@SEA,Fernando Rodney,tied 1-1,0,1,8,6,Out,t9,-2-,0,2(0-1),0,0,-0.16,2.69,Bunt Groundout: 1B-2B/Sacrifice; Holt to 3B
+666,1,5/31/2015,Cliff Pennington,ARI,@MIL,Matt Garza,tied 6-6,0,0,2,4,Out,t13,-2-,0,2(1-0),0,0,-0.16,2.68,Bunt Groundout: 3B-1B/Sacrifice (Short 3B Line); Pollock to 3B
+667,1,6/2/2015,Carlos Ruiz,PHI,CIN,Tony Cingrani,tied 4-4,0,1,8,2,Out,b9,-2-,0,3(1-1),0,0.02,-0.16,2.66,Bunt Groundout: 3B-1B/Sacrifice (Weak 3B); Herrera to 3B
+668,1,6/13/2015,Jace Peterson,ATL,@NYM,Carlos Torres,tied 3-3,0,2,1,4,Out,t11,12-,0,1(0-0),0,0.02,-0.07,3.82,Bunt Groundout: 3B-2B/Sacrifice (Weak 3B); Simmons to 3B; Uribe to 2B
+669,1,6/21/2015,Robinson Chirinos,TEX,@CHW,Jake Petricka,tied 2-2,0,0,7,2,Out,t11,12-,0,2(0-1),0,0.02,-0.08,3.79,Bunt Groundout: 1B-2B/Sacrifice; Rosales to 3B; Gallo to 2B
+670,1,7/2/2015,Austin Hedges,SDP,@STL,Trevor Rosenthal,tied 3-3,0,0,7,2,Out,t9,-2-,0,1(0-0),0,0,-0.17,2.68,Bunt Groundout: P-2B/Sacrifice (Front of Home); Gyorko to 3B
+671,1,7/3/2015,Omar Infante,KCR,MIN,Ryan Pressly,tied 2-2,0,0,9,4,Out,b9,12-,0,2(1-0),0,0.03,-0.09,3.25,Bunt Groundout: 1B unassisted/Sacrifice (Short 1B Line); Coleman to 3B; Rios to 2B
+672,1,7/4/2015,Ramón Flores,NYY,TBR,Brad Boxberger,tied 2-2,0,1,6,7,RoE,b9,12-,0,3(2-0),0,0.19,1,3.28,*WALK-OFF*:*ENDED GAME*:Reached on E1 (throw)/Sacrifice Bunt; Pirela Scores/unER/No RBI; Young to 2B
+673,1,7/17/2015,Joe Panik,SFG,@ARI,Randall Delgado,tied 5-5,0,0,2,4,Out,t11,-2-,0,1(0-0),0,0,-0.18,2.66,Bunt Groundout: 2B-1B/Sacrifice (Weak 1B); Pagán to 3B
+674,1,7/19/2015,Kevin Plawecki,NYM,@STL,Carlos Martinez,tied 1-1,0,2,7,2,RoE,t18,12-,0,2(0-1),0,0.14,0.85,3.78,Reached on E1/Sacrifice Bunt (Bunt to Front of Home); Flores to 3B; Granderson to 2B
+675,1,7/26/2015,Scott Van Slyke,LAD,@NYM,Jenrry Mejia,tied 2-2,0,0,9,7,Out,t10,-2-,0,5(3-1),0,0,-0.16,2.7,Bunt Groundout: 3B-2B/Sacrifice (Short 3B Line); Rollins to 3B
+676,1,8/5/2015,Seth Smith,SEA,@COL,Christian Friedrich,tied 5-5,0,0,9,7,Out,t10,12-,0,1(0-0),0,0.02,-0.1,3.64,Bunt Groundout: 3B-2B/Sacrifice (Weak 3B); Morrison to 3B; Zunino to 2B
+677,1,8/6/2015,Carlos Gómez,HOU,@OAK,Edward Mujica,tied 4-4,0,1,2,8,Out,t10,-2-,0,3(1-1),0,0,-0.17,2.68,Bunt Groundout: P-1B/Sacrifice (Front of Home); Altuve to 3B
+678,1,8/9/2015,Jarrod Saltalamacchia,ARI,CIN,Ryan Mattheus,tied 3-3,0,1,5,2,Out,b10,12-,0,2(0-1),0,0.03,-0.08,3.29,Bunt Groundout: P-2B/Sacrifice (Front of Home); Goldschmidt to 3B; Peralta to 2B
+679,1,8/13/2015,Johnny Giavotella,LAA,@KCR,Greg Holland,tied 5-5,0,2,1,4,RoE,t9,-2-,0,3(1-1),0,0.14,0.72,2.63,Reached on E3/Sacrifice Bunt (Bunt to Weak 1B); Victorino to 3B
+680,1,8/16/2015,Logan Morrison,SEA,@BOS,Craig Breslow,tied 8-8,0,2,8,3,RoE,t12,12-,0,2(1-0),0,0.14,0.84,3.69,Reached on E1/Sacrifice Bunt; Jackson to 3B; Miller to 2B
+681,1,8/22/2015,Yolmer Sanchez,CHW,@SEA,Carson Smith,down 3-2,-1,0,8,4,Out,t9,12-,0,2(0-1),0,0.01,-0.08,5.57,Bunt Groundout: 3B-2B/Sacrifice (Short 3B Line); Shuck to 3B; Ramírez to 2B
+682,1,9/4/2015,Ian Desmond,WSN,ATL,Arodys Vizcaíno,down 2-1,-1,0,7,6,Out,b9,-2-,0,4(1-2),0,-0.03,-0.17,4.37,Bunt Groundout: P-2B/Sacrifice (Front of Home); Turner to 3B
+683,1,9/8/2015,Andrew Romine,DET,TBR,Andrew Bellatti,tied 7-7,0,1,8,6,Out,b13,12-,0,3(1-1),0,0.03,-0.08,3.3,Bunt Groundout: P-1B/Sacrifice (Front of Home); McCann to 3B; Marte to 2B
+684,1,9/8/2015,Clint Barmes,SDP,COL,Boone Logan,tied 1-1,0,1,8,11,Out,b9,-2-,0,2(0-1),0,0.02,-0.15,2.68,Bunt Groundout: 3B-2B/Sacrifice (Short 3B Line); Spangenberg to 3B
+685,1,9/16/2015,Byron Buxton,MIN,DET,Bruce Rondón,tied 4-4,0,0,6,8,Out,b9,-2-,0,2(1-0),0,0.02,-0.17,2.6,Bunt Groundout: P-2B/Sacrifice (Front of Home); Robinson to 3B
+686,1,9/18/2015,Jarrod Dyson,KCR,@DET,Drew VerHagen,tied 3-3,0,1,6,8,Out,t12,-2-,0,3(1-1),0,0,-0.17,2.66,Bunt Groundout: C-2B/Sacrifice; Gore to 3B
+687,1,2015-09-19 (1),Ryan Jackson,LAA,@MIN,Blaine Boyer,tied 3-3,0,1,1,4,Out,t12,12-,0,1(0-0),0,0.02,-0.08,3.75,Bunt Groundout: P-2B/Sacrifice (Short 1B Line); Robertson to 3B; Iannetta to 2B
+688,1,9/23/2015,Donovan Solano,MIA,PHI,Ken Giles,down 3-2,-1,0,2,5,FC,b10,12-,0,2(0-1),0,0.31,1,6.25,Fielder's Choice C/Sacrifice Bunt; Suzuki Scores/unER/Adv on E2 (throw)/No RBI; Strange-Gordon to 2B
+689,1,9/24/2015,B.J. Upton,SDP,SFG,Mike Broadway,tied 4-4,0,1,7,8,Out,b9,-2-,0,1(0-0),0,0.02,-0.15,2.68,Bunt Groundout: P-1B/Sacrifice (Front of Home); Jankowski to 3B
+690,1,9/28/2015,Ryan Goins,TOR,@BAL,Brad Brach,tied 3-3,0,1,8,6,Out,t9,12-,0,2(0-1),0,0.02,-0.09,3.73,Bunt Groundout: C-2B/Sacrifice (Front of Home); Pompey to 3B; Pillar to 2B
+691,1,9/28/2015,Justin Turner,LAD,@SFG,Santiago Casilla,down 2-1,-1,0,4,5,Out,t9,12-,0,2(1-0),0,0.01,-0.07,5.58,Bunt Groundout: 3B-1B/Sacrifice (Short 3B Line); Seager to 3B; Torreyes to 2B
+692,1,4/24/2016,Nick Ahmed,ARI,PIT,Kyle Lobstein,tied 8-8,0,0,7,6,Out,b10,-2-,0,5(3-1),0,0.02,-0.19,2.54,Bunt Groundout: P-2B/Sacrifice (Front of Home); Lamb to 3B
+693,1,4/24/2016,Brock Holt,BOS,@HOU,Ken Giles,tied 5-5,0,2,7,7,Out,t12,12-,0,3(1-1),0,0.02,-0.08,3.76,Bunt Groundout: 3B-2B/Sacrifice; Ramirez to 3B; Shaw to 2B
+694,1,4/29/2016,Mark Canha,OAK,HOU,Pat Neshek,tied 4-4,0,3,6,11,Out,b9,-2-,0,4(2-1),0,0.02,-0.18,2.6,Bunt Groundout: 3B-2B/Sacrifice (Weak 3B); Ladendorf to 3B
+695,1,5/11/2016,Sean Rodríguez,PIT,@CIN,Ross Ohlendorf,tied 4-4,0,1,7,7,Out,t9,-2-,0,1(0-0),0,0,-0.18,2.64,Bunt Groundout: P-1B/Sacrifice (Front of Home); Kang to 3B
+696,1,5/21/2016,Matt Reynolds,NYM,MIL,Michael Blazek,tied 4-4,0,1,9,11,Out,b9,12-,0,3(0-2),0,0.03,-0.08,3.31,Bunt Groundout: 3B-2B/Sacrifice; Campbell to 3B; Plawecki to 2B
+697,1,6/2/2016,Jason Kipnis,CLE,KCR,Joakim Soria,down 4-3,-1,1,2,4,Out,b9,-2-,0,2(0-1),0,-0.04,-0.2,4.3,Bunt Groundout: 3B-2B/Sacrifice (Short 3B Line); Martinez to 3B
+698,1,6/4/2016,Jose Altuve,HOU,OAK,Ryan Madson,tied 5-5,0,1,2,4,Out,b12,-2-,0,1(0-0),0,0.02,-0.17,2.62,Bunt Groundout: P-2B/Sacrifice (Front of Home); Springer to 3B
+699,1,6/7/2016,Andrew Romine,DET,TOR,Roberto Osuna,down 2-1,-1,0,2,8,Out,b9,-2-,0,1(0-0),0,-0.03,-0.18,4.34,Bunt Groundout: 3B-2B/Sacrifice (P's Right); Kinsler to 3B
+700,2,6/7/2016,José Iglesias,DET,TOR,Joe Biagini,tied 2-2,0,1,9,6,FC,b10,12-,0,1(0-0),0,0.12,0.84,3.24,Fielder's Choice 1B/Sacrifice Bunt; Upton to 3B; Saltalamacchia to 2B
+701,1,6/8/2016,James Loney,NYM,@PIT,Cory Luebke,tied 5-5,0,1,5,3,Out,t10,12-,0,2(0-1),0,0.02,-0.09,3.74,Bunt Groundout: 3B-1B/Sacrifice (Short 3B Line); Céspedes to 3B; Walker to 2B
+702,1,6/13/2016,Tim Anderson,CHW,DET,Aníbal Sánchez,tied 9-9,0,1,1,6,Out,b12,-2-,0,1(0-0),0,0.02,-0.18,2.6,Bunt Groundout: 3B-2B/Sacrifice; Shuck to 3B
+703,1,6/15/2016,Tyler Holt,CIN,@ATL,Alexi Ogando,tied 6-6,0,2,7,8,Out,t13,12-,0,1(0-0),0,0.02,-0.08,3.75,Bunt Groundout: P-2B/Sacrifice (Short 3B Line); Duvall to 3B; DeJesús to 2B
+704,1,6/17/2016,A.J. Ellis,LAD,MIL,Jeremy Jeffress,tied 2-2,0,1,9,11,Out,b10,-2-,0,3(0-2),0,0.02,-0.17,2.61,Bunt Groundout: P-2B/Sacrifice (Short 3B Line); Venable to 3B
+705,1,6/19/2016,Jason Kipnis,CLE,CHW,David Robertson,tied 2-2,0,1,2,4,Out,b10,-2-,0,2(1-0),0,0.01,-0.2,2.5,Bunt Groundout: 3B-2B/Sacrifice; Davis to 3B
+706,1,6/19/2016,Paulo Orlando,KCR,DET,Kyle Ryan,tied 1-1,0,1,6,9,Out,b13,12-,0,1(0-0),0,0.03,-0.09,3.22,Bunt Groundout: 3B-2B/Sacrifice (Short 3B Line); Cain to 3B; Morales to 2B
+707,1,6/20/2016,Chris Iannetta,SEA,@DET,Aníbal Sánchez,tied 7-7,0,0,7,2,Out,t12,-2-,0,3(1-1),0,0,-0.18,2.63,Bunt Groundout: P-2B/Sacrifice (Front of Home); Lind to 3B
+708,1,6/24/2016,Tony Wolters,COL,ARI,Brad Ziegler,down 10-9,-1,-1,4,11,RoE,b9,-2-,0,2(0-1),0,0.21,0.71,4.28,Reached on E2 (throw)/Sacrifice Bunt (Bunt to Short 1B Line); Arenado to 3B
+709,1,7/2/2016,Billy Hamilton,CIN,@WSN,Sammy Solís,tied 4-4,0,5,7,8,RoE,t10,12-,0,2(0-1),0,0.14,0.84,3.7,Reached on E3/Sacrifice Bunt (Bunt to Short 1B Line); Suárez to 3B; Phillips to 2B
+710,1,7/15/2016,Yadiel Rivera,MIL,@CIN,Tony Cingrani,down 5-4,-1,-1,9,11,Out,t9,12-,0,1(0-0),0,0.01,-0.09,5.45,Bunt Groundout: P-2B/Sacrifice (Weak SS); Middlebrooks to 3B; Pérez to 2B
+711,1,7/21/2016,Jeremy Hazelbaker,STL,SDP,Carlos Villanueva,tied 5-5,0,1,9,7,Out,b9,12-,0,1(0-0),0,0.03,-0.08,3.29,Bunt Groundout: 3B-2B/Sacrifice (Short 3B Line); Pham to 3B; Garcia to 2B
+712,1,7/22/2016,Anthony Recker,ATL,@COL,Carlos Estévez,down 4-3,-1,-1,7,2,Out,t9,12-,0,2(1-0),0,0,-0.11,5.22,Bunt Groundout: P-2B/Sacrifice (Front of Home); García to 3B; Inciarte to 2B
+713,1,7/23/2016,Jacoby Ellsbury,NYY,SFG,Santiago Casilla,tied 1-1,0,0,2,8,Out,b10,12-,0,1(0-0),0,0.03,-0.1,3.21,Bunt Groundout: P-2B/Sacrifice (P's Right); Hicks to 3B; Gardner to 2B
+714,1,7/26/2016,Chris Gimenez,CLE,WSN,Jonathan Papelbon,down 6-5,-1,1,8,2,RoE,b9,-2-,0,2(1-0),0,0.36,1,4.3,Reached on E3 (throw)/Sacrifice Bunt (Bunt to Short 1B Line); Naquin Scores/No RBI; Gimenez to 2B
+715,1,7/31/2016,Jon Lester,CHC,SEA,Cody Martin,tied 6-6,0,1,8,11,FC,b12,3,1,5(2-2),1,0.17,0.58,4.72,*WALK-OFF*:*ENDED GAME*:Fielder's Choice P/Sacrifice Bunt; Heyward Scores
+716,1,8/1/2016,Ben Gamel,NYY,@NYM,Seth Lugo,tied 5-5,0,1,4,11,FC,t10,12-,0,1(0-0),0,0.14,0.85,3.77,Fielder's Choice P/Sacrifice Bunt; Ellsbury to 3B; Teixeira to 2B
+717,2,8/1/2016,Matt Reynolds,NYM,NYY,Dellin Betances,down 6-5,-1,-1,7,6,Out,b10,-2-,0,1(0-0),0,-0.03,-0.17,4.37,Bunt Groundout: P-2B/Sacrifice (Front of Home); Loney to 3B
+718,1,8/30/2016,Martín Maldonado,MIL,STL,Matt Bowman,down 2-1,-1,-1,8,2,Out,b10,12-,0,1(0-0),0,0.02,-0.09,6.1,Bunt Groundout: P-2B/Sacrifice (Front of Home); Nieuwenhuis to 3B; Broxton to 2B
+719,1,9/9/2016,Jordy Mercer,PIT,CIN,Raisel Iglesias,down 4-3,-1,-1,8,6,Out,b9,12-,0,1(0-0),0,0.02,-0.09,6.13,Bunt Groundout: P-2B/Sacrifice (Front of Home); Hanson to 3B; Cervelli to 2B
+720,1,9/20/2016,Jake Marisnick,HOU,@OAK,Sean Doolittle,tied 1-1,0,1,9,8,Out,t10,-2-,0,1(0-0),0,0,-0.18,2.66,Bunt Groundout: P-2B/Sacrifice; Kemp to 3B
+721,1,9/21/2016,Ryan Goins,TOR,@SEA,Evan Scribner,tied 1-1,0,0,8,3,Out,t10,-2-,0,1(0-0),0,0,-0.18,2.66,Bunt Groundout: 3B-2B/Sacrifice (Short 3B Line); Upton to 3B
+722,2,9/21/2016,Ben Gamel,SEA,TOR,R.A. Dickey,tied 1-1,0,1,2,9,FC,b12,-2-,0,3(1-1),0,0.13,0.72,2.6,Fielder's Choice 1B/Sacrifice Bunt; Heredia to 3B
+723,1,9/23/2016,Michael Bourn,BAL,ARI,Zack Godley,tied 2-2,0,0,1,7,Out,b11,12-,0,3(1-1),0,0.03,-0.09,3.22,Bunt Groundout: 3B-2B/Sacrifice (Short 3B Line); Stubbs to 3B; Hardy to 2B
+724,1,9/27/2016,Jarrod Dyson,KCR,MIN,Tommy Milone,tied 3-3,0,1,1,8,Out,b11,-2-,0,3(1-1),0,0.02,-0.19,2.55,Bunt Groundout: 3B-2B/Sacrifice (Short 3B Line); Mondesí to 3B
+725,1,4/5/2017,Nori Aoki,HOU,SEA,Nick Vincent,tied 2-2,0,0,9,7,Out,b11,-2-,0,3(1-1),0,0.02,-0.18,2.59,Bunt Groundout: P-2B/Sacrifice (Front of Home); Reddick to 3B
+726,1,4/8/2017,Tim Beckham,TBR,TOR,Casey Lawrence,tied 2-2,0,1,9,6,Out,b11,-2-,0,1(0-0),0,0.02,-0.18,2.57,Bunt Groundout: 3B-2B/Sacrifice (Short 3B Line); Smith to 3B
+727,1,4/16/2017,Tyler Saladino,CHW,@MIN,Ryan Pressly,tied 1-1,0,2,2,4,Out,t10,-2-,0,2(1-0),0,0,-0.19,2.61,Bunt Groundout: P-2B/Sacrifice; Garcia to 3B
+728,1,4/26/2017,Nick Hundley,SFG,LAD,Ross Stripling,tied 3-3,0,1,9,11,FC,b10,12-,0,1(0-0),0,0.12,0.84,3.25,Fielder's Choice 1B/Sacrifice Bunt; Hernández to 3B; Gillaspie to 2B
+729,1,4/30/2017,Aaron Hicks,NYY,BAL,Logan Verrett,tied 4-4,0,0,2,8,Out,b10,12-,0,2(0-1),0,0.03,-0.1,3.16,Bunt Groundout: P-2B/Sacrifice (Short 1B Line); Romine to 3B; Gardner to 2B
+730,1,5/7/2017,Ronald Torreyes,NYY,@CHC,Pedro Strop,tied 4-4,0,1,3,5,Out,t18,-2-,0,1(0-0),0,0,-0.2,2.6,Bunt Groundout: P-2B/Sacrifice (Front of Home); Hicks to 3B
+731,1,5/12/2017,Tucker Barnhart,CIN,@SFG,Bryan Morris,tied 2-2,0,0,8,2,Out,t14,12-,0,4(2-1),0,0.02,-0.09,3.71,Bunt Groundout: 3B-2B/Sacrifice (Weak 3B); Schebler to 3B; Gennett to 2B
+732,1,5/16/2017,Tim Anderson,CHW,@LAA,Yusmeiro Petit,tied 5-5,0,0,7,6,Out,t9,-2-,0,3(1-1),0,0,-0.19,2.62,Bunt Groundout: P-2B/Sacrifice (Front of Home); García to 3B
+733,1,5/28/2017,Eddie Rosario,MIN,TBR,Alex Colomé,down 6-5,-1,0,7,7,Out,b14,12-,0,1(0-0),0,0.02,-0.1,6.04,Bunt Groundout: 3B-1B/Sacrifice (Weak 3B); Kepler to 3B; Sanó to 2B
+734,1,5/31/2017,Gift Ngoepe,PIT,ARI,Fernando Rodney,down 4-3,-1,0,7,11,RoE,b9,12-,0,3(1-1),0,0.22,0.85,6.11,Reached on E3/Sacrifice Bunt (Bunt to Front of Home); Hanson to 3B; McCutchen to 2B
+735,1,7/21/2017,Luis Torrens,SDP,@SFG,George Kontos,tied 9-9,0,3,8,2,Out,t11,12-,0,2(0-1),0,0.02,-0.09,3.71,Bunt Groundout: P-2B/Sacrifice (Front of Home); Renfroe to 3B; Aybar to 2B
+736,1,7/25/2017,Greg Garcia,STL,COL,Jake McGee,tied 2-2,0,1,8,5,Out,b9,-2-,0,1(0-0),0,0.02,-0.18,2.57,Bunt Groundout: P-1B/Sacrifice; Bader to 3B
+737,1,8/4/2017,Adam Engel,CHW,@BOS,Craig Kimbrel,tied 2-2,0,0,8,8,Out,t9,12-,0,2(1-0),0,0.02,-0.11,3.63,Bunt Groundout: 3B-2B/Sacrifice (Weak 3B); Moncada to 3B; Delmonico to 2B
+738,1,8/21/2017,Roberto Pérez,CLE,BOS,Brandon Workman,tied 4-4,0,1,8,2,FC,b9,-2-,0,3(1-1),0,0.18,0.76,2.49,*WALK-OFF*:*ENDED GAME*:Fielder's Choice 1B/Sacrifice Bunt; Guyer Scores/Adv on E3 (throw)/unER/No RBI
+739,1,8/26/2017,Mike Aviles,MIA,SDP,José Torres,tied 1-1,0,1,7,11,Out,b11,-2-,0,2(0-1),0,0.02,-0.16,2.64,Bunt Groundout: P-2B/Sacrifice; Dietrich to 3B
+740,1,9/9/2017,Johan Camargo,ATL,MIA,Kyle Barraclough,tied 5-5,0,1,7,5,Out,b9,12-,0,2(1-0),0,0.03,-0.09,3.23,Bunt Groundout: P-2B/Sacrifice (Front of Home); Johnson to 3B; Swanson to 2B
+741,1,4/5/2018,Christian Vázquez,BOS,TBR,Andrew Kittredge,tied 2-2,0,1,9,2,Out,b12,-2-,0,1(0-0),0,0.02,-0.19,2.54,Bunt Groundout: P-2B/Sacrifice (Weak 2B-1B); Bradley to 3B
+742,1,4/5/2018,Gerardo Parra,COL,@SDP,Brad Hand,tied 0-0,0,3,7,9,FC,t9,12-,0,4(2-1),0,0.14,0.85,3.82,Fielder's Choice 3B/Sacrifice Bunt; Iannetta to 2B/Safe on E4 (catch); Story to 3B; Parra to 1B
+743,1,4/6/2018,Jonathan Schoop,BAL,@NYY,Jonathan Holder,tied 3-3,0,4,3,4,RoE,t14,12-,0,2(1-0),0,0.14,0.84,3.7,Reached on E5 (throw)/Sacrifice Bunt (Bunt to Weak SS); Mancini to 3B; Machado to 2B
+744,1,4/8/2018,Brett Gardner,NYY,BAL,Brad Brach,down 8-7,-1,-1,1,8,RoE,b12,12-,0,5(2-2),0,0.22,0.84,6.08,Reached on E1/Sacrifice Bunt (Bunt to P's Right); Romine to 3B; Gregorius to 2B
+745,1,4/9/2018,Eric Sogard,MIL,@STL,Greg Holland,tied 4-4,0,1,6,4,Out,t10,12-,0,2(1-0),0,0.02,-0.08,3.78,Bunt Groundout: 3B-2B/Sacrifice; Shaw to 3B; Santana to 2B
+746,1,4/11/2018,Tucker Barnhart,CIN,@PHI,Hector Neris,tied 3-3,0,0,7,11,Out,t9,12-,0,3(1-1),0,0.02,-0.09,3.73,Bunt Groundout: 3B-2B/Sacrifice (Weak 3B); Blandino to 3B; Ervin to 2B
+747,2,4/11/2018,J.P. Crawford,PHI,CIN,Austin Brice,tied 3-3,0,1,9,6,Out,b12,-2-,0,2(1-0),0,0.02,-0.18,2.59,Bunt Groundout: 3B-1B/Sacrifice (Weak 3B); Florimón to 3B
+748,1,4/29/2018,Adeiny Hechavarria,TBR,@BOS,Craig Kimbrel,down 4-3,-1,-1,7,6,Out,t9,12-,0,1(0-0),0,0,-0.1,5.35,Bunt Groundout: 1B unassisted/Sacrifice (Short 1B Line); Robertson to 3B; Smith to 2B
+749,1,5/6/2018,Craig Gentry,BAL,@OAK,Blake Treinen,down 2-1,-1,-1,1,8,Out,t9,-2-,0,3(2-0),0,-0.04,-0.18,3.83,Bunt Groundout: 3B-2B/Sacrifice (Front of Home); Mancini to 3B
+750,1,5/8/2018,Kenta Maeda,LAD,ARI,Silvino Bracho,tied 5-5,0,0,3,11,Out,b11,12-,1,1(0-0),0,-0.07,-0.3,4.31,Bunt Groundout: 1B-2B/Sacrifice (Weak 2B-1B); Hernández to 3B; Taylor to 2B
+751,1,5/23/2018,Alcides Escobar,KCR,@STL,Bud Norris,tied 2-2,0,3,7,6,RoE,t10,12-,0,3(1-1),0,0.14,0.85,3.78,Reached on E1/Sacrifice Bunt (Bunt to Front of Home); Soler to 3B; Gordon to 2B
+752,1,6/14/2018,JT Riddle,MIA,SFG,Hunter Strickland,down 3-2,-1,0,5,6,Out,b9,-2-,0,2(1-0),0,-0.03,-0.16,4.38,Bunt Groundout: P-1B/Sacrifice (Front of Home); Castro to 3B
+753,1,6/18/2018,Tony Kemp,HOU,TBR,Sergio Romo,down 4-3,-1,1,9,7,Out,b9,12-,0,4(2-1),0,0.02,-0.09,6.1,Bunt Groundout: 1B-2B/Sacrifice (Weak 1B); Gonzalez to 3B; Stassi to 2B
+754,1,6/22/2018,Josh Harrison,PIT,ARI,Brad Boxberger,down 1-0,-1,0,1,4,Out,b11,12-,0,1(0-0),0,0.02,-0.08,6.2,Bunt Groundout: P-2B/Sacrifice; Polanco to 3B; Bell to 2B
+755,1,6/25/2018,Scooter Gennett,CIN,@ATL,Jesse Biddle,tied 4-4,0,0,4,4,Out,t10,12-,0,2(1-0),0,0.02,-0.08,3.74,Bunt Groundout: 3B-1B/Sacrifice (Short 3B Line); Barnhart to 3B; Votto to 2B
+756,1,7/3/2018,Adam Engel,CHW,@CIN,Jackson Stephens,tied 8-8,0,4,8,8,RoE,t12,12-,0,3(1-1),0,0.14,0.85,3.73,Reached on E5 (throw)/Sacrifice Bunt (Bunt to Short 3B Line); Anderson to 3B; Davidson to 2B
+757,1,7/6/2018,Amed Rosario,NYM,TBR,Chaz Roe,tied 1-1,0,4,8,6,Out,b9,12-,0,1(0-0),0,0.03,-0.07,3.38,Bunt Groundout: 3B-2B/Sacrifice (Weak SS); Frazier to 3B; Mesoraco to 2B
+758,1,7/15/2018,Mitch Garver,MIN,TBR,Matt Andriese,tied 7-7,0,4,9,2,Out,b10,-2-,0,3(1-1),0,0.02,-0.19,2.56,Bunt Groundout: 3B-2B/Sacrifice (Weak 3B); Cave to 3B
+759,1,7/21/2018,Chad Pinder,OAK,SFG,Reyes Moronta,tied 3-3,0,0,8,7,Out,b9,12-,0,3(1-1),0,0.03,-0.09,3.27,Bunt Groundout: 3B-2B/Sacrifice (Short 3B Line); Fowler to 3B; Chapman to 2B
+760,1,7/23/2018,Didi Gregorius,NYY,@TBR,José Alvarado,down 7-6,-1,-1,3,6,Out,t9,12-,0,2(0-1),0,0.01,-0.09,5.46,Bunt Groundout: P-1B/Sacrifice (Front of Home); Gardner to 3B; Judge to 2B
+761,1,8/21/2018,AJ Pollock,ARI,LAA,Cam Bedrosian,tied 4-4,0,1,1,8,FC,b9,12-,0,1(0-0),0,0.18,1,3.24,*WALK-OFF*:*ENDED GAME*:Fielder's Choice P/Sacrifice Bunt; Jay Scores/Adv on E1 (throw)/unER/No RBI; Murphy to 2B
+762,1,9/2/2018,Enrique Hernández,LAD,ARI,Brad Boxberger,down 2-1,-1,1,8,7,Out,b9,12-,0,1(0-0),0,0.02,-0.08,6.18,Bunt Groundout: P-2B/Sacrifice (Front of Home); Verdugo to 3B; Locastro to 2B
+763,1,9/3/2018,Kevin Plawecki,NYM,@LAD,Kenta Maeda,tied 1-1,0,3,7,2,Out,t9,-2-,0,2(1-0),0,0,-0.17,2.67,Bunt Groundout: P-2B/Sacrifice; Bruce to 3B
+764,1,9/8/2018,Jim Adduci,DET,STL,Bud Norris,tied 3-3,0,1,2,3,Out,b9,12-,0,1(0-0),0,0.03,-0.1,3.21,Bunt Groundout: 3B-1B/Sacrifice (P's Right); Reyes to 3B; Candelario to 2B
+765,1,9/10/2018,Alcides Escobar,KCR,CHW,Jeanmar Gómez,tied 3-3,0,1,9,5,FC,b10,-2-,0,1(0-0),0,0.19,0.76,2.56,*WALK-OFF*:*ENDED GAME*:Fielder's Choice P/Sacrifice Bunt; Goodwin Scores/Adv on E1 (throw)/No RBI/unER
+766,1,9/18/2018,Francisco Cervelli,PIT,KCR,Jason Hammel,tied 1-1,0,0,4,2,Out,b9,12-,0,1(0-0),0,0.03,-0.08,3.34,Bunt Groundout: P-2B/Sacrifice (Front of Home); Marte to 3B; Bell to 2B
+767,1,9/25/2018,Leury Garcia,CHW,CLE,Carlos Carrasco,down 4-3,-1,1,2,6,Out,b9,12-,0,2(0-1),0,0.02,-0.09,6.11,Bunt Groundout: P-2B/Sacrifice (Front of Home); Engel to 3B; Sanchez to 2B
+768,1,4/12/2019,Adam Frazier,PIT,@WSN,Matt Grace,tied 3-3,0,3,1,4,RoE,t10,-2-,0,1(0-0),0,0.14,0.72,2.59,Reached on E1 (throw)/Sacrifice Bunt (Bunt to Weak 2B-1B); Martin to 3B
+769,1,4/21/2019,Thairo Estrada,NYY,KCR,Ian Kennedy,tied 6-6,0,1,7,11,Out,b10,12-,0,2(1-0),0,0.03,-0.1,3.18,Bunt Groundout: 1B-2B/Sacrifice (Short 1B Line); Tauchman to 3B; Urshela to 2B
+770,1,4/21/2019,Jackie Bradley Jr.,BOS,@TBR,José Alvarado,tied 3-3,0,1,8,8,Out,t11,12-,0,3(2-0),0,0.02,-0.1,3.67,Bunt Groundout: P-2B/Sacrifice; Devers to 3B; Chavis to 2B
+771,1,4/26/2019,Billy McKinney,TOR,OAK,Yusmeiro Petit,tied 2-2,0,2,6,9,Out,b9,-2-,0,1(0-0),0,0.02,-0.2,2.53,Bunt Groundout: 1B-2B/Sacrifice; Hanson to 3B
+772,1,5/3/2019,Danny Jansen,TOR,@TEX,Ariel Jurado,tied 0-0,0,1,9,2,FC,t12,12-,0,4(1-2),0,0.22,1.48,3.55,Fielder's Choice P/Sacrifice Bunt; Drury Scores/Adv on E1 (throw)/unER/No RBI; Hernández to 3B; Jansen to 2B
+773,1,5/7/2019,Daniel Descalso,CHC,MIA,Adam Conley,tied 2-2,0,3,9,11,Out,b9,12-,0,1(0-0),0,0.03,-0.1,3.2,Bunt Groundout: P-2B/Sacrifice (P's Left); Heyward to 3B; Schwarber to 2B
+774,1,5/11/2019,Stephen Piscotty,OAK,CLE,A.J. Cole,tied 2-2,0,1,6,9,Out,b9,12-,0,1(0-0),0,0.03,-0.09,3.22,Bunt Groundout: 3B-2B/Sacrifice (Short 3B Line); Olson to 3B; Morales to 2B
+775,1,5/29/2019,Luis Rengifo,LAA,@OAK,Lou Trivino,tied 7-7,0,5,8,4,RoE,t11,12-,0,1(0-0),0,0.23,1.49,3.69,Reached on E3 (throw)/Sacrifice Bunt; Puello Scores/No RBI; Goodwin to 3B; Rengifo to 2B
+776,1,6/1/2019,Nick Ahmed,ARI,NYM,Tyler Bashlor,tied 5-5,0,1,7,6,Out,b11,-2-,0,2(1-0),0,0.02,-0.2,2.53,Bunt Groundout: 3B-1B/Sacrifice (Short 3B Line); Cron to 3B
+777,1,6/6/2019,Jake Marisnick,HOU,@SEA,Anthony Bass,tied 6-6,0,1,7,8,Out,t10,12-,0,1(0-0),0,0.02,-0.09,3.69,Bunt Groundout: 3B-2B/Sacrifice; Chirinos to 3B; White to 2B
+778,1,6/7/2019,Victor Robles,WSN,@SDP,Adam Warren,tied 3-3,0,1,7,8,Out,t9,-2-,0,2(1-0),0,0,-0.18,2.64,Bunt Groundout: P-2B/Sacrifice; Dozier to 3B
+779,1,6/12/2019,Dylan Moore,SEA,@MIN,Tyler Duffey,tied 6-6,0,3,9,6,Out,t10,12-,0,3(1-1),0,0.02,-0.1,3.64,Bunt Groundout: P-2B/Sacrifice (Front of Home); Strange-Gordon to 3B; Long to 2B
+780,1,6/18/2019,Jackie Bradley Jr.,BOS,@MIN,Matt Magill,tied 3-3,0,0,8,8,Out,t14,12-,0,2(0-1),0,0.02,-0.1,3.64,Bunt Groundout: C-SS-2B/Sacrifice; Holt to 3B; Chavis to 2B
+781,1,6/21/2019,Yolmer Sanchez,CHW,@TEX,Shawn Kelley,tied 4-4,0,1,7,4,Out,t10,3-Jan,1,2(0-1),1,0.12,0.08,4.78,Bunt Groundout: P unassisted/Sacrifice (Short 1B Line); Jiménez Scores; Anderson to 2B
+782,1,6/23/2019,Starling Marte,PIT,SDP,Kirby Yates,down 7-6,-1,0,3,8,Out,b9,12-,0,2(0-1),0,0.02,-0.09,6.08,Bunt Groundout: P-1B/Sacrifice (Front of Home); Newman to 3B; Reynolds to 2B
+783,1,6/29/2019,Nicky Lopez,KCR,@TOR,Daniel Hudson,down 5-4,-1,0,2,4,Out,t9,12-,0,2(1-0),0,0,-0.1,5.33,Bunt Groundout: P-2B/Sacrifice; Hamilton to 3B; Merrifield to 2B
+784,1,7/5/2019,Stephen Strasburg,WSN,KCR,Brian Flynn,tied 4-4,0,0,3,11,Out,b10,-2-,0,2(1-0),0,0.02,-0.2,2.52,Bunt Groundout: 1B-2B/Sacrifice (Short 1B Line); Eaton to 3B
+785,1,7/21/2019,Kevin Newman,PIT,PHI,Ranger Suárez,tied 1-1,0,0,1,6,Out,b10,-2-,0,4(2-1),0,0.02,-0.19,2.56,Bunt Groundout: P-2B/Sacrifice; Frazier to 3B
+786,1,8/3/2019,Johan Camargo,ATL,CIN,Jared Hughes,tied 4-4,0,1,8,6,Out,b10,12-,0,1(0-0),0,0.03,-0.11,3.14,Bunt Groundout: 3B-2B/Sacrifice; Duvall to 3B; Inciarte to 2B
+787,1,8/5/2019,Tyler Naquin,CLE,TEX,José Leclerc,down 1-0,-1,-1,6,7,Out,b9,-2-,0,2(1-0),0,-0.04,-0.21,4.28,Bunt Groundout: P-1B/Sacrifice (Front of Home); Ramírez to 3B
+788,1,8/6/2019,Erik González,PIT,MIL,Matt Albers,down 4-3,-1,-1,8,6,Out,b9,-2-,0,2(0-1),0,-0.03,-0.19,4.34,Bunt Groundout: 1B-2B/Sacrifice (Short 1B Line); Reyes to 3B
+789,1,8/6/2019,Willy Adames,TBR,TOR,Buddy Boshers,tied 6-6,0,1,9,6,FC,b10,12-,0,2(1-0),0,0.12,0.84,3.2,Fielder's Choice 1B/Sacrifice Bunt; Kiermaier to 3B; Duffy to 2B
+790,1,8/9/2019,Mike Brosseau,TBR,@SEA,Anthony Bass,tied 2-2,0,3,8,4,Out,t9,12-,0,2(1-0),0,0.02,-0.09,3.69,Bunt Groundout: 3B-2B/Sacrifice (Short 3B Line); Sogard to 3B; Kiermaier to 2B
+791,1,8/21/2019,Joe Panik,NYM,CLE,Brad Hand,down 3-2,-1,1,2,4,Out,b10,-2-,0,1(0-0),0,-0.03,-0.18,4.36,Bunt Groundout: 3B-2B/Sacrifice; Rosario to 3B
+792,1,8/23/2019,Jacob Stallings,PIT,CIN,Raisel Iglesias,tied 2-2,0,1,8,2,Out,b9,12-,0,1(0-0),0,0.03,-0.09,3.23,Bunt Groundout: 1B-2B/Sacrifice (Short 1B Line); Musgrove to 3B; Frazier to 2B
+793,1,8/29/2019,J.P. Crawford,SEA,@TEX,José Leclerc,tied 3-3,0,2,2,6,Out,t9,12-,0,2(1-0),0,0.01,-0.12,3.55,Bunt Groundout: 3B-1B/Sacrifice (Weak 3B); Strange-Gordon to 3B; Smith to 2B
+794,1,9/6/2019,Hanser Alberto,BAL,TEX,José Leclerc,down 7-6,-1,-1,1,4,Out,b9,12-,0,1(0-0),0,0.02,-0.11,5.98,Bunt Groundout: 3B-1B/Sacrifice (Short 3B Line); Stewart to 3B; Ruiz to 2B
+795,1,9/17/2019,Yolmer Sanchez,CHW,@MIN,Zack Littell,tied 5-5,0,0,7,4,Out,t10,12-,0,1(0-0),0,0.02,-0.1,3.64,Bunt Groundout: 3B-1B/Sacrifice (Short 3B Line); Moncada to 3B; McCann to 2B
+796,1,9/27/2019,Andrew Knapp,PHI,MIA,Adam Conley,tied 4-4,0,1,6,2,Out,b15,12-,0,1(0-0),0,0.03,-0.1,3.19,Bunt Groundout: 3B-1B/Sacrifice (Short 3B Line); Hoskins to 3B; Gosselin to 2B
+797,1,7/25/2020,Erick Mejia,KCR,@CLE,James Karinchak,tied 2-2,0,1,6,11,Out,t10,-2-,0,1(0-0),0,-0.02,-0.2,3.94,Bunt Groundout: 3B-2B/Sacrifice; Phillips to 3B
+798,1,8/1/2020,Pedro Severino,BAL,TBR,Oliver Drake,tied 4-4,0,1,6,10,Out,b11,-2-,0,1(0-0),0,0.01,-0.2,2.51,Bunt Groundout: P-1B/Sacrifice; Holaday to 3B
+799,1,8/7/2020,Martín Maldonado,HOU,@OAK,Jake Diekman,tied 1-1,0,0,9,2,Out,t10,-2-,0,1(0-0),0,-0.02,-0.19,3.94,Bunt Groundout: C-2B/Sacrifice; Straw to 3B
+800,2,8/7/2020,Tony Kemp,OAK,HOU,Enoli Paredes,tied 1-1,0,0,9,4,Out,b10,-2-,0,1(0-0),0,0.02,-0.19,2.57,Bunt Groundout: P-2B/Sacrifice (Front of Home); Barreto to 3B
+801,1,8/9/2020,Delino DeShields,CLE,@CHW,Jimmy Cordero,tied 3-3,0,2,5,10,FC,t10,3-Jan,1,2(1-0),1,0.17,0.73,6.33,Fielder's Choice /Sacrifice Bunt; Ramírez Scores/unER; Santana to 2B; DeShields to 1B
+802,1,8/11/2020,Danny Jansen,TOR,MIA,Stephen Tarpley,tied 4-4,0,1,9,2,Out,b10,-2-,0,1(0-0),0,0.02,-0.19,2.54,Bunt Groundout: C-2B/Sacrifice; Alford to 3B
+803,1,8/18/2020,Danny Jansen,TOR,@BAL,Cole Sulser,tied 7-7,0,1,5,2,Out,t10,12-,0,1(0-0),0,0.01,-0.1,4.51,Bunt Groundout: 1B-2B/Sacrifice (Short 1B Line); Shaw to 3B; Guerrero to 2B
+804,1,8/18/2020,Tony Wolters,COL,@HOU,Andre Scrubb,tied 1-1,0,0,9,2,Out,t11,12-,0,2(1-0),0,0.01,-0.1,4.51,Bunt Groundout: 3B-2B/Sacrifice (Short 3B Line); McMahon to 3B; Hilliard to 2B
+805,2,8/18/2020,Garrett Stubbs,HOU,COL,Jairo Díaz,tied 1-1,0,1,9,11,Out,b11,12-,0,2(0-1),0,0.03,-0.1,3.18,Bunt Groundout: P-1B/Sacrifice; Toro to 3B; Correa to 2B
+806,1,8/19/2020,Jose Trevino,TEX,@SDP,Cal Quantrill,tied 2-2,0,1,9,2,FC,t10,12-,0,1(0-0),0,0.16,0.84,4.51,Fielder's Choice /Sacrifice Bunt; Solak to 3B; Dietrich to 2B; Trevino to 1B/Adv on E1
+807,2,8/19/2020,Greg Garcia,SDP,TEX,Rafael Montero,down 3-2,-1,3,9,11,Out,b10,-2-,0,2(0-1),0,-0.03,-0.18,4.34,Bunt Groundout: C-1B/Sacrifice; Profar to 3B
+808,1,8/22/2020,Cedric Mullins,BAL,BOS,Matt Barnes,down 4-3,-1,1,9,8,FC,b10,-2-,0,1(0-0),0,0.21,0.72,4.31,Fielder's Choice /Sacrifice Bunt; Ruiz to 3B; Mullins to 1B
+809,1,8/28/2020,Jean Segura,PHI,ATL,Mark Melancon,tied 4-4,0,3,5,5,Out,b11,-2-,0,3(1-1),0,0.01,-0.2,2.51,Bunt Groundout: P-2B/Sacrifice (Front of Home); Realmuto to 3B
+810,1,8/28/2020,Cedric Mullins,BAL,@TOR,Rafael Dolis,tied 3-3,0,1,9,8,Out,t10,-2-,0,4(2-1),0,-0.02,-0.19,3.94,Bunt Groundout: P-2B/Sacrifice; Ruiz to 3B
+811,1,8/31/2020,Hanser Alberto,BAL,@TOR,A.J. Cole,tied 2-2,0,0,1,4,Out,t10,-2-,0,1(0-0),0,-0.02,-0.19,3.94,Bunt Groundout: P-2B/Sacrifice; Williams to 3B
+812,1,9/2/2020,Yadier Molina,STL,@CIN,Raisel Iglesias,tied 3-3,0,0,6,2,Out,t9,12-,0,2(0-1),0,0.01,-0.12,3.57,Bunt Groundout: P-2B/Sacrifice (Short 3B Line); Miller to 3B; DeJong to 2B
+813,1,9/2/2020,Chris Taylor,LAD,ARI,Junior Guerra,down 2-1,-1,1,5,7,FC,b10,-2-,0,3(1-1),0,0.36,1,4.31,Fielder's Choice /Sacrifice Bunt; Muncy Scores/Adv on E1 (throw)/No RBI/unER; Taylor to 2B
+814,1,9/3/2020,Didi Gregorius,PHI,WSN,Sean Doolittle,tied 5-5,0,1,5,6,Out,b10,-2-,0,2(0-1),0,0.01,-0.2,2.51,Bunt Groundout: P-1B/Sacrifice; Realmuto to 3B
+815,1,9/4/2020,Luis Rengifo,LAA,HOU,Brooks Raley,tied 5-5,0,0,8,4,Out,b10,-2-,0,1(0-0),0,0.02,-0.2,2.53,Bunt Groundout: 3B-2B/Sacrifice (Short 3B Line); Adell to 3B
+816,1,9/7/2020,Jon Berti,MIA,@ATL,A.J. Minter,tied 4-4,0,1,6,5,Out,t10,-2-,0,1(0-0),0,-0.02,-0.21,3.94,Bunt Groundout: 1B-2B/Sacrifice (Short 1B Line); Cooper to 3B
+817,1,9/12/2020,Raimel Tapia,COL,LAA,Ty Buttrey,tied 2-2,0,0,1,7,Out,b10,-2-,0,3(1-1),0,0.01,-0.23,2.4,Bunt Groundout: 3B-1B/Sacrifice (Front of Home); Díaz to 3B
+818,1,9/24/2020,Tyler Heineman,SFG,COL,Jairo Díaz,down 5-4,-1,-1,8,2,Out,b11,-2-,0,2(0-1),0,-0.03,-0.19,4.33,Bunt Groundout: 3B-1B/Sacrifice (Short 3B Line); Dubón to 3B
+819,1,9/25/2020,César Puello,BOS,@ATL,Shane Greene,tied 6-6,0,1,8,7,Out,t11,-2-,0,1(0-0),0,-0.02,-0.21,3.94,Bunt Groundout: P-1B/Sacrifice; Devers to 3B
+820,1,9/25/2020,Jon Berti,MIA,@NYY,Chad Green,tied 3-3,0,1,1,4,Out,t10,-2-,0,3(2-0),0,-0.02,-0.19,3.94,Bunt Groundout: 1B unassisted/Sacrifice (Short 1B Line); Harrison to 3B
+821,1,4/7/2021,Freddy Galvis,BAL,@NYY,Chad Green,tied 3-3,0,1,8,6,Out,t11,-2-,0,2(0-1),0,-0.02,-0.19,3.94,Bunt Groundout: 3B-1B/Sacrifice (Short 3B Line); Ruiz to 3B
+822,2,4/7/2021,Brett Gardner,NYY,BAL,Paul Fry,down 4-3,-1,-1,9,7,Out,b11,-2-,0,2(0-1),0,-0.03,-0.19,4.33,Bunt Groundout: P-2B/Sacrifice; Urshela to 3B
+823,1,4/7/2021,Tony Kemp,OAK,LAD,Kenley Jansen,down 3-2,-1,0,7,7,Out,b9,12-,0,3(2-0),0,0.02,-0.09,6.12,Bunt Groundout: 1B-2B/Sacrifice; Chapman to 3B; Tom to 2B
+824,1,4/8/2021,Kurt Suzuki,LAA,@TOR,Ryan Borucki,tied 5-5,0,2,8,2,Out,t11,12-,0,2(1-0),0,0.01,-0.1,4.51,Bunt Groundout: P-2B/Sacrifice (Short 3B Line); Upton to 3B; Iglesias to 2B
+825,1,4/11/2021,Nicky Lopez,KCR,@CHW,Garrett Crochet,tied 3-3,0,1,9,6,Out,t10,-2-,0,1(0-0),0,-0.02,-0.19,3.94,Bunt Groundout: C-2B/Sacrifice; Taylor to 3B
+826,1,4/11/2021,Mike Tauchman,NYY,@TBR,Collin McHugh,tied 4-4,0,4,4,10,Out,t10,12-,0,1(0-0),0,0.01,-0.09,4.51,Bunt Groundout: 3B-2B/Sacrifice (Front of Home); Judge to 3B; Hicks to 2B
+827,1,4/21/2021,Hanser Alberto,KCR,TBR,Diego Castillo,down 8-7,-1,1,8,5,Out,b9,-2-,0,4(2-1),0,-0.03,-0.2,4.32,Bunt Groundout: P-1B/Sacrifice; Dyson to 3B
+828,2,4/21/2021,Nicky Lopez,KCR,TBR,Diego Castillo,down 8-7,-1,1,9,6,FC,b9,3,1,1(0-0),1,0.22,0.59,5.8,Fielder's Choice /Sacrifice Bunt; Dyson Scores; Lopez to 1B
+829,1,4/22/2021,Taylor Trammell,SEA,@BOS,Darwinzon Hernández,tied 3-3,0,4,6,7,Out,t10,-2-,0,4(2-1),0,-0.02,-0.21,3.94,Bunt Groundout: C-1B/Sacrifice; White to 3B
+830,1,4/22/2021,David Bote,CHC,NYM,Edwin Díaz,tied 3-3,0,1,7,4,Out,b10,12-,0,4(2-1),0,0.03,-0.09,3.25,Bunt Groundout: 1B-2B/Sacrifice (Front of Home); Báez to 3B; Duffy to 2B
+831,1,4/29/2021,Pat Valaika,BAL,NYY,Jonathan Loáisiga,tied 3-3,0,1,9,4,Out,b10,-2-,0,2(0-1),0,0.02,-0.19,2.54,Bunt Groundout: C-2B/Sacrifice; Urías to 3B
+832,1,4/30/2021,Monte Harrison,MIA,@WSN,Brad Hand,tied 0-0,0,1,9,11,Out,t10,-2-,0,2(0-1),0,-0.02,-0.17,3.94,Bunt Groundout: P-1B/Sacrifice (Front of Home); Devers to 3B
+833,1,5/4/2021,Jose Trevino,TEX,@MIN,Taylor Rogers,down 3-2,-1,0,9,11,Out,t9,12-,0,1(0-0),0,0.01,-0.09,5.41,Bunt Groundout: C-2B/Sacrifice; Culberson to 3B; White to 2B
+834,1,5/8/2021,Cristian Pache,ATL,PHI,Matt Moore,tied 7-7,0,1,8,8,FC,b12,-2-,0,1(0-0),0,0.12,0.72,2.54,Fielder's Choice /Sacrifice Bunt; Contreras to 3B; Pache to 1B
+835,1,5/12/2021,René Rivera,CLE,CHC,Keegan Thompson,tied 1-1,0,1,8,2,Out,b10,12-,0,1(0-0),0,0.03,-0.1,3.22,Bunt Groundout: 1B-2B/Sacrifice; Naylor to 3B; Luplow to 2B
+836,1,5/13/2021,Jason Castro,HOU,TEX,Brett Martin,tied 3-3,0,1,9,2,Out,b11,-2-,0,1(0-0),0,0.02,-0.19,2.54,Bunt Groundout: 3B-1B/Sacrifice (Short 3B Line); Straw to 3B
+837,1,5/16/2021,Adam Eaton,CHW,KCR,Wade Davis,down 3-2,-1,1,2,9,Out,b9,-2-,0,3(1-1),0,-0.03,-0.19,4.32,Bunt Groundout: P-2B/Sacrifice (Short 3B Line); Anderson to 3B
+838,1,5/18/2021,Brian O'Grady,SDP,COL,Daniel Bard,tied 1-1,0,1,9,11,Out,b10,-2-,0,2(1-0),0,0.02,-0.17,2.63,Bunt Groundout: 3B-1B/Sacrifice (P's Right); Mateo to 3B
+839,1,5/26/2021,Adalberto Mondesí,KCR,@TBR,J.P. Feyereisen,tied 1-1,0,0,7,6,Out,t10,-2-,0,2(1-0),0,-0.02,-0.18,3.94,Bunt Groundout: 3B-1B/Sacrifice (Short 3B Line); Taylor to 3B
+840,1,5/27/2021,Keston Hiura,MIL,SDP,Miguel Díaz,tied 5-5,0,1,5,3,Out,b10,-2-,0,2(1-0),0,0.02,-0.18,2.57,Bunt Groundout: 3B-1B/Sacrifice (Short 3B Line); Narváez to 3B
+841,1,5/29/2021,Garrett Stubbs,HOU,SDP,Austin Adams,down 8-7,-1,0,9,2,Out,b11,-2-,0,2(0-1),0,-0.03,-0.19,4.33,Bunt Groundout: 1B-2B/Sacrifice (Short 1B Line); Straw to 3B
+842,1,5/31/2021,Willi Castro,DET,@MIL,Brad Boxberger,tied 2-2,0,0,9,11,Out,t10,-2-,0,1(0-0),0,-0.02,-0.18,3.94,Bunt Groundout: P-1B/Sacrifice (Front of Home); Rogers to 3B
+843,2,5/31/2021,Keston Hiura,MIL,DET,José Cisnero,tied 2-2,0,1,7,7,Out,b10,-2-,0,1(0-0),0,0.02,-0.18,2.57,Bunt Groundout: 3B-2B/Sacrifice (Short 3B Line); Narváez to 3B
+844,1,6/6/2021,Christian Arroyo,BOS,@NYY,Luis Cessa,tied 4-4,0,2,1,10,Out,t10,12-,0,1(0-0),0,0.01,-0.1,4.51,Bunt Groundout: P-2B/Sacrifice; Vázquez to 3B; Dalbec to 2B
+845,1,6/12/2021,Travis Jankowski,PHI,NYY,Aroldis Chapman,tied 7-7,0,1,9,11,FC,b10,-2-,0,1(0-0),0,0.13,0.72,2.57,Fielder's Choice /Sacrifice Bunt; Torreyes to 3B; Jankowski to 1B/Adv on E1 (throw)
+846,1,6/23/2021,Juan Lagares,LAA,SFG,Zack Littell,tied 1-1,0,0,8,8,Out,b10,-2-,0,3(1-1),0,0.02,-0.2,2.53,Bunt Groundout: P-2B/Sacrifice; Suzuki to 3B
+847,2,6/23/2021,Griffin Canning,LAA,SFG,Dominic Leone,down 2-1,-1,0,7,7,Out,b12,-2-,0,2(1-0),0,-0.03,-0.2,4.32,Bunt Groundout: P-2B/Sacrifice (Front of Home); Iglesias to 3B
+848,1,6/23/2021,Alex Avila,WSN,@PHI,Hector Neris,down 12-11,-1,1,6,2,Out,t9,12-,0,2(0-1),0,0.01,-0.09,5.43,Bunt Groundout: P-1B/Sacrifice; Bell to 3B; Harrison to 2B
+849,1,6/27/2021,Jason Castro,HOU,@DET,Gregory Soto,tied 1-1,0,0,9,2,Out,t10,12-,0,2(0-1),0,0.01,-0.09,4.51,Bunt Groundout: P-1B/Sacrifice (Front of Home); Toro to 3B; McCormick to 2B
+850,2,6/27/2021,Robbie Grossman,DET,HOU,Blake Taylor,tied 1-1,0,1,3,7,FC,b10,3,1,1(0-0),1,0.17,0.58,4.7,*WALK-OFF*:*ENDED GAME*:Fielder's Choice /Sacrifice Bunt; Baddoo Scores/unER; Grossman to 1B
+851,1,7/2/2021,Shed Long Jr.,SEA,TEX,Taylor Hearn,tied 4-4,0,1,6,7,Out,b10,-2-,0,1(0-0),0,0.02,-0.18,2.59,Bunt Groundout: 3B-2B/Sacrifice (Short 3B Line); Bauers to 3B
+852,1,7/10/2021,Skye Bolt,OAK,@TEX,Joely Rodríguez,tied 3-3,0,1,8,7,Out,t10,3-Jan,0,1(0-0),0,-0.08,-0.44,4.56,Bunt Groundout: P-1B/Sacrifice; Piscotty to 2B
+853,1,7/17/2021,Jean Segura,PHI,MIA,Yimi García,tied 2-2,0,2,1,4,Out,b10,-2-,0,2(0-1),0,0.02,-0.18,2.57,Bunt Groundout: P-2B/Sacrifice (Front of Home); Jankowski to 3B
+854,1,7/21/2021,Ronald Torreyes,PHI,@NYY,Brooks Kriske,tied 5-5,0,0,8,5,Out,t10,-2-,0,3(1-1),0,-0.02,-0.19,3.94,Bunt Groundout: P-2B/Sacrifice (Front of Home); Miller to 3B
+855,2,7/21/2021,Gleyber Torres,NYY,PHI,Ranger Suárez,tied 5-5,0,1,5,6,Out,b10,-2-,0,3(1-1),0,0.02,-0.19,2.55,Bunt Groundout: P-2B/Sacrifice (Short 1B Line); Sanchez to 3B
+856,1,7/21/2021,Sandy León,MIA,@WSN,Brad Hand,tied 1-1,0,2,7,2,Out,t10,-2-,0,3(1-1),0,-0.02,-0.17,3.94,Bunt Groundout: P-1B/Sacrifice (Weak 2B-1B); Brinson to 3B
+857,1,7/27/2021,Harold Castro,DET,@MIN,Caleb Thielbar,tied 5-5,0,0,9,6,Out,t10,-2-,0,4(1-2),0,-0.02,-0.19,3.94,Bunt Groundout: 3B-2B/Sacrifice; Reyes to 3B
+858,1,7/28/2021,Austin Hays,BAL,MIA,Steven Okert,tied 7-7,0,1,2,9,Out,b9,-2-,0,2(1-0),0,0.02,-0.19,2.54,Bunt Groundout: C-2B/Sacrifice; Mullins to 3B
+859,1,7/28/2021,Hanser Alberto,KCR,CHW,Ryan Burr,tied 2-2,0,1,6,5,Out,b10,-2-,0,1(0-0),0,0.02,-0.2,2.53,Bunt Groundout: 3B-2B/Sacrifice (Short 3B Line); Benintendi to 3B
+860,1,8/3/2021,Ben Gamel,PIT,@MIL,Blaine Hardy,tied 5-5,0,3,4,7,Out,t10,-2-,0,1(0-0),0,-0.02,-0.18,3.94,Bunt Groundout: C-1B/Sacrifice; Hayes to 3B
+861,1,8/13/2021,Santiago Espinal,TOR,@SEA,Drew Steckenrider,tied 2-2,0,0,9,5,Out,t9,12-,0,1(0-0),0,0.02,-0.09,3.73,Bunt Groundout: 1B-2B/Sacrifice (Front of Home); Valera to 3B; Dickerson to 2B
+862,1,8/18/2021,Austin Hedges,CLE,@MIN,Tyler Duffey,tied 7-7,0,0,8,2,Out,t10,12-,0,1(0-0),0,0.01,-0.09,4.51,Bunt Groundout: P-2B/Sacrifice; Miller to 3B; Giménez to 2B
+863,1,8/23/2021,Christian Vázquez,BOS,TEX,Dennis Santana,tied 4-4,0,4,7,2,FC,b11,-2-,0,2(1-0),0,0.12,0.72,2.5,Fielder's Choice /Sacrifice Bunt; Renfroe to 3B; Vázquez to 1B/Adv on E1 (throw)
+864,1,8/25/2021,Lewis Brinson,MIA,WSN,Kyle Finnegan,tied 3-3,0,1,4,7,Out,b10,-2-,0,1(0-0),0,0.02,-0.18,2.57,Bunt Groundout: C-1B/Sacrifice; Sánchez to 3B
+865,1,8/27/2021,Nick Ahmed,ARI,@PHI,Enyel De Los Santos,tied 4-4,0,2,8,6,Out,t10,-2-,0,1(0-0),0,-0.02,-0.18,3.94,Bunt Groundout: 3B-2B/Sacrifice (Short 3B Line); McCarthy to 3B
+866,1,9/2/2021,Rafael Ortega,CHC,PIT,Sam Howard,tied 5-5,0,1,1,8,Out,b11,-2-,0,1(0-0),0,0.02,-0.18,2.57,Bunt Groundout: C-1B/Sacrifice; Alcántara to 3B
+867,1,9/5/2021,Jake McCarthy,ARI,SEA,Yohan Ramirez,tied 3-3,0,0,8,9,Out,b10,-2-,0,2(1-0),0,0.02,-0.18,2.57,Bunt Groundout: C-2B/Sacrifice; Young to 3B
+868,1,9/5/2021,Isan Díaz,MIA,PHI,Ian Kennedy,down 4-3,-1,-1,8,5,Out,b10,-2-,0,2(0-1),0,-0.03,-0.18,4.35,Bunt Groundout: 3B-2B/Sacrifice (Short 3B Line); Jackson to 3B
+869,1,9/8/2021,Magneuris Sierra,MIA,NYM,Edwin Díaz,tied 1-1,0,1,3,8,Out,b10,-2-,0,2(1-0),0,0.02,-0.18,2.57,Bunt Groundout: P-2B/Sacrifice (Front of Home); Chisholm to 3B
+870,1,9/17/2021,Garrett Hampson,COL,@WSN,Kyle Finnegan,tied 8-8,0,1,1,8,Out,t9,12-,0,3(1-1),0,0.02,-0.08,3.75,Bunt Groundout: 3B-2B/Sacrifice (Short 3B Line); Hilliard to 3B; Tapia to 2B
+871,1,9/22/2021,Juan Lagares,LAA,HOU,Yimi García,tied 5-5,0,0,7,9,Out,b11,-2-,0,2(1-0),0,0.02,-0.2,2.53,Bunt Groundout: P-2B/Sacrifice (Short 1B Line); Suzuki to 3B
+872,1,9/23/2021,Ha-Seong Kim,SDP,SFG,Dominic Leone,tied 6-6,0,1,7,5,Out,b10,12-,0,3(1-1),0,0.03,-0.08,3.32,Bunt Groundout: P-2B/Sacrifice (Short 3B Line); Profar to 3B; Grisham to 2B
+873,1,9/26/2021,Tommy Edman,STL,@CHC,Codi Heuer,tied 2-2,0,2,1,4,Out,t9,12-,0,3(1-1),0,0.02,-0.09,3.71,Bunt Groundout: P-2B/Sacrifice; Knizner to 3B; Nootbaar to 2B
+874,1,4/13/2022,Jake McCarthy,ARI,HOU,Ryan Pressly,down 2-1,-1,1,7,9,Out,b10,-2-,0,1(0-0),0,-0.03,-0.17,4.36,Bunt Groundout: 1B-2B/Sacrifice; Alcántara to 3B
+875,1,2022-04-19 (1),Luis Guillorme,NYM,SFG,Camilo Doval,tied 4-4,0,0,7,10,Out,b9,12-,0,2(0-1),0,0.03,-0.08,3.32,Bunt Groundout: C-2B/Sacrifice; Escobar to 3B; Canó to 2B
+876,1,4/23/2022,Trent Grisham,SDP,LAD,Justin Bruihl,tied 2-2,0,1,9,11,Out,b10,-2-,0,1(0-0),0,0.02,-0.16,2.66,Bunt Groundout: P-2B/Sacrifice (Short 1B Line); Abrams to 3B
+877,1,4/30/2022,CJ Abrams,SDP,@PIT,Chris Stratton,tied 5-5,0,1,9,10,Out,t10,-2-,0,2(0-1),0,-0.02,-0.18,3.94,Bunt Groundout: 3B-1B/Sacrifice (Weak 3B); Alfaro to 3B
+878,1,5/8/2022,Dylan Moore,SEA,TBR,Matt Wisler,tied 1-1,0,1,9,6,Out,b10,-2-,0,6(3-2),0,0.02,-0.16,2.66,Bunt Groundout: P-2B/Sacrifice (Front of Home); Kelenic to 3B
+879,1,5/9/2022,Leury Garcia,CHW,CLE,Emmanuel Clase,tied 9-9,0,0,9,4,Out,b10,12-,0,1(0-0),0,0.03,-0.08,3.29,Bunt Groundout: P-2B/Sacrifice; Pollock to 3B; McGuire to 2B
+880,1,5/18/2022,Victor Robles,WSN,@MIA,Daniel Castano,tied 4-4,0,1,5,8,Out,t10,-2-,0,2(1-0),0,-0.02,-0.18,3.94,Bunt Groundout: P-2B/Sacrifice; Strange-Gordon to 3B
+881,1,5/20/2022,Ramón Urías,BAL,TBR,Ralph Garza,tied 6-6,0,2,7,5,Out,b13,-2-,0,1(0-0),0,0.02,-0.17,2.61,Bunt Groundout: 1B-2B/Sacrifice (Short 1B Line); Nevin to 3B
+882,1,5/22/2022,Chris Owings,BAL,TBR,Dusten Knight,tied 6-6,0,1,6,5,Out,b11,-2-,0,1(0-0),0,0.02,-0.17,2.61,Bunt Groundout: 3B-2B/Sacrifice (Short 3B Line); Rutschman to 3B
+883,1,5/29/2022,P.J. Higgins,CHC,@CHW,Reynaldo López,tied 1-1,0,2,8,2,FC,t10,-2-,0,1(0-0),0,0.23,1,3.94,Fielder's Choice /Sacrifice Bunt; Hoerner Scores/No RBI/unER; Higgins to 2B/Adv on E1 (throw)
+884,1,5/29/2022,Tucupita Marcano,PIT,@SDP,Luis García,tied 2-2,0,0,9,7,Out,t10,-2-,0,2(0-1),0,-0.02,-0.16,3.94,Bunt Groundout: P-1B/Sacrifice (Front of Home); Park to 3B
+885,1,6/9/2022,Daulton Varsho,ARI,@CIN,Tony Santillan,down 3-2,-1,2,1,2,Out,t9,12-,0,2(1-0),0,0,-0.1,5.31,Bunt Groundout: P-1B/Sacrifice (Short 1B Line); Thomas to 3B; Perdomo to 2B
+886,1,6/15/2022,Jorge Mateo,BAL,@TOR,Adam Cimber,tied 6-6,0,0,8,6,Out,t10,-2-,0,1(0-0),0,-0.02,-0.17,3.94,Bunt Groundout: P-1B/Sacrifice; Stowers to 3B
+887,1,6/21/2022,Adam Haseley,CHW,TOR,Matt Gage,down 6-5,-1,0,2,10,Out,b11,-2-,0,2(1-0),0,-0.03,-0.18,4.36,Bunt Groundout: 3B-2B/Sacrifice (Short 3B Line); Anderson to 3B
+888,1,6/22/2022,Andrés Giménez,CLE,@MIN,Griffin Jax,tied 10-10,0,1,6,4,Out,t9,-2-,0,1(0-0),0,0,-0.16,2.69,Bunt Groundout: 3B-1B/Sacrifice (Front of Home); Gonzalez to 3B
+889,1,6/26/2022,Isiah Kiner-Falefa,NYY,HOU,Seth Martinez,tied 3-3,0,3,8,6,Out,b10,-2-,0,3(0-2),0,0.02,-0.17,2.62,Bunt Groundout: P-2B/Sacrifice; Hicks to 3B
+890,1,7/8/2022,Nick Senzel,CIN,TBR,Matt Wisler,tied 1-1,0,1,7,8,Out,b10,-2-,0,2(1-0),0,0.02,-0.2,2.52,Bunt Groundout: 3B-2B/Sacrifice (Weak 3B); Kolozsvary to 3B
+891,1,7/10/2022,Victor Robles,WSN,@ATL,Jesse Chavez,tied 3-3,0,0,9,8,Out,t10,-2-,0,1(0-0),0,-0.02,-0.18,3.94,Bunt Groundout: C-2B/Sacrifice; Escobar to 3B
+892,1,7/16/2022,Brett Phillips,TBR,BAL,Jorge López,down 4-3,-1,0,3,8,Out,b10,-2-,0,2(1-0),0,-0.03,-0.16,4.39,Bunt Groundout: C-2B/Sacrifice; Lowe to 3B
+893,1,7/26/2022,Adam Frazier,SEA,TEX,Brett Martin,tied 4-4,0,1,9,7,Out,b9,-2-,0,1(0-0),0,0.02,-0.16,2.66,Bunt Groundout: P-1B/Sacrifice (Front of Home); Raleigh to 3B
+894,1,7/27/2022,Tomás Nido,NYM,NYY,Wandy Peralta,tied 2-2,0,1,9,2,Out,b9,-2-,0,2(0-1),0,0.02,-0.17,2.62,Bunt Groundout: C-2B/Sacrifice; Escobar to 3B
+895,1,7/30/2022,Josh Harrison,CHW,OAK,Zach Jackson,tied 2-2,0,1,9,4,Out,b9,-2-,0,2(1-0),0,0.02,-0.18,2.6,Bunt Groundout: C-2B/Sacrifice; Engel to 3B
+896,1,8/1/2022,Daulton Varsho,ARI,@CLE,Sam Hentges,tied 5-5,0,0,5,9,Out,t11,-2-,0,2(0-1),0,-0.02,-0.16,3.94,Bunt Groundout: P-1B/Sacrifice (P's Left); Walker to 3B
+897,2,8/1/2022,Austin Hedges,CLE,ARI,Mark Melancon,tied 5-5,0,1,8,2,Out,b11,-2-,0,1(0-0),0,0.02,-0.16,2.64,Bunt Groundout: C-2B/Sacrifice; Benson to 3B
+898,1,8/4/2022,Hunter Renfroe,MIL,@PIT,Colin Holderman,tied 3-3,0,0,6,9,Out,t9,-2-,0,1(0-0),0,0,-0.18,2.65,Bunt Groundout: 1B unassisted/Sacrifice (Short 1B Line); Wong to 3B
+899,1,8/5/2022,Andrew Velazquez,LAA,@SEA,Paul Sewald,tied 3-3,0,1,9,6,Out,t10,-2-,0,3(0-2),0,-0.02,-0.16,3.94,Bunt Groundout: P-1B/Sacrifice; Sierra to 3B
+900,1,8/9/2022,J.P. Crawford,SEA,NYY,Wandy Peralta,tied 0-0,0,0,7,6,Out,b11,-2-,0,3(2-0),0,0.02,-0.16,2.66,Bunt Groundout: 3B-2B/Sacrifice (Short 3B Line); Raleigh to 3B
+901,1,8/10/2022,Cal Stevenson,OAK,LAA,Jaime Barria,down 4-3,-1,0,9,8,Out,b10,-2-,0,1(0-0),0,-0.03,-0.16,4.38,Bunt Groundout: P-1B/Sacrifice (Front of Home); Bolt to 3B
+902,1,8/13/2022,David Fletcher,LAA,MIN,Emilio Pagán,tied 3-3,0,0,1,4,Out,b10,-2-,0,2(1-0),0,0.02,-0.17,2.61,Bunt Groundout: 3B-2B/Sacrifice; Sierra to 3B
+903,1,8/16/2022,Austin Hedges,CLE,DET,Gregory Soto,down 4-3,-1,-1,8,2,Out,b9,-2-,0,1(0-0),0,-0.03,-0.16,4.38,Bunt Groundout: P-1B/Sacrifice (Short 3B Line); Freeman to 3B
+904,1,8/19/2022,Nicky Lopez,KCR,@TBR,Jalen Beeks,tied 2-2,0,1,8,6,Out,t10,-2-,0,2(1-0),0,-0.02,-0.16,3.94,Bunt Groundout: 3B-2B/Sacrifice (Front of Home); Taylor to 3B
+905,1,8/20/2022,P.J. Higgins,CHC,MIL,Peter Strzelecki,tied 5-5,0,1,8,3,Out,b11,-2-,0,1(0-0),0,0.02,-0.18,2.59,Bunt Groundout: P-2B/Sacrifice (Short 1B Line); Wisdom to 3B
+906,1,8/21/2022,LaMonte Wade Jr.,SFG,@COL,Jake Bird,tied 8-8,0,1,1,9,Out,t11,-2-,0,1(0-0),0,-0.02,-0.21,3.94,Bunt Groundout: P-1B/Sacrifice; Yastrzemski to 3B
+907,1,8/26/2022,J.P. Crawford,SEA,CLE,Trevor Stephan,tied 2-2,0,0,8,6,Out,b10,-2-,0,2(1-0),0,0.02,-0.16,2.66,Bunt Groundout: P-2B/Sacrifice (Front of Home); Raleigh to 3B
+908,1,8/27/2022,Nick Gordon,MIN,SFG,Dominic Leone,tied 2-2,0,1,5,4,Out,b10,-2-,0,1(0-0),0,0.02,-0.16,2.64,Bunt Groundout: P-2B/Sacrifice (Front of Home); Hamilton to 3B
+909,1,8/31/2022,Kyle Farmer,CIN,STL,Andre Pallante,tied 2-2,0,0,3,5,Out,b12,-2-,0,1(0-0),0,0.02,-0.2,2.52,Bunt Groundout: P-1B/Sacrifice (Front of Home); Romine to 3B
+910,1,9/7/2022,Mauricio Dubón,HOU,TEX,Jonathan Hernández,tied 3-3,0,1,9,8,Out,b10,-2-,0,3(1-1),0,0.02,-0.17,2.62,Bunt Groundout: P-2B/Sacrifice; Vázquez to 3B
+911,1,9/15/2022,Michael Massey,KCR,@MIN,Jhoan Duran,down 3-2,-1,-1,5,4,Out,t9,12-,0,1(0-0),0,0.01,-0.08,5.57,Bunt Groundout: 3B-2B/Sacrifice; Eaton to 3B; Waters to 2B
+912,1,9/16/2022,Willi Castro,DET,CHW,Liam Hendriks,tied 2-2,0,1,9,9,FC,b10,-2-,0,2(1-0),0,0.13,0.73,2.65,Fielder's Choice /Sacrifice Bunt; Kreidler to 3B; Castro to 1B/Adv on E1 (throw)
+913,1,9/16/2022,Isiah Kiner-Falefa,NYY,@MIL,Taylor Rogers,tied 6-6,0,0,6,6,Out,t9,-2-,0,1(0-0),0,0,-0.17,2.66,Bunt Groundout: P-2B/Sacrifice (Front of Home); Cabrera to 3B
+914,1,9/17/2022,Ryan Kreidler,DET,CHW,Liam Hendriks,tied 2-2,0,0,7,6,Out,b10,-2-,0,3(1-1),0,0.02,-0.16,2.65,Bunt Groundout: 3B-2B/Sacrifice (Weak 3B); Castro to 3B
+915,1,2022-09-17 (2),Austin Hedges,CLE,MIN,Dereck Rodríguez,down 6-5,-1,0,9,2,Out,b13,-2-,0,2(1-0),0,-0.03,-0.16,4.38,Bunt Groundout: C-2B/Sacrifice; Clement to 3B
+916,2,2022-09-17 (2),Ernie Clement,CLE,MIN,Dereck Rodríguez,tied 6-6,0,1,8,5,Out,b15,-2-,0,1(0-0),0,0.02,-0.16,2.64,Bunt Groundout: 3B-2B/Sacrifice (Weak 3B); Straw to 3B
+917,1,2022-09-17 (2),Ben DeLuzio,STL,CIN,Alexis Díaz,tied 0-0,0,0,6,8,Out,b10,-2-,0,1(0-0),0,0.02,-0.17,2.63,Bunt Groundout: P-2B/Sacrifice; Dickerson to 3B
+918,1,9/18/2022,Austin Barnes,LAD,@SFG,John Brebbia,tied 2-2,0,2,9,2,Out,t10,-2-,0,2(1-0),0,-0.02,-0.18,3.94,Bunt Groundout: 3B-2B/Sacrifice; Bellinger to 3B
+919,1,9/21/2022,Bryson Stott,PHI,TOR,Adam Cimber,tied 3-3,0,1,6,6,Out,b10,-2-,0,3(1-1),0,0.02,-0.18,2.59,Bunt Groundout: 3B-2B/Sacrifice (Short 3B Line); Munoz to 3B
+920,1,9/27/2022,Tucker Barnhart,DET,KCR,Anthony Misiewicz,tied 3-3,0,1,8,2,Out,b10,-2-,0,2(0-1),0,0.02,-0.16,2.65,Bunt Groundout: 3B-2B/Sacrifice (Front of Home); Kreidler to 3B
+921,1,9/27/2022,Ha-Seong Kim,SDP,LAD,Craig Kimbrel,tied 3-3,0,1,1,6,Out,b10,-2-,0,1(0-0),0,0.02,-0.16,2.66,Bunt Groundout: 1B-2B/Sacrifice; Azocar to 3B
+922,1,9/28/2022,Gabriel Arias,CLE,TBR,Javy Guerra,tied 1-1,0,1,7,5,Out,b10,12-,0,1(0-0),0,0.03,-0.08,3.34,Bunt Groundout: P-2B/Sacrifice; Gonzalez to 3B; Giménez to 2B
+923,1,9/28/2022,Victor Robles,WSN,ATL,Jackson Stephens,tied 2-2,0,1,8,8,Out,b10,-2-,0,3(0-2),0,0.02,-0.16,2.64,Bunt Groundout: P-2B/Sacrifice (Front of Home); Call to 3B
+924,1,9/29/2022,Josh H. Smith,TEX,@SEA,Chris Flexen,tied 8-8,0,1,9,6,Out,t11,-2-,0,3(1-1),0,-0.02,-0.16,3.94,Bunt Groundout: 3B-1B/Sacrifice (Weak 3B); Taveras to 3B
+925,1,10/2/2022,Victor Caratini,MIL,MIA,Tommy Nance,down 3-2,-1,0,9,2,Out,b10,12-,0,2(1-0),0,0.02,-0.08,6.15,Bunt Groundout: 1B-2B/Sacrifice; Urías to 3B; Taylor to 2B
+926,2,10/2/2022,Hunter Renfroe,MIL,MIA,Huascar Brazoban,tied 3-3,0,0,4,9,Out,b11,-2-,0,1(0-0),0,0.02,-0.17,2.61,Bunt Groundout: P unassisted/Sacrifice (Short 1B Line); Hiura to 3B
+927,1,10/3/2022,Geraldo Perdomo,ARI,@MIL,Brad Boxberger,tied 4-4,0,1,9,6,Out,t10,-2-,0,1(0-0),0,-0.02,-0.17,3.94,Bunt Groundout: C-1B/Sacrifice; Hummel to 3B
+928,1,10/3/2022,Cristian Pache,OAK,LAA,Zack Weiss,tied 4-4,0,1,8,8,Out,b10,-2-,0,3(2-0),0,0.02,-0.16,2.65,Bunt Groundout: 3B-2B/Sacrifice (Short 3B Line); Bride to 3B
+929,1,10/4/2022,Max Stassi,LAA,@OAK,A.J. Puk,tied 1-1,0,0,9,2,Out,t10,-2-,0,2(1-0),0,-0.02,-0.16,3.94,Bunt Groundout: P-2B/Sacrifice (Short 3B Line); Fletcher to 3B
