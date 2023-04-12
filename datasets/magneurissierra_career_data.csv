@@ -1,0 +1,17 @@
+Cr#,Yr#,Gm#,Date,Tm,Opp,Pitcher,Score,StSc,InnSc,Rslt,BOP,Pos,Event,SH?,Inn,RoB,Out,Pit(cnt),RBI,WPA,RE24,LI,Play Description
+1,1,1,7/17/2017,STL,@NYM,Zack Wheeler,ahead 1-2,1,5,W 6-3,8,9,Out,F,t6,1--,0,1(0-0),0,-0.04,-0.35,1.53,Bunt Groundout: P-SS/Forceout at 2B
+2,2,1,8/6/2018,MIA,STL,Tyler Webb,ahead 0-2,2,2,W 2-1,8,8,Out,F,b7,1--,0,1(0-0),0,-0.01,-0.34,0.58,Bunt Popfly: P (Front of Home)
+3,3,1,8/11/2018,MIA,NYM,Jacob Rhame,tied 3-3,0,1,W 4-3,8,8,Out/SH,T,b11,1--,0,1(0-0),0,-0.01,-0.18,3.22,Bunt Groundout: 1B-2B/Sacrifice (Weak 1B); Rojas to 2B
+4,4,1,8/18/2018,MIA,@WSN,Justin Miller,ahead 4-5,1,1,W 7-5,9,8,Out,F,t9,1--,0,1(0-0),0,-0.02,-0.36,1.01,Bunt Popfly: 3B (Front of Home)
+5,5,1,8/21/2018,MIA,NYY,Dellin Betances,tied 1-1,0,0,L 1-2,8,8,Out/SH,T,b8,1--,0,1(0-0),0,-0.02,-0.18,2.74,Bunt Groundout: P-2B/Sacrifice (Front of Home); Riddle to 2B
+6,6,1,8/25/2018,MIA,ATL,Chad Sobotka,ahead 0-1,1,3,W 3-1,8,8,Out/SH,T,b7,1--,0,1(0-0),0,-0.01,-0.18,1.11,Bunt Groundout: C-2B/Sacrifice; Rojas to 2B
+7,7,1,9/21/2018,MIA,CIN,Luis Castillo,tied 0-0,0,0,W 1-0,8,8,Out,F,b8,1--,0,1(0-0),0,-0.14,-0.73,2.74,Double Play: Bunt Groundout: P-SS-1B/Interference by Runner/Forceout at 2B (Front of Home)
+8,8,1,9/16/2019,MIA,@ARI,Andrew Chafin,down 3-2,-1,2,L 5-7,9,11,1B,F,t7,12-,0,1(0-0),0,0.24,1.49,3.44,Single to P/Bunt (Bunt to Front of Home); Brinson Scores/Adv on E1 (throw)/No RBI; Dean to 3B; Sierra to 2B
+9,9,1,8/14/2020,MIA,ATL,Grant Dayton,tied 2-2,0,2,W 8-2,9,8,Out/SH,T,b4,3-Jan,0,2(0-1),1,-0.01,-0.18,1.63,Bunt Groundout: P-2B/Sacrifice (Weak 1B); Alvarez Scores; Berti to 2B
+10,10,1,9/26/2020,MIA,@NYY,Deivi García,ahead 0-1,1,3,L 4-11,1,7,Out/SH,T,t3,-2-,0,1(0-0),0,-0.01,-0.19,1.16,Bunt Groundout: P-1B/Sacrifice (Front of Home); Rojas to 3B
+11,11,1,4/5/2021,MIA,STL,Daniel Ponce de Leon,down 4-0,-4,-3,L 1-4,9,11,1B,F,b5,1--,0,1(0-0),0,0.06,0.61,1.36,Single to 3B (Bunt to Weak 3B); Berti to 2B
+12,12,1,9/8/2021,MIA,NYM,Edwin Díaz,tied 1-1,0,1,W 2-1,3,8,Out/SH,T,b10,-2-,0,2(1-0),0,0.02,-0.18,2.57,Bunt Groundout: P-2B/Sacrifice (Front of Home); Chisholm to 3B
+13,13,1,7/26/2022,LAA,@KCR,Angel Zerpa,ahead 0-1,1,2,W 6-0,8,8,1B,F,t5,1--,0,2(0-1),0,0.09,0.96,1.5,Single to P (Bunt to Weak 1B); Gosselin to 3B/Adv on E1
+14,14,1,8/24/2022,LAA,@TBR,Ryan Thompson,tied 0-0,0,0,L 3-4,6,11,Out/SH,T,t7,1--,0,3(1-1),0,-0.02,-0.18,2.48,Bunt Groundout: P-2B/Sacrifice (Short 1B Line); Ward to 2B
+15,15,1,9/6/2022,LAA,DET,Andrew Chafin,tied 4-4,0,1,W 5-4,9,7,1B,F,b10,3-Jan,1,1(0-0),1,0.18,0.72,5.31,*WALK-OFF*:*ENDED GAME*:Single to P (Bunt to Short 1B Line); Velazquez Scores/unER; Wallach to 2B
+16,16,1,9/16/2022,LAA,SEA,Matthew Boyd,ahead 6-8,2,2,W 8-7,6,7,Out,F,b7,12-,0,1(0-0),0,-0.02,-0.58,0.7,Bunt Popfly: P

@@ -1,0 +1,25 @@
+Cr#,Yr#,Gm#,Date,Tm,Opp,Pitcher,Score,StSc,InnSc,Rslt,BOP,Pos,Event,SH?,Inn,RoB,Out,Pit(cnt),RBI,WPA,RE24,LI,Play Description
+1,1,1,2014-09-25 (2),WSN,NYM,Gonzalez Germen,ahead 0-3,3,3,W 3-0,7,8,SO,F,b8,12-,0,5(2-2),0,-0.01,-0.57,0.2,Strikeout (foul bunt)
+2,2,1,6/4/2015,WSN,CHC,Justin Grimm,down 2-1,-1,-1,L 1-2,8,7,1B,F,b7,1--,0,4(1-2),0,0.11,0.6,3.15,Single to 1B (Bunt Line Drive to Short 1B Line); Lobatón to 2B
+3,3,1,6/16/2015,WSN,@TBR,Alex Colomé,ahead 0-1,1,6,W 16-4,8,7,1B,F,t2,1--,0,1(0-0),0,0.05,0.6,1.35,Single to P/Bunt; Espinosa to 2B
+4,4,1,6/24/2015,WSN,ATL,Jim Johnson,ahead 0-1,1,1,W 2-1,8,7,Out/SH,T,b8,1--,0,1(0-0),0,-0.01,-0.19,0.78,Bunt Groundout: 3B-1B/Sacrifice (Short 3B Line); Desmond to 2B
+5,5,1,6/26/2015,WSN,@PHI,Aaron Harang,ahead 0-1,1,3,W 5-2,1,8,1B,F,t5,-2-,0,3(1-1),0,0.07,0.73,1.27,Single to 3B/Bunt (Bunt to Weak 3B); Scherzer to 3B
+6,6,1,4/24/2016,WSN,MIN,Casey Fien,tied 1-1,0,0,W 6-5,2,8,1B,F,b5,1--,0,1(0-0),0,0.07,0.61,1.87,Single to 3B/Bunt (Bunt to Front of Home); denDekker to 2B
+7,7,1,2017-05-14 (1),WSN,PHI,Hector Neris,down 4-3,-1,-1,L 3-4,8,8,Out,F,b9,1--,0,1(0-0),0,-0.13,-0.37,5.4,Foul Bunt Popfly: C (Behind Home)
+8,8,1,7/2/2017,WSN,@STL,Carlos Martinez,tied 0-0,0,2,W 7-2,2,8,Out/SH,T,t1,-2-,0,1(0-0),0,-0.01,-0.18,1.21,Bunt Groundout: 3B-1B/Sacrifice (Front of Home); Goodwin to 3B
+9,9,1,7/4/2017,WSN,NYM,Seth Lugo,down 1-0,-1,1,W 11-4,1,8,1B,F,b3,1--,1,3(1-1),0,0.04,0.39,1.42,Single to 3B/Bunt (Bunt to Short 3B Line); Lobatón to 2B
+10,10,1,4/14/2018,WSN,COL,Jon Gray,tied 2-2,0,3,W 6-2,6,8,1B,F,b6,3-Jan,1,1(0-0),1,0.1,0.73,2.77,Single to 1B/Bunt (Bunt to Weak 1B); Harper Scores; Wieters to 2B
+11,11,1,5/8/2018,WSN,@SDP,Clayton Richard,ahead 0-2,2,2,W 4-0,9,8,Out/SH,T,t5,1--,1,1(0-0),0,-0.01,-0.18,0.86,Bunt Groundout: 3B-1B/Sacrifice (Weak 3B); Severino to 2B
+12,12,1,6/28/2018,WSN,@PHI,Aaron Nola,tied 0-0,0,1,L 3-4,6,8,Out/SH,T,t2,1--,0,1(0-0),0,-0.02,-0.2,1.54,Bunt Groundout: 3B-1B/Sacrifice (Short 3B Line); Turner to 2B
+13,13,1,4/27/2019,WSN,SDP,Adam Warren,tied 2-2,0,0,L 3-8,8,11,Out/SH,T,b7,12-,0,1(0-0),0,0.01,-0.1,2.56,Bunt Groundout: C-2B/Sacrifice; Gomes to 3B; Dozier to 2B
+14,14,1,6/21/2019,WSN,ATL,Dallas Keuchel,down 3-1,-2,0,W 4-3,7,8,Out/SH,T,b4,3,0,3(1-1),1,-0.02,-0.18,1.45,Bunt Groundout: P-1B/Sacrifice; Robles Scores
+15,15,1,2020-09-04 (2),WSN,@ATL,Patrick Weigel,ahead 7-9,2,3,W 10-9,8,9,1B,F,t7,3-Jan,1,2(0-1),1,0.03,0.73,0.72,Single to 3B (Bunt to Weak 3B); Thames Scores; García to 2B
+16,16,1,9/11/2020,WSN,ATL,Mark Melancon,tied 7-7,0,0,W 8-7,5,7,Out,F,b10,-2-,0,3(0-2),0,-0.11,-0.46,2.52,Bunt Popfly: P (Front of Home)
+17,17,1,4/20/2021,KCR,TBR,Rich Hill,down 5-0,-5,-1,L 7-14,8,8,1B,F,b3,1--,0,2(0-1),0,0.07,1.1,1.06,Single to P (Bunt to Short 3B Line); Benintendi to 3B/Adv on E1 (throw); Taylor to 2B
+18,18,1,8/16/2021,KCR,HOU,Jake Odorizzi,tied 1-1,0,1,W 7-6,7,8,Out/SH,T,b2,-2-,0,1(0-0),0,-0.02,-0.2,1.23,Bunt Groundout: 3B-1B/Sacrifice (Short 3B Line); O'Hearn to 3B
+19,19,1,8/26/2021,KCR,@SEA,Yusei Kikuchi,down 1-0,-1,-1,W 6-4,6,8,Out/SH,T,t2,1--,1,2(0-1),0,-0.02,-0.2,1.28,Bunt Groundout: 3B-1B/Sacrifice (Weak 3B); Dozier to 2B
+20,20,1,6/19/2022,KCR,@OAK,Jared Koenig,down 1-0,-1,-1,L 0-4,8,8,Out/SH,T,t3,1--,0,1(0-0),0,-0.02,-0.18,1.8,Bunt Groundout: 3B-1B/Sacrifice (Short 3B Line); Melendez to 2B
+21,21,1,7/9/2022,KCR,CLE,Triston McKenzie,down 6-0,-6,-6,L 1-13,8,8,Out,F,b3,1--,0,1(0-0),0,-0.03,-0.77,0.74,Double Play: Bunt Popfly: P (Front of Home); Olivares out at 1B/P-1B
+22,22,1,10/3/2022,KCR,@CLE,Triston McKenzie,tied 0-0,0,1,W 5-2,7,8,Out/SH,T,t2,3-Jan,1,2(0-1),0,-0.06,-0.57,2.03,Bunt Groundout: P-1B/Sacrifice (Short 1B Line); Massey to 2B
+23,23,1,4/10/2023,MIN,CHW,Dylan Cease,tied 0-0,0,1,L 3-4,9,8,Out,F,b3,1--,0,1(0-0),0,-0.04,-0.34,1.65,Bunt Groundout: P-SS/Forceout at 2B; Taylor to 1B
+24,24,1,4/11/2023,MIN,CHW,Jesse Scholtens,tied 3-3,0,1,W 4-3,9,8,1B,F,b10,-2-,0,1(0-0),0,0.2,0.76,2.64,*WALK-OFF*:*ENDED GAME*:Single to 3B (Bunt); Castro Scores/Adv on E5 (throw)/No RBI/unER

@@ -1,0 +1,14 @@
+Cr#,Yr#,Gm#,Date,Tm,Opp,Pitcher,Score,StSc,InnSc,Rslt,BOP,Pos,Event,SH?,Inn,RoB,Out,Pit(cnt),RBI,WPA,RE24,LI,Play Description
+1,1,1,5/4/2017,COL,@SDP,Brad Hand,tied 2-2,0,0,W 3-2,9,11,Out,F,t10,1--,0,1(0-0),0,-0.08,-0.36,3.44,Foul Bunt Popfly: 1B (1B into Foul Terr.)
+2,2,1,5/16/2017,COL,@MIN,Phil Hughes,tied 0-0,0,2,W 7-3,8,6,Out/SH,T,t2,12-,0,4(2-1),0,-0.01,-0.1,1.93,Bunt Groundout: P-2B/Sacrifice (Front of Home); Desmond to 3B; Parra to 2B
+3,3,1,5/22/2017,COL,@PHI,Joely Rodríguez,ahead 1-4,3,7,W 8-1,9,11,Out/SH,T,t9,12-,0,1(0-0),0,0,-0.09,0.23,Bunt Groundout: C-2B/Sacrifice (Front of Home); Amarista to 3B; Wolters to 2B
+4,4,1,7/25/2017,COL,@STL,Trevor Rosenthal,tied 2-2,0,0,L 2-3,9,11,Out/SH,T,t8,1--,0,1(0-0),0,-0.02,-0.21,2.82,Bunt Groundout: 1B-2B/Sacrifice (Short 1B Line); Hanigan to 2B
+5,5,1,8/3/2017,COL,NYM,Hansel Robles,tied 4-4,0,1,W 5-4,9,11,Out/SH,T,b9,1--,0,2(0-1),0,-0.02,-0.25,3.1,Bunt Groundout: 1B-2B/Sacrifice (Short 1B Line); Lucroy to 2B
+6,6,1,9/9/2017,COL,@LAD,Tony Watson,ahead 4-5,1,1,W 6-5,9,11,Out/SH,T,t8,1--,0,1(0-0),0,-0.01,-0.2,1.38,Bunt Groundout: C-2B/Sacrifice (Short 1B Line); Lucroy to 2B
+7,7,1,4/21/2018,COL,CHC,Pedro Strop,ahead 2-5,3,3,W 5-2,9,11,Out,F,b6,12-,0,1(0-0),0,-0.02,-0.61,0.58,Bunt Groundout: 1B-3B/Forceout at 3B; Wolters to 2B
+8,8,1,4/27/2018,COL,@MIA,Nick Wittgren,ahead 0-1,1,1,W 1-0,1,4,Out/SH,T,t8,1--,0,1(0-0),0,-0.01,-0.18,1.33,Bunt Groundout: 1B-2B/Sacrifice (Short 1B Line); McMahon to 2B
+9,9,1,8/5/2018,COL,@MIL,Wade Miley,tied 0-0,0,0,W 5-4,7,3,Out/SH,T,t2,12-,0,1(0-0),0,0,-0.09,1.99,Bunt Groundout: P-1B/Sacrifice (Short 1B Line); González to 3B; Desmond to 2B
+10,10,1,8/23/2020,BAL,BOS,Robert Stock,ahead 2-3,1,3,W 5-4,6,4,Out/SH,T,b7,12-,0,1(0-0),0,0,-0.1,1.34,Bunt Groundout: 1B-2B/Sacrifice (Short 1B Line); Holaday to 3B; Sisco to 2B
+11,11,1,9/13/2020,BAL,@NYY,J.A. Happ,ahead 0-1,1,1,L 1-3,7,6,Out,F,t2,-2-,0,1(0-0),0,-0.04,-0.45,1.12,Bunt Popfly: P (P's Right)
+12,12,1,4/29/2021,BAL,NYY,Jonathan Loáisiga,tied 3-3,0,1,W 4-3,9,4,Out/SH,T,b10,-2-,0,2(0-1),0,0.02,-0.19,2.54,Bunt Groundout: C-2B/Sacrifice; Urías to 3B
+13,13,1,7/2/2021,BAL,@LAA,Mike Mayers,tied 7-7,0,0,L 7-8,9,4,Out,F,t8,12-,0,2(1-0),0,-0.1,-0.6,3.14,Foul Bunt Popfly: C (Behind Home)

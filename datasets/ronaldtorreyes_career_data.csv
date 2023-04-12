@@ -1,0 +1,19 @@
+Cr#,Yr#,Gm#,Date,Tm,Opp,Pitcher,Score,StSc,InnSc,Rslt,BOP,Pos,Event,SH?,Inn,RoB,Out,Pit(cnt),RBI,WPA,RE24,LI,Play Description
+1,1,1,9/23/2015,LAD,ARI,David Hernandez,tied 1-1,0,3,W 4-1,9,11,Out/SH,T,b8,1--,0,1(0-0),0,-0.02,-0.18,2.76,Bunt Groundout: 1B-2B/Sacrifice (Weak 2B-1B); Rollins to 2B
+2,2,1,9/4/2016,NYY,@BAL,Oliver Drake,ahead 2-4,2,3,W 5-2,9,6,Out/SH,T,t9,-2-,0,3(1-1),0,0,-0.19,0.36,Bunt Groundout: P-2B/Sacrifice; Austin to 3B
+3,3,1,5/7/2017,NYY,@CHC,Pedro Strop,tied 4-4,0,1,W 5-4,3,5,Out/SH,T,t18,-2-,0,1(0-0),0,0,-0.2,2.6,Bunt Groundout: P-2B/Sacrifice (Front of Home); Hicks to 3B
+4,4,1,7/3/2017,NYY,TOR,Marcus Stroman,ahead 0-2,2,2,W 6-3,7,4,Out,F,b4,12-,0,1(0-0),0,-0.03,-0.6,1.14,Bunt Groundout: P-3B/Forceout at 3B (Weak 2B-1B); Ellsbury to 2B
+5,5,1,7/15/2017,NYY,@BOS,Blaine Boyer,tied 1-1,0,0,W 4-1,9,4,Out,F,t12,1--,0,3(0-2),0,-0.19,-0.83,3.41,Ground Ball Double Play: Bunt 3B-SS-2B (Short 3B Line)
+6,6,2,7/15/2017,NYY,@BOS,Doug Fister,ahead 1-3,2,3,W 4-1,9,4,Out/SH,T,t16,12-,0,2(0-1),0,0,-0.11,0.56,Bunt Groundout: 1B-2B/Sacrifice (Short 1B Line); Gregorius to 3B; Romine to 2B
+7,7,1,7/27/2017,NYY,TBR,Andrew Kittredge,tied 5-5,0,0,W 6-5,7,4,Out/SH,T,b10,1--,0,3(1-1),0,-0.01,-0.22,3.15,Bunt Groundout: 1B-2B/Sacrifice; Headley to 2B
+8,8,1,7/29/2017,NYY,TBR,Brad Boxberger,tied 4-4,0,1,W 5-4,9,4,1B,F,b9,12-,0,4(2-1),0,0.12,0.84,3.16,Single to 3B/Bunt (Bunt to Weak 3B); Ellsbury to 3B; Frazier to 2B
+9,9,1,8/13/2017,NYY,BOS,Addison Reed,tied 2-2,0,0,L 2-3,8,4,Out/SH,T,b9,1--,0,1(0-0),0,-0.01,-0.22,3.15,Bunt Groundout: 1B-2B/Sacrifice (Weak 1B); Headley to 2B
+10,10,1,8/19/2017,NYY,@BOS,Heath Hembree,ahead 3-4,1,1,W 4-3,9,4,Out/SH,T,t9,-2-,0,2(1-0),0,0,-0.2,0.83,Bunt Groundout: 1B-2B/Sacrifice; Ellsbury to 3B
+11,11,1,5/23/2021,PHI,BOS,Phillips Valdez,ahead 1-4,3,5,W 6-2,8,6,Out/SH,T,b8,12-,0,4(2-1),0,0,-0.09,0,Bunt Groundout: P-1B/Sacrifice (Short 1B Line); Miller to 3B; Knapp to 2B
+12,12,1,2021-06-25 (1),PHI,@NYM,Miguel Castro,ahead 0-1,1,1,L 1-2,7,6,Out,F,t7,1--,0,1(0-0),0,-0.02,-0.36,0.98,Bunt Groundout: P-SS/Forceout at 2B (Front of Home); Torreyes to 1B
+13,13,1,7/21/2021,PHI,@NYY,Brooks Kriske,tied 5-5,0,0,L 5-6,8,5,Out/SH,T,t10,-2-,0,3(1-1),0,-0.02,-0.19,3.94,Bunt Groundout: P-2B/Sacrifice (Front of Home); Miller to 3B
+14,14,1,7/26/2021,PHI,WSN,Austin Voth,down 4-3,-1,-1,W 6-5,7,5,Out/SH,T,b6,1--,0,2(1-0),0,-0.03,-0.21,2.55,Bunt Groundout: P-1B/Sacrifice (Short 1B Line); Gregorius to 2B
+15,15,1,8/14/2021,PHI,CIN,Luis Castillo,ahead 0-2,2,3,W 6-1,7,5,1B,F,b7,1--,1,1(0-0),0,0.02,0.39,0.55,Single to 3B (Bunt to Short 3B Line); Miller to 2B
+16,16,1,8/27/2021,PHI,ARI,Taylor Clarke,tied 6-6,0,1,W 7-6,9,11,FC,F,b11,-2-,0,2(0-1),0,-0.18,-0.6,2.57,Fielder's Choice ; Jankowski out at 3B/P-3B; Torreyes to 1B
+17,17,1,9/12/2021,PHI,COL,Carlos Estévez,down 5-4,-1,-1,L 4-5,8,11,Out/SH,T,b9,1--,0,1(0-0),0,-0.05,-0.21,5.4,Bunt Groundout: P-1B/Sacrifice (Short 1B Line); Galvis to 2B
+18,18,1,9/21/2021,PHI,BAL,Dillon Tate,tied 1-1,0,0,W 3-2,9,6,Out/SH,T,b7,1--,0,2(1-0),0,-0.02,-0.21,2.32,Bunt Groundout: 1B-2B/Sacrifice (Short 1B Line); Galvis to 2B
